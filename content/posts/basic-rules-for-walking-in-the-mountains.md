@@ -72,7 +72,7 @@ When the really cold weather hits, you may find you have to inflate your tires b
 
 I usually have to do this a few times during winter. I recommend that you get a portable air compressor. You can <a href="https://www.amazon.com/gp/product/B01L9WSTEG/" target="blank">get one from Amazon for $35</a>.
 
-![portable air compressor](/images/portable-air-compressor.png "portable air compressor")
+![portable air compressor](https://res.cloudinary.com/icecloud7/image/upload/w_350,f_auto,q_auto/v1570432276/ruralnh/portable-air-compressor_qgd9xb.png" "portable air compressor")
 
 There are 2 reasons you'll be glad you did. 
 
