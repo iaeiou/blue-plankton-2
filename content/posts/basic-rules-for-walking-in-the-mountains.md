@@ -8,17 +8,32 @@ layout: post
 ---
 Typically, the northern part of New Hampshire sees colder temperatures and greater snowfall during winter than the southern counties. That said, I've experienced temperatures as low as -20 °F on multiple - but rare - occasions in Monadnock and Cheshire counties. 
 
-One of my first questions I had before moving up to New Hampshire was "Is my Hyundai enough to make it in the snow?" Carla Gericke assured me that it was. I suppose I was envisioning a need for something like a Snowcat to get around. 
+One of my first questions I had before moving up to New Hampshire was "Is my Hyundai enough to make it in the snow?" Carla Gericke assured me that it was. And she was right. I suppose I was  imagining needing a four-wheel drive or something rugged. 
 
-I made the move and settled on Crotched Mountain in Bennington, New Hampshire. I arrived about a month and half before winter. Before moving up I had a blast researching how to prepare my car for winter. I hope you'll find this information useful. 
+I made the move and settled on Crotched Mountain in Bennington, New Hampshire. I arrived about a month and half before winter. Before moving up I had fun researching tips on how to prepare my vehicle for winter. I hope you'll find this information useful. 
+
+## Engine Checks to Do Before Snow Falls
+
+You can spend between $10-$15 to get some simple automotive tools from Amazon that will help you prepare for winter. 
+
+### Checking Your Brake Fluid and Radiator Fluid
+
+I use: 
+
+* A brake fluid tester 
+* A hydrometer
+
+The brake fluid tester is a pen-like device: remove the cap, and stick the protruding metal pins into your brake fluid reservoir. You'll get an instant readout of whether your fluid needs to be changed. 
+
+Next, take the hydrometer and use it to extract some radiator fluid out of the reservoir. The gauge on the hydrometer will tell you if your radiator fluid is due for a change. 
+
+### Sprucing Your Battery Up
+
+I should note here that I've never had my car battery fail in winter here, but it has ailed on occassion during heat waves. (Tip: During a heat wave, don't park your car, running the AC full blast, with laptop and other devices plugged for an extended period of time.)
+
+For winter, I clean my battery terminals and lubricate them to sustain a better connection. I also place felt washers around the base of the terminals. 
 
 
-
-## Long Distance Hiking
-
-Frequently nowadays long distance hikes (walking tours) are undertaken along long distance paths, including the National Trails in England and Wales, the National Trail System in the USA and The Grande Randonnée (France), Grote Routepaden, or Lange-afstand-wandelpaden (Holland), Grande Rota (Portugal), Gran Recorrido (Spain) is a network of long-distance footpaths in Europe, mostly in France, Belgium, the Netherlands and Spain. There are extensive networks in other European countries of long distance trails, as well as in Canada, Australia, New Zealand, Nepal, and to a lesser extent other Asiatic countries, like Turkey, Israel, and Jordan. In the Alps of Austria, Slovenia, Switzerland, Germany, France, and Italy walking tours are often made from 'hut-to-hut', using an extensive system of mountain huts.
-
-In the late 20th-century there has been a proliferation of official and unofficial long distance routes, which mean that hikers now are more likely to refer to using a long distance way (Britain), trail (USA), The Grande Randonnée (France), etc., than setting out on a walking tour. Early examples of long distance paths, include the Appalachian Trail in the USA and the Pennine Way in Britain. Pilgrimage routes are now treated, by some walkers, as long distance routes, and the route taken by the British National Trail the North Downs Way closely follows that of the Pilgrims' Way to Canterbury. Hiking times can be estimated by Naismith's rule or Tobler's hiking function.
 
 ## Equipment
 
