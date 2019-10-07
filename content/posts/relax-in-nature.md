@@ -7,8 +7,8 @@ date: '2019-03-24'
 thumb_img_path: images/4.jpg
 content_img_path: /images/coyote.png
 excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  So what sort of wildlife can you expect to see in rural New Hampshire? And are
+  there really cougars in the granite state?
 layout: post
 ---
 You may be wondering what sort of wildlife you can you expect to see in rural New Hampshire.
