@@ -77,12 +77,11 @@ I usually have to do this a few times during winter. I recommend that you get a 
 There are 2 reasons you'll be glad you did. 
 
 1. If you're away from home, or traveling at night, you may be miles away from a gas station. Or, the nearest gas station in a rural area may not have air compressors. Having your own will provide you with a convenient way to handle inflation yourself. 
-
 2. Commercial air compressors at gas stations can fail in severe winter weather. I experienced this when, during an Arctic weather event, I checked the air in my brand new Hakkapelliitas. The air machine went bonkers, sucked all the air out of my 2 rear tires and froze to one of the stems, breaking it. 
 
 Which brings me to my next tip.
 
-## What About AAA? 
+## What About AAA?
 
 I have a platinum membership to AAA and called them when the beserk air machine deflated  my tires. 
 
@@ -91,6 +90,8 @@ However, on this night of severe weather, I found out that the regional AAA offi
 It wasn't just that they were experiencing a higher _volume_ of calls. It turned out they had fired one of their main providers over (allegedly) their refusal to service one additional town. 
 
 AAA had given me an initial (long) time frame for the arrival of the tow truck. When that time passed, and I called for an update, they admitted they had never sent anyone out in the first place, and didn't know _who_ to send out. 
+
+\> AAA might not be able to help you in a true emergency.
 
 To be fair, I had never experienced that kind of goofiness from AAA before. I share the story because it took forever to get someone, and I felt I had to add some polite pressure to get _anyone_ to come out. (I reminded them of the -6°F temperatures outside.)
 
