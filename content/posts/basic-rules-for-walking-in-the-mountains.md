@@ -131,7 +131,7 @@ I carry water in a small rucksack, along with extra batteries. To prevent the wa
 
 It's easy to get incredibly lost in rural New Hampshire. Many roads have street signs missing. And after miles of driving underneath the brilliant pine-framed blue skies, every road starts to look the same. 
 
-New Hampshire is a low-population-density state. You may be used to navigating by familiar stores: like 7-11 or Burger King. You can drive for hours in rural New Hampshire and not see a single 7-11.
+New Hampshire is a low-population-density state. You may be used to navigating by familiar sights: like the 7-11 near your home or Burger King across the highway. Realize that you can drive for hours in rural New Hampshire and not see a single 7-11.
 
 Do yourself a favor. If your car didn't come with a GPS system, buy one before you arrive. 
 
