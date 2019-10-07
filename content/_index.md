@@ -1,21 +1,23 @@
 ---
 title: Home
 sections:
-  - type: intro
-    title: Intro
-    section_id: intro
-    component: intro.html
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
+  - actions:
       - label: Learn More
         url: /about
+    component: intro.html
+    content: >-
+      When I moved to New Hampshire from the Washington, D.C. metro area, I was
+      surprised by the number of friends and acquaintances who peppered me with
+      questions about rural life here. This blog is inspired by those questions.
+      I hope the answers you find here will help you make a smooth move and find
+      a better life.
+    section_id: intro
+    title: Intro
+    type: intro
 menu:
   main:
     name: Home
     weight: 1
 layout: home
 ---
+
