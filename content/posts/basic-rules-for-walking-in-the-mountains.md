@@ -59,11 +59,11 @@ This is going to come down to your preference. When I first arrived, a friend of
 
 I opted for studded Firestone WinterForce tires, and noticed I was one of the few drivers around with studs.
 
-With those badass tires I was able to zip up and down the snow mountain in my 2-door hatchback when pickup trucks were stuck at the bottom. The WinterForce tires had an aggressive tread and provided great traction.
+With those badass tires I was able to zip up and down the snow mountain in my 2-door hatchback, passing pickup trucks that were stuck at the bottom. The WinterForce tires had an aggressive tread and provided great traction.
 
 The new generation of WinterForce tires, unfortunately, doesn't have nearly as aggressive of a tread. 
 
-So when I wore out my first set of snows, four years later, I opted for Nokian tires -- a Finnish brand. Specifically I got <A href="https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/" target="blank">Hakkapelliita 8s</a> with studs. 
+So when I wore out my first set of snows, four years later, I passed on Firestone and opted for Nokian tires -- a Finnish brand. Specifically I got <A href="https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/" target="blank">Hakkapelliita 8s</a> with studs. 
 
 > Tip: Local tires stores don't have the variety you're used to seeing in metropolitan areas. You can order your snows online and take them to a local mechanic to get them mounted.
 
