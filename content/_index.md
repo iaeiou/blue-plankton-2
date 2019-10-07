@@ -6,9 +6,8 @@ sections:
         url: /about
     component: intro.html
     content: >-
-      Thinking of moving to rural New Hampshire? This blog is dedicated those
-      contemplating a move. Here you'll find a insider's take on the good, the
-      bad, and the remarkable aspects of rural life here.
+      Thinking of moving to rural New Hampshire? This blog presents an insider's
+      take on the good, the bad, and the remarkable aspects of rural life here.
     section_id: intro
     title: Intro
     type: intro
