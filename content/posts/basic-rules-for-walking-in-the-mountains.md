@@ -1,18 +1,18 @@
 ---
-title: A Yankee's Guide to Winter Prepping
+title: Preparing Your Car for Winter Driving in New Hampshire
 date: '2019-04-09'
 thumb_img_path: images/1.jpg
 content_img_path: images/1.jpg
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: 'A short guide to preparing your car, your home, and yourself for winter. '
 layout: post
 ---
+Typically, the northern part of New Hampshire sees colder temperatures and greater snowfall during winter than the southern counties. That said, I've experienced temperatures as low as -20 °F on multiple - but rare - occasions in Monadnock and Cheshire counties. 
 
-In the United States, Canada, the Republic of Ireland, and United Kingdom, **hiking** refers to walking outdoors on a trail, or off trail, for recreational purposes. A day hike refers to a hike that can be completed in a single day. However, in the United Kingdom, the word walking is also used, as well as rambling, while walking in mountainous areas is called hillwalking. In Northern England, Including the Lake District and Yorkshire Dales, fellwalking describes hill or mountain walks, as fell is the common word for both features there.
+One of my first questions I had before moving up to New Hampshire was "Is my Hyundai enough to make it in the snow?" Carla Gericke assured me that it was. I suppose I was envisioning a need for something like a Snowcat to get around. 
 
-Hiking can sometimes involves bushwhacking and hiking is sometimes referred to as such. This specifically refers to difficult walking through dense forest, undergrowth, or bushes, where forward progress requires pushing vegetation aside. In extreme cases of bushwhacking, where the vegetation is so dense that human passage is impeded, a machete is used to clear a pathway. The Australian term bushwalking refers to both on and off-trail hiking. Common terms for hiking used by [New Zealanders](https://en.wikipedia.org/wiki/New_Zealand) are tramping (particularly for overnight and longer trips), walking or bushwalking. Trekking is the preferred word used to describe multi-day hiking in the mountainous regions of India, Pakistan, Nepal, North America, South America, Iran and in the highlands of East Africa. Hiking a long-distance trail from end-to-end is also referred to as trekking and as thru-hiking in some places. In North America, multi-day hikes, usually with camping, are referred to as [backpacking](https://en.wikipedia.org/wiki/Backpacking_(wilderness)).
+I made the move and settled on Crotched Mountain in Bennington, New Hampshire. I arrived about a month and half before winter. Before moving up I had a blast researching how to prepare my car for winter. I hope you'll find this information useful. 
+
+
 
 ## Long Distance Hiking
 
