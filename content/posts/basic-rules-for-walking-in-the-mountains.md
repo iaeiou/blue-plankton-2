@@ -104,7 +104,7 @@ I recommend you make some local connections before winter in the event AAA canno
 * Make a connection to a local tow truck driver who's available 24/7 and get his number. 
 * As a backup, connect with new friends and agree to help each other out if one of you gets stranded by the side of the road.
 
-## Laying in Some Supplies
+## Laying in Supplies
 
 You'll want to kit your trunk out with some basic emergency and winter supplies like: 
 
@@ -124,4 +124,14 @@ I also stock in:
 * Winter gloves
 * Water 
 
-I carry water in a small rucksack, along with extra batteries. To prevent the water from freezing (or the batteries from dying) I keep the rucksack in the house and take it with me when traveling.
+I carry water in a small rucksack, along with extra batteries. To prevent the water from freezing (or the batteries from dying) I keep the rucksack in the house and take it with me when traveling. 
+
+## GPS Is a Must
+
+It's very easy to get incredibly lost in rural New Hampshire. Many roads have road signs missing. And after miles of driving underneath the brilliant pine-frame blue skies, every road starts to look the same. 
+
+Do yourself a favor. If your car didn't come with a GPS system, buy one before you arrive. 
+
+You can get a Tom-Tom for as little as $99 from Walmart or Amazon.
+
+One handy feature is the "Point of Interest Near Me." You can quickly find the closest gas station, hotel, grocery store, etc.
