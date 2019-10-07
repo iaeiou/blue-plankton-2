@@ -1,8 +1,6 @@
 ---
 title: 'Wildlife Sightings: Bears, Bobcats, and More'
-subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+subtitle: By Sherrie Gossett
 date: '2019-03-24'
 thumb_img_path: /images/coyote.png
 content_img_path: /images/coyote.png
