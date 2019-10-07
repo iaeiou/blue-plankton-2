@@ -19,7 +19,7 @@ I made the move to New Hampshire in 2013 and settled on Crotched Mountain in Ben
 
 Before moving up I had fun researching tips on how to prepare my vehicle for winter. Since then I've learned a few tricks from experience. I hope you'll find this information useful. 
 
-## Engine Checks to Do Before Snow Falls
+## Under the Hood: Checks to Do Before Snow Falls
 
 You can spend between $10-$15 to get some simple automotive tools from Amazon that will help you prepare for winter. 
 
@@ -66,7 +66,11 @@ So when I wore out my first set of snows, four years later, I opted for Nokian t
 
 The Nokian tires are designed in a way that enables a far greater number of studs to be inserted. Plus the tire provides a rear cushioning for the studs, so that the tires are much quieter than the Firestones when driving on asphalt. 
 
-## Equipment
+## Buy a Portable Air Compressor
+
+When the really cold weather hits, you may find you have to inflate your tires back up to the recommended PSI. 
+
+I usually have to do this a few times during winter. I recommend that you get a portable air compressor. You can <a href="https://www.amazon.com/gp/product/B01L9WSTEG/" target="blank">get one from Amazon for $35</a>.
 
 The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
 
