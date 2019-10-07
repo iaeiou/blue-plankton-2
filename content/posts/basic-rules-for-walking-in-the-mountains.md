@@ -72,6 +72,12 @@ When the really cold weather hits, you may find you have to inflate your tires b
 
 I usually have to do this a few times during winter. I recommend that you get a portable air compressor. You can <a href="https://www.amazon.com/gp/product/B01L9WSTEG/" target="blank">get one from Amazon for $35</a>.
 
+There are 2 reasons you'll be glad you did. 
+
+1. If you're away from home, or traveling at night, you may be miles away from a gas station. Or, the nearest gas station in a rural area may not have air compressors. Having your own will provide you with a convenient way to handle inflation yourself. 
+
+2. Commercial air compressors at gas stations can fail in severe winter weather. I experienced this when, during an Arctic weather event, I checked the air in my brand new Hakkapelliitas. The air machine went bonkers, sucked all the air out of my 2 rear tires and froze to one of the stems, breaking it. 
+
 The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
 
 > Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
