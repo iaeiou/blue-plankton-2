@@ -3,7 +3,10 @@ title: Preparing Your Car for Winter Driving in New Hampshire
 date: '2019-04-09'
 thumb_img_path: /images/winter-driving-new-hampshire.png
 content_img_path: ''
-excerpt: 'A short guide to preparing your car, your home, and yourself for winter. '
+excerpt: >-
+  Prepping your car for winter will make you feel like a real Yankee in no time.
+  Why? If you break down by the side of the road in winter, and you're
+  unprepared, you could die.
 layout: post
 ---
 Prepping your car for winter will make you feel like a real Yankee in no time. Why? If you break down by the side of the road in winter, and you're unprepared, you could die. That fact contributes to the independent and self-reliant spirit so common in New England.
