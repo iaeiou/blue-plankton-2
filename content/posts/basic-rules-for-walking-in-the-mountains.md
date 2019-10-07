@@ -53,7 +53,7 @@ With those badass tires I was able to zip up and down the snow mountain in my 2-
 
 The new generation of WinterForce tires, unfortunately, doesn't have nearly as aggressive of a tread. 
 
-So when I wore out my first set of snows, four years later, I opted for Nokian tires -- a Finnish brand. Specifically I got the [Hakkapelliita 8](https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/) studded tires. 
+So when I wore out my first set of snows, four years later, I opted for Nokian tires -- a Finnish brand. Specifically I got <A href="https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/" target="blank">Hakkapelliita 8s</a> with studs. 
 
 The Nokian tires are designed in a way that enables a far greater number of studs to be inserted. Plus the tire provides a rear cushioning for the studs, so that the tires are much quieter than the Firestones when driving on asphalt. 
 
