@@ -36,9 +36,11 @@ Next, take the hydrometer and use it to extract some radiator fluid out of the r
 
 ### Sprucing Your Car Battery Up
 
-I should note here that I've never had my car battery fail in winter here, but it has ailed on occassion during heat waves. (Tip: During a heat wave, don't park your car, running the AC full blast, with laptop and other devices plugged for an extended period of time.)
+In fall, I clean my battery terminals and lubricate them to sustain a better connection. I also place felt washers around the base of the terminals. 
 
-For winter, I clean my battery terminals and lubricate them to sustain a better connection. I also place felt washers around the base of the terminals. 
+I carry a socket wrench in my car with the right fitting for removing the terminal connectors - just in case my battery dies on the road and needs to be replaced.
+
+I should note here that I've never had my car battery fail in winter here, but it has ailed on occasion during _heat waves_. 
 
 ## Snow Tires Are a Must
 
