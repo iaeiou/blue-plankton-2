@@ -14,7 +14,7 @@ Prepping your car for winter will make you feel like a real Yankee in no time. W
 
 That fact will inflame your independent and self-reliant spirit in no time.
 
-Typically, the northern part of New Hampshire sees colder temperatures and greater snowfall during winter than the southern counties. That said, I've experienced temperatures as low as -19 °F on multiple - but rare - occasions in Monadnock and Cheshire counties. 
+Typically, the northern part of New Hampshire sees colder temperatures and greater snowfall during winter than the southern counties. That said, I've experienced temperatures as low as -19 °F on multiple — but rare — occasions in Monadnock and Cheshire counties. 
 
 I made the move to New Hampshire in 2013 and settled on Crotched Mountain in Bennington. I arrived about a month and half before winter. 
 
