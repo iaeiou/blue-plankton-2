@@ -103,3 +103,25 @@ I recommend you make some local connections before winter in the event AAA canno
 
 * Make a connection to a local tow truck driver who's available 24/7 and get his number. 
 * As a backup, connect with new friends and agree to help each other out if one of you gets stranded by the side of the road.
+
+## Laying in Some Supplies
+
+You'll want to kit your trunk out with some basic emergency and winter supplies like: 
+
+* Emergency flashers
+* Jumper cables
+* Battery-powered lantern and/or flashlights
+* Extra batteries 
+* Cell phone charger battery
+
+I also stock in: 
+
+* A mylar blanket and a wool blanket
+* Food (e.g. peanut butter crackers, granola bars) (in case of an hours-long winter roadside issue)
+* Extra pair of boots and socks (in case mine get wet)
+* Extra layers
+* Hot Hands
+* Winter gloves
+* Water 
+
+I carry water in a small rucksack, along with extra batteries. To prevent the water from freezing (or the batteries from dying) I keep the rucksack in the house and take it with me when traveling.
