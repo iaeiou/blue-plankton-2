@@ -7,8 +7,9 @@ date: '2019-03-24'
 thumb_img_path: /images/coyote.png
 content_img_path: /images/coyote.png
 excerpt: >-
-  So what sort of wildlife can you expect to see in rural New Hampshire? And are
-  there really cougars in the granite state?
+  So what sort of wildlife can you expect to see in rural New Hampshire? Are
+  there really cougars and wolves in the granite state? And what does all this
+  mean for Fluffy the Cat?
 layout: post
 ---
 You may be wondering what sort of wildlife you can you expect to see in rural New Hampshire.
