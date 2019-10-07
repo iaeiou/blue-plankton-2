@@ -6,11 +6,9 @@ sections:
         url: /about
     component: intro.html
     content: >-
-      When I moved to New Hampshire from the Washington, D.C. metro area, I was
-      surprised by the number of friends and acquaintances who peppered me with
-      questions about rural life here. This blog is inspired by those questions.
-      I hope the answers you find here will help you make a smooth move and find
-      a better life here.
+      Thinking of moving to rural New Hampshire? This blog is dedicated those
+      contemplating a move. Here you'll find a insider's take on the good, the
+      bad, and the annoying parts of rural life in the granite state.
     section_id: intro
     title: Intro
     type: intro
