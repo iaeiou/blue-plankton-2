@@ -4,7 +4,7 @@ subtitle: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
 date: '2019-03-24'
-thumb_img_path: images/4.jpg
+thumb_img_path: /images/coyote.png
 content_img_path: /images/coyote.png
 excerpt: >-
   So what sort of wildlife can you expect to see in rural New Hampshire? And are
