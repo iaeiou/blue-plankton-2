@@ -6,6 +6,8 @@ content_img_path: /images/winter-driving-new-hampshire.png
 excerpt: 'A short guide to preparing your car, your home, and yourself for winter. '
 layout: post
 ---
+Prepping your car for winter will make you feel like a real Yankee in no time. Why? If you break down by the side of the road in winter, and you're unprepared, you could die. That fact contributes to the independent and self-reliant spirit so common in New England.
+
 Typically, the northern part of New Hampshire sees colder temperatures and greater snowfall during winter than the southern counties. That said, I've experienced temperatures as low as -20 °F on multiple - but rare - occasions in Monadnock and Cheshire counties. 
 
 One of my first questions I had before moving up to New Hampshire was "Is my Hyundai enough to make it in the snow?" Carla Gericke assured me that it was. And she was right. I suppose I was  imagining needing a four-wheel drive or something rugged. 
