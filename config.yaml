@@ -4,8 +4,8 @@ params:
   layout_style: grid
   palette: green
   header:
-    title: Ampersand
-    logo_img: images/logo.png
+    title: Rural Living in New Hampshire
+    logo_img: images/rural-new-hampshire-living.png
     has_nav: true
   footer:
     content: '&copy; All rights reserved.'
