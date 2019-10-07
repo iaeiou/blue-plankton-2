@@ -128,7 +128,7 @@ I carry water in a small rucksack, along with extra batteries. To prevent the wa
 
 ## GPS Is a Must
 
-It's very easy to get incredibly lost in rural New Hampshire. Many roads have road signs missing. And after miles of driving underneath the brilliant pine-frame blue skies, every road starts to look the same. 
+It's easy to get incredibly lost in rural New Hampshire. Many roads have street signs missing. And after miles of driving underneath the brilliant pine-framed blue skies, every road starts to look the same. 
 
 Do yourself a favor. If your car didn't come with a GPS system, buy one before you arrive. 
 
