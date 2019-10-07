@@ -116,7 +116,7 @@ You'll want to kit your trunk out with some basic emergency and winter supplies 
 
 I also stock in: 
 
-* A mylar blanket and a wool blanket
+* A mylar blanket and a wool blanket or two
 * Food (e.g. peanut butter crackers, granola bars) (in case of an hours-long winter roadside issue)
 * Extra pair of boots and socks (in case mine get wet)
 * Extra layers
