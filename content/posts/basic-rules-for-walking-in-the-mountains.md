@@ -1,5 +1,6 @@
 ---
 title: Preparing Your Car for Winter Driving in New Hampshire
+subtitle: by Sherrie Gossett
 date: '2019-04-09'
 thumb_img_path: /images/winter-driving-new-hampshire.png
 content_img_path: ''
