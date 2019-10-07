@@ -8,7 +8,7 @@ sections:
     content: >-
       Thinking of moving to rural New Hampshire? This blog is dedicated those
       contemplating a move. Here you'll find a insider's take on the good, the
-      bad, and the remarkable aspects of rural life in the granite state.
+      bad, and the remarkable aspects of rural life here.
     section_id: intro
     title: Intro
     type: intro
