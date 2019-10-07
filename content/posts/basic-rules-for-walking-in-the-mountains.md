@@ -11,13 +11,13 @@ layout: post
 ---
 Prepping your car for winter will make you feel like a real Yankee in no time. Why? If you break down by the side of the road in winter, and you're unprepared, you could die. That fact contributes to the independent and self-reliant spirit so common in New England.
 
-Typically, the northern part of New Hampshire sees colder temperatures and greater snowfall during winter than the southern counties. That said, I've experienced temperatures as low as -20 °F on multiple - but rare - occasions in Monadnock and Cheshire counties. 
+Typically, the northern part of New Hampshire sees colder temperatures and greater snowfall during winter than the southern counties. That said, I've experienced temperatures as low as -19 °F on multiple - but rare - occasions in Monadnock and Cheshire counties. 
+
+I made the move to New Hampshire in 2013 and settled on Crotched Mountain in Bennington. I arrived about a month and half before winter. 
 
 ![winter driving new hampshire](/images/winter-driving-new-hampshire.png "winter driving new hampshire")
 
-One of my first questions I had before moving up to New Hampshire was "Is my Hyundai enough to make it in the snow?" Carla Gericke assured me that it was. And she was right. I suppose I was  imagining needing a four-wheel drive or something rugged. 
-
-I made the move and settled on Crotched Mountain in Bennington, New Hampshire. I arrived about a month and half before winter. Before moving up I had fun researching tips on how to prepare my vehicle for winter. I hope you'll find this information useful. 
+Before moving up I had fun researching tips on how to prepare my vehicle for winter. Since then I've learned a few tricks from experience. I hope you'll find this information useful. 
 
 ## Engine Checks to Do Before Snow Falls
 
@@ -27,8 +27,8 @@ You can spend between $10-$15 to get some simple automotive tools from Amazon th
 
 I use: 
 
-* A brake fluid tester 
-* A hydrometer
+* A <a href="https://www.amazon.com/gp/product/B005HVG4GQ/" target="blank">brake fluid tester</a>
+* A <a href="https://www.amazon.com/Performance-Tool-W1656C-Deluxe-Anti-Freeze/dp/B0002KO112/" target="blank">hydrometer</a>
 
 The brake fluid tester is a pen-like device: remove the cap, and stick the protruding metal pins into your brake fluid reservoir. You'll get an instant readout of whether your fluid needs to be changed. 
 
