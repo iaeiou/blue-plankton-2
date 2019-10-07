@@ -55,6 +55,8 @@ The new generation of WinterForce tires, unfortunately, doesn't have nearly as a
 
 So when I wore out my first set of snows, four years later, I opted for Nokian tires -- a Finnish brand. Specifically I got <A href="https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/" target="blank">Hakkapelliita 8s</a> with studs. 
 
+> Tip: Local tires stores don't have the variety you're used to seeing in metropolitan areas. You can order your snows online and take them to a local mechanic to get them mounted.
+
 The Nokian tires are designed in a way that enables a far greater number of studs to be inserted. Plus the tire provides a rear cushioning for the studs, so that the tires are much quieter than the Firestones when driving on asphalt. 
 
 ## Equipment
