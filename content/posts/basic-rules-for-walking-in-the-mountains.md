@@ -10,7 +10,9 @@ excerpt: >-
   winter, and you're unprepared, you could die.
 layout: post
 ---
-Prepping your car for winter will make you feel like a real Yankee in no time. Why? If you break down by the side of the road in winter, and you're unprepared, you could die. That fact contributes to the independent and self-reliant spirit so common in New England.
+Prepping your car for winter will make you feel like a real Yankee in no time. Why? You quickly realize that if you break down by the side of the road in winter and you're _unprepared_, you could _die_. 
+
+That fact will inflame your independent and self-reliant spirit in no time.
 
 Typically, the northern part of New Hampshire sees colder temperatures and greater snowfall during winter than the southern counties. That said, I've experienced temperatures as low as -19 °F on multiple - but rare - occasions in Monadnock and Cheshire counties. 
 
@@ -138,3 +140,5 @@ Do yourself a favor. If your car didn't come with a GPS system, buy one before y
 You can get a Tom-Tom for as little as $99 from Walmart or Amazon.
 
 One handy feature is the "Point of Interest Near Me." You can use it to quickly find the closest gas station, hotel, grocery store, or other facility.
+
+## Driving After a Snowstorm
