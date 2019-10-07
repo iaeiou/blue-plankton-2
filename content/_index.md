@@ -10,7 +10,7 @@ sections:
       surprised by the number of friends and acquaintances who peppered me with
       questions about rural life here. This blog is inspired by those questions.
       I hope the answers you find here will help you make a smooth move and find
-      a better life.
+      a better life here.
     section_id: intro
     title: Intro
     type: intro
