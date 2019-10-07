@@ -33,7 +33,27 @@ I should note here that I've never had my car battery fail in winter here, but i
 
 For winter, I clean my battery terminals and lubricate them to sustain a better connection. I also place felt washers around the base of the terminals. 
 
+## Snow Tires Are a Must
 
+Don't try to wing winter with all seasons on. Having snow tires is essential. This is true whether you're living in a rural area or in a New Hampshire city like Portsmouth, Manchester, or Concord. 
+
+Each winter there are news stories about fatal accidents occurring on well-traveled north-south highways like I-93 and I-81. 
+
+Less-traveled roads that connect rural towns are sometimes not salted. In fact, you'll see road signs in some cases warning that a particular stretch of road does not get salted or gets minimal treatment. 
+
+### Studs or No Studs?
+
+This is going to come down to your preference. When I first arrived, a friend of mine in Vermont advised me to get studded tires. I followed her advice and was glad I did. 
+
+I opted for studded Firestone WinterForce tires, and noticed I was one of the few drivers around with studs.
+
+With those badass tires I was able to zip up and down the snow mountain in my 2-door hatchback when pickup trucks were stuck at the bottom. The WinterForce tires had an aggressive tread and provided great traction.
+
+The new generation of WinterForce tires, unfortunately, doesn't have nearly as aggressive of a tread. 
+
+So when I wore out my first set of snows, four years later, I opted for Nokian tires -- a Finnish brand. Specifically I got the [Hakkapelliita 8](https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/) studded tires. 
+
+The Nokian tires are designed in a way that enables a far greater number of studs to be inserted. Plus the tire provides a rear cushioning for the studs, so that the tires are much quieter than the Firestones when driving on asphalt. 
 
 ## Equipment
 
