@@ -1,8 +1,8 @@
 ---
 title: Preparing Your Car for Winter Driving in New Hampshire
 date: '2019-04-09'
-thumb_img_path: images/1.jpg
-content_img_path: images/1.jpg
+thumb_img_path: /images/winter-driving-new-hampshire.png
+content_img_path: /images/winter-driving-new-hampshire.png
 excerpt: 'A short guide to preparing your car, your home, and yourself for winter. '
 layout: post
 ---
