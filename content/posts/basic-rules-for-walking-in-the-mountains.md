@@ -34,7 +34,7 @@ The brake fluid tester is a pen-like device: remove the cap, and stick the protr
 
 Next, take the hydrometer and use it to extract some radiator fluid out of the reservoir. The gauge on the hydrometer will tell you if your radiator fluid is due for a change. 
 
-### Sprucing Your Battery Up
+### Sprucing Your Car Battery Up
 
 I should note here that I've never had my car battery fail in winter here, but it has ailed on occassion during heat waves. (Tip: During a heat wave, don't park your car, running the AC full blast, with laptop and other devices plugged for an extended period of time.)
 
