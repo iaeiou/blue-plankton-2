@@ -78,14 +78,25 @@ There are 2 reasons you'll be glad you did.
 
 2. Commercial air compressors at gas stations can fail in severe winter weather. I experienced this when, during an Arctic weather event, I checked the air in my brand new Hakkapelliitas. The air machine went bonkers, sucked all the air out of my 2 rear tires and froze to one of the stems, breaking it. 
 
-The equipment required for hiking depends on the length of the hike, but day hikers generally carry at least water, food, a map, and rain-proof gear. Hikers usually wear sturdy hiking boots for mountain walking and backpacking, as protection from the rough terrain, as well as providing increased stability. The Mountaineers club recommends a list of "Ten Essentials" equipment for hiking, including a compass, sunglasses, sunscreen, a flashlight, a first aid kit, a fire starter, and a knife. Other groups recommend items such as hat, gloves, insect repellent, and an emergency blanket. A GPS navigation device can also be helpful and route cards may be used as a guide.
+Which brings me to my next tip.
 
-> Returning home is the most difficult part of long-distance hiking; You have grown outside the puzzle and your piece no longer fits. ― Cindy Ross
+## What About AAA? 
 
-Proponents of ultralight backpacking argue that long lists of required items for multi-day hikes increases pack weight, and hence fatigue and the chance of injury. Instead, they recommend reducing pack weight, in order to make hiking long distances easier. Even the use of hiking boots on long-distances hikes is controversial among ultralight hikers, because of their weight.
+I have a platinum membership to AAA and called them when the beserk air machine deflated  my tires. 
 
-## Environmental Impact
+However, on this night of severe weather, I found out that the regional AAA office was ill-prepared to handle calls. 
 
-Natural environments are often fragile, and may be accidentally damaged, especially when a large number of hikers are involved. For example, years of gathering wood can strip an alpine area of valuable nutrients. and some species, such as martens or bighorn sheep, are very sensitive to the presence of humans, especially around mating season. Generally, protected areas such as parks have regulations in place to protect the environment, so as to minimize such impact. Such regulations include banning wood fires, restricting camping to established camp sites, disposing or packing out faecal matter, and imposing a quota on the number of hikers. Many hikers espouse the philosophy of Leave No Trace, following strict practices on dealing with food waste, food packaging, and other impact on the environment.
+It wasn't just that they were experiencing a higher _volume_ of calls. It turned out they had fired one of their main providers over (allegedly) their refusal to service one additional town. 
 
-Human waste is often a major source of environmental impact from hiking, and can contaminate the watershed and make other hikers ill. 'Catholes' dug 10 to 25 cm (4 to 10 inches) deep, depending on local soil composition and covered after use, at least 60 m (200 feet) away from water sources and trails, are recommended to reduce the risk of bacterial contamination. [Source](https://en.wikipedia.org/wiki/Hiking)
+AAA had given me an initial (long) time frame for the arrival of the tow truck. When that time passed, and I called for an update, they admitted they had never sent anyone out in the first place, and didn't know _who_ to send out. 
+
+To be fair, I had never experienced that kind of goofiness from AAA before. I share the story because it took forever to get someone, and I felt I had to add some polite pressure to get _anyone_ to come out. (I reminded them of the -6°F temperatures outside.)
+
+In the end it was the fired contractor who came to my rescue, having been called by AAA.
+
+The folks at AAA seemed disorganized, inexperienced, and hapless in a true winter climate emergency. 
+
+I recommend you make some local connections before winter in the event AAA cannot help you within a reasonable time frame. 
+
+* Make a connection to a local tow truck driver who's available 24/7 and get his number. 
+* As a backup, connect with new friends and agree to help each other out if one of you gets stranded by the side of the road.
