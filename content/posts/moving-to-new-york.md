@@ -116,11 +116,11 @@ Other options:
 1. You can buy a gas-powered log splitter to break your logs into smaller pieces
 2. Be a real Yank and use a maul to split your own firewood. (My 83-year old neighbor does this!)
 
-### Get Your Chimney Cleaned Once a Year
+#### Get Your Chimney Cleaned Once a Year
 
 In fall you'll want to get your chimney cleaned. This is a safety move: removing any creosote build up will substantially decrease the risk of having a chimney fire. 
 
-## Electric Baseboard Heat
+## Electric Baseboard Heat 
 
 My backup was (and is) electric baseboard heat. However, I'd suggest you avoid using baseboard heat if possible. It really ramps up your electric bill.  
 
