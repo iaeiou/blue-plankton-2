@@ -26,6 +26,8 @@ My experience is with the first 4, so I'll be focusing on those.
 
 Many homes use more than one source of heat. For example, a friend of mine has a wood-fueled furnace, a gas stove, a wood stove, and a fireplace. 
 
+And most everyone has a backup source of heat: such as electric baseboard heating or space heaters.
+
 ## Gas Stoves
 
 When I first moved up here my primary source of winter heat was a Vermont Castings propane-powered stove. It was set into a fireplace. The stove was super-efficient: it was really more than was needed to heat the home. 
