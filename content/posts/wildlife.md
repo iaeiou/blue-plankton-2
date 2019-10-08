@@ -2,7 +2,7 @@
 title: 'Wildlife Sightings: Bears, Bobcats, and More'
 subtitle: By Sherrie Gossett
 date: '2019-03-24'
-thumb_img_path: /images/coyote.png
+thumb_img_path:https://res.cloudinary.com/icecloud7/image/upload/w_auto,f_auto,q_auto/v1570511812/ruralnh/coyote_nslzqu.png.png
 content_img_path: ''
 excerpt: >-
   So what sort of wildlife can you expect to see in rural New Hampshire? Are
