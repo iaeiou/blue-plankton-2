@@ -48,7 +48,7 @@ You have to source good firewood, purchase it in a timely fashion, and either st
 
 You want to avoid being ripped off by someone who sells you "green" firewood that they pass off as ready to burn. This happened to a friend of mine in Vermont. 
 
-> Tip: If you think you've been scammed and have bought green wood, check the ash level in your wood stove first. If it's built up, it can block air flow and create a condition that mimics green wood that won't burn. 
+> Tip: If you think you have green wood, check the ash level in your wood stove first. If it's built up, it can block air flow and create a condition that mimics green wood that won't burn. 
 
 Find a good source — like the town clerk — who can tell you where you can find quality firewood.
 
