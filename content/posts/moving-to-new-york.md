@@ -97,13 +97,20 @@ Friends of mine gather their own kindling from the forest floor. I used to buy k
 
 Unlike my friends, I don't enjoy foraging for sticks in the woods. So what to do? 
 
-1. You can buy a gas-powered log splitter and use to to split some of your firewood into smaller sticks
-2. Be a real Yank and use a maul to split your own firewood. (My 83-year old neighbor does this!)
-3. Buy the Kindling Cracker: a manual device that's easy to use. You simply use a club to tap a log and split it into smaller pieces. 
-
 Typically, when the delivery truck dumps your pile of firewood there'll be a good amount of splintering that occurs, and you can get a few weeks of kindling out of that. 
 
 But it wont' be enough to last the winter. 
+
+My preferred option is this: 
+
+1. Buy and use A.W. Perkins Firestarters. You can get these a box of 144 of these from Amazon for $25. That's the cheapest price I've found. John, the co-owner of Treehugger Farms, showed me how to start a fire using just one single firestarter and some kindling. Leave your wood stove door cracked and let the fire grow gradually. 
+
+2. Buy a Kindling Cracker. This manual device — the brainchild of a New Zealand student — makes splitting your larger logs into small sticks of firewood easy. Insert your log, and tap it with a club. Easy. The Kinding Cracker runs around $99. 
+
+Other options:
+
+1. You can buy a gas-powered log splitter to break your logs into smaller pieces
+2. Be a real Yank and use a maul to split your own firewood. (My 83-year old neighbor does this!)
 
 ### Get Your Chimney Cleaned Once a Year
 
