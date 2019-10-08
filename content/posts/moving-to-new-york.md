@@ -125,6 +125,8 @@ Other options:
 
 In fall you'll want to get your chimney cleaned. This is a safety move: removing any creosote build up will substantially decrease the risk of having a chimney fire. 
 
+## Pellet Stoves
+
 ## Electric Baseboard Heat
 
 My backup was (and is) electric baseboard heat. However, I'd suggest you avoid using baseboard heat if possible. It really ramps up your electric bill.  
