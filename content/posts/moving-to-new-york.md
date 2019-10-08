@@ -24,9 +24,9 @@ My experience is with the first 4, so I'll be focusing on those.
 
 ## Gas Stoves
 
-When I first moved up here my primary source of winter heat was a Vermont Castings propane-powered stove. It was set into a fireplace. The stove was remarkably efficient: it was really more than was needed to heat the home. 
+When I first moved up here my primary source of winter heat was a Vermont Castings propane-powered stove. It was set into a fireplace. The stove was super-efficient: it was really more than was needed to heat the home. 
 
-The stove was connected to a wall-mounted thermostat. That's incredibly convenient for winter, especially if you plan on traveling. Set the thermostat and your home will maintain an even temperature.
+The stove was connected to a wall-mounted thermostat. This is a great set up especially if you plan on traveling. Set the thermostat and your home will maintain an even temperature.
 
 The stove was also not dependent on electricity: you could start it manually in the event of a power outage.
 
