@@ -3,7 +3,7 @@ title: 'Wildlife Sightings: Bears, Bobcats, and More'
 subtitle: By Sherrie Gossett
 date: '2019-03-24'
 thumb_img_path: /images/coyote.png
-content_img_path: /images/coyote.png
+content_img_path: ''
 excerpt: >-
   So what sort of wildlife can you expect to see in rural New Hampshire? Are
   there really cougars and wolves in the granite state? And what does all this
@@ -26,7 +26,10 @@ We also have the usual assortment of skunks, porcupines, chipmunks, squirrels, o
 
 Otters, martens, mink, beavers, and varieties of weasels seem elusive. 
 
-## What About Wolves or Cougars? 
+![coyote](https://res.cloudinary.com/icecloud7/image/upload/w_auto,f_auto,q_auto/v1570511812/ruralnh/coyote_nslzqu.png)
+
+
+## What About Wolves or Cougars?
 
 Officially, there are no cougars in New Hampshire. That means the Fish and Wildlife Departments says there is no evidence of cougars in the area. Locals say otherwise. 
 
