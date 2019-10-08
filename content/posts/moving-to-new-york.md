@@ -3,7 +3,7 @@ title: 'Staying Warm in Winter: Firewood and Other Considerations'
 subtitle: By Sherrie Gossett
 date: '2018-01-23'
 thumb_img_path: /images/firewood-by-cabin.png
-content_img_path: /images/firewood-by-cabin.png
+content_img_path: ''
 excerpt: >-
   Firewood delivery wait times can sometimes increase to 2 months with no
   notice. Here are tips on making sure you're ready for winter.
@@ -21,6 +21,8 @@ There are a surprising number of methods that New Hampshire homeowners use to he
 * Radiant floor heating 
 
 My experience is with the first 4, so I'll be focusing on those. 
+
+![](/images/firewood-by-cabin.png)
 
 ## Gas Stoves
 
