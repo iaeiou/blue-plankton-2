@@ -60,9 +60,26 @@ Semi-seasoned is considerably cheaper than kiln-dried. You can buy a cord of sem
 
 Realize that as late as April and May you may be running your wood stove -- at least at night.
 
+Knowing that timing is an important factor in cost of firewood should help you when planning your move.
+
 ### Beware: Firewood Deliveries Might Become Significantly Delayed
 
-Knowing that timing is an important factor in cost of firewood should help you when planning your move.
+It's important to not expect delivery dates to remain the same year after year. They can fluctuate dramatically.
+
+Here's what I mean. 
+
+* The first year I bought firewood, there was a one-week wait for delivery. 
+* The second year I bought firewood - from the same source - there was a 2-month wait. 
+
+I had waited late to buy because I had assumed delivery would be within a week. 
+
+The lesson here is: don't assume. Or, assume the worst. 
+
+If you're buying kiln-dried firewood, I wouldn't wait later than September to get your first cord or two. 
+
+The only person responsible for making sure you can get the firewood you need is -- you guessed it -- you. 
+
+
 
 ### Source Kindling
 
