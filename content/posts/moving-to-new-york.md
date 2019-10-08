@@ -76,13 +76,21 @@ If you're buying kiln-dried firewood, I wouldn't wait later than September to ge
 
 The only person responsible for making sure you can get the firewood you need is -- you guessed it -- you. 
 
-
-
 ### Source Kindling
 
 You'll also need make a plan to get kindling - and an adequate amount of it. 
 
-Some friends of mine gather their own kindling from the forest floor. I used to buy kindling in giant bags that a local farmer provided for sale at a gas station. Then suddenly, the next year, the farmer stopped providing it. 
+Friends of mine gather their own kindling from the forest floor. I used to buy kindling in giant bags that a local farmer provided for sale at a gas station. Then suddenly, the next year, the farmer stopped providing it. 
+
+Unlike my friends, I don't enjoy foraging for sticks in the woods. So what to do? 
+
+1. You can buy a gas-powered log splitter and use to to split some of your firewood into smaller sticks
+2. Be a real Yank and use a maul to split your own firewood. (My 83-year old neighbor does this!)
+3. Buy the Kindling Cracker: a manual device that's easy to use. You simply use a club to tap a log and split it into smaller pieces. 
+
+Typically, when the delivery truck dumps your pile of firewood there'll be a good amount of splintering that occurs, and you can get a few weeks of kindling out of that. 
+
+But it wont' be enough to last the winter. 
 
 ### Get Your Chimney Cleaned Once a Year
 
