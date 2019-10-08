@@ -65,10 +65,10 @@ Spring is the time to purchase semi-seasoned. You need to give it a good 9 month
 Semi-seasoned is considerably cheaper than kiln-dried. You can buy a cord of semi-seasoned for about $225. Kiln-dried firewood is currently going for $380/cord. 
 
 * If you live in an average-sized house, count on needing 4-5 cords of firewood 
-* If you live in a small house or cabin, count on needing 2 cords.
+* If you live in a small house or cabin, count on needing 2-3 cords.
 * Count on spending $50 per cord if you want someone to stack it for you
 
-Realize that as late as April and May you may be running your wood stove -- at least at night.
+Realize that as late as April and May you may be running your wood stove — at least at night.
 
 Knowing that timing is an important factor in cost of firewood should help you when planning your move.
 
@@ -79,7 +79,7 @@ It's important to not expect delivery dates to remain the same year after year. 
 Here's what I mean. 
 
 * The first year I bought firewood, there was a one-week wait for delivery. 
-* The second year I bought firewood - from the same source - there was a 2-month wait. 
+* The second year I bought firewood — from the same source — there was a 2-month wait. 
 
 I had waited late to buy because I had assumed delivery would be within a week. 
 
@@ -87,7 +87,7 @@ The lesson here is: don't assume. Or, assume the worst.
 
 If you're buying kiln-dried firewood, I wouldn't wait later than September to get your first cord or two. 
 
-The only person responsible for making sure you can get the firewood you need is -- you guessed it -- you. 
+The only person responsible for making sure you can get the firewood you need is — you guessed it — you. 
 
 #### Source Kindling
 
@@ -103,9 +103,11 @@ But it wont' be enough to last the winter.
 
 My preferred option is this: 
 
-1. Buy and use A.W. Perkins Firestarters. You can get these a box of 144 of these from Amazon for $25. That's the cheapest price I've found. John, the co-owner of Treehugger Farms, showed me how to start a fire using just one single firestarter and some kindling. Leave your wood stove door cracked and let the fire grow gradually. 
+1. Buy and use A.W. Perkins Firestarters. \
+You can get these a box of 144 of these from Amazon for $25. That's the cheapest price I've found. John, the co-owner of Treehugger Farms, showed me how to start a fire using just one single firestarter and some kindling. Leave your wood stove door cracked and let the fire grow gradually. 
 
-2. Buy a Kindling Cracker. This manual device — the brainchild of a New Zealand student — makes splitting your larger logs into small sticks of firewood easy. Insert your log, and tap it with a club. Easy. The Kinding Cracker runs around $99. 
+2. Buy a Kindling Cracker. \
+This manual device — the brainchild of a New Zealand student — makes splitting your larger logs into small sticks of firewood easy. Insert your log, and tap it with a club. Easy. The Kindling Cracker runs around $99. 
 
 Other options:
 
@@ -120,4 +122,8 @@ In fall you'll want to get your chimney cleaned. This is a safety move: removing
 
 My backup was (and is) electric baseboard heat. However, I'd suggest you avoid using baseboard heat if possible. It really ramps up your electric bill.  
 
-Electricity in New Hampshire costs more per kWh than the national average. (See <a href="https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf" target="blank">this chart</a> for state-by-state comparisons. As some have pointed out, average monthly bills are below the national average. It's also true that many New Hampshire homes do not have air conditioning, even though we typically get heat wave temperatures (in the upper 90s) for at least a week a year. And that could conceivably factor in to the lower average bills. (That and Yankees know how to be frugal.)
+Electricity in New Hampshire costs more per kWh than the national average. (See <a href="https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf" target="blank">this chart</a> for state-by-state comparisons. 
+
+As some have pointed out, average monthly electric bills here are below the national average. It's also true that many New Hampshire homes ration their heat (keeping temperatures at 55 or so). 
+
+Many homes here also do not have air conditioning, even though we get summer temperatures in the 90s. So I wonder if these facts play into these statistics. That, and Yankees know _how_ to be — and _enjoy_ being — frugal.
