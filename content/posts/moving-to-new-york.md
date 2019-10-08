@@ -1,9 +1,9 @@
 ---
-title: Few Things I Wish I Knew Before I Moved to New York
-subtitle: A cautionary tale about life in New York
+title: 'Staying Warm in Winter: Firewood and Other Forms of Heat'
+subtitle: By Sherrie Gossett
 date: '2018-01-23'
-thumb_img_path: images/5.jpg
-content_img_path: images/5.jpg
+thumb_img_path: /images/firewood-by-cabin.png
+content_img_path: /images/firewood-by-cabin.png
 excerpt: >-
   The City of New York, usually called either New York City (NYC) or simply New
   York (NY), is the most populous city in the United States. With an estimated
