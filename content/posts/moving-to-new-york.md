@@ -26,7 +26,7 @@ My experience is with the first 4, so I'll be focusing on those.
 
 Many homes use more than one source of heat. For example, a friend of mine has a wood-fueled furnace, a gas stove, a wood stove, and a fireplace. 
 
-And most everyone has a backup source of heat: such as electric baseboard heating or space heaters.
+And most everyone has a backup source of heat: such as electric baseboard heating.
 
 ## Gas Stoves
 
@@ -132,3 +132,5 @@ Electricity in New Hampshire costs more per kWh than the national average. (See 
 As some have pointed out, average monthly electric bills here are below the national average. It's also true that many New Hampshire homes ration their heat (keeping temperatures at 55 or so). 
 
 Many homes here also do not have air conditioning, even though we get summer temperatures in the 90s. So I wonder if these facts play into these statistics. That, and Yankees know _how_ to be — and _enjoy_ being — frugal.
+
+## What About Portable Space Heaters?
