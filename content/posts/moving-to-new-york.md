@@ -43,7 +43,7 @@ You want to avoid being ripped off by someone who sells you "green" firewood tha
 
 Find a good source - like the town clerk - who can tell you where you can find quality firewood.
 
-I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank"Treehugger Farms</a> in Westmoreland, Cheshire County. You can buy seasoned, semi-seasoned, or de-barked, kiln-dried wood (my favorite). 
+I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank">Treehugger Farms</a> in Westmoreland, Cheshire County. You can buy seasoned, semi-seasoned, or de-barked, kiln-dried wood (my favorite). 
 
 Kiln-dried wood is ready to burn, and catches fire quickly. You also don't have to be concerned about bugs potentially being in the wood. That's a plus if you want to stack a good amount inside your home, as I do. (I stack about 3 weeks' worth. That cuts down on the number of times I have to haul wood from the barn to the cabin.)
 
