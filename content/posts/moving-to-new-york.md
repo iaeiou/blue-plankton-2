@@ -122,7 +122,7 @@ In fall you'll want to get your chimney cleaned. This is a safety move: removing
 
 My backup was (and is) electric baseboard heat. However, I'd suggest you avoid using baseboard heat if possible. It really ramps up your electric bill.  
 
-Electricity in New Hampshire costs more per kWh than the national average. (See <a href="https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf" target="blank">this chart</a> for state-by-state comparisons. 
+Electricity in New Hampshire costs more per kWh than the national average. (See <a href="https://www.eia.gov/electricity/sales_revenue_price/pdf/table5_a.pdf" target="blank">this chart</a> for state-by-state comparisons.)
 
 As some have pointed out, average monthly electric bills here are below the national average. It's also true that many New Hampshire homes ration their heat (keeping temperatures at 55 or so). 
 
