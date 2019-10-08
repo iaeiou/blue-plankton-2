@@ -24,6 +24,8 @@ My experience is with the first 4, so I'll be focusing on those.
 
 ![](/images/firewood-by-cabin.png)
 
+Many homes use more than one source of heat. For example, a friend of mine has a wood-fueled furnace, a gas stove, a wood stove, and a fireplace. 
+
 ## Gas Stoves
 
 When I first moved up here my primary source of winter heat was a Vermont Castings propane-powered stove. It was set into a fireplace. The stove was super-efficient: it was really more than was needed to heat the home. 
@@ -106,10 +108,9 @@ But it wont' be enough to last the winter.
 My preferred option is this: 
 
 1. Buy and use A.W. Perkins Firestarters. \
-You can get these a box of 144 of these from Amazon for $25. That's the cheapest price I've found. John, the co-owner of Treehugger Farms, showed me how to start a fire using just one single firestarter and some kindling. Leave your wood stove door cracked and let the fire grow gradually. 
-
+   You can get these a box of 144 of these from Amazon for $25. That's the cheapest price I've found. John, the co-owner of Treehugger Farms, showed me how to start a fire using just one single firestarter and some kindling. Leave your wood stove door cracked and let the fire grow gradually. 
 2. Buy a Kindling Cracker. \
-This manual device — the brainchild of a New Zealand student — makes splitting your larger logs into small sticks of firewood easy. Insert your log, and tap it with a club. Easy. The Kindling Cracker runs around $99. 
+   This manual device — the brainchild of a New Zealand student — makes splitting your larger logs into small sticks of firewood easy. Insert your log, and tap it with a club. Easy. The Kindling Cracker runs around $99. 
 
 Other options:
 
@@ -120,7 +121,7 @@ Other options:
 
 In fall you'll want to get your chimney cleaned. This is a safety move: removing any creosote build up will substantially decrease the risk of having a chimney fire. 
 
-## Electric Baseboard Heat 
+## Electric Baseboard Heat
 
 My backup was (and is) electric baseboard heat. However, I'd suggest you avoid using baseboard heat if possible. It really ramps up your electric bill.  
 
