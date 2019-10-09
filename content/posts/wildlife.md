@@ -45,7 +45,7 @@ Every town has a steady flow of new "cat missing" flyers up. And every cat adopt
 
 That said, my neighbor's cat continues to live an indoor-outdoor cat, and is a stealthy hunter. (It's also bob-tailed.) It roams this area that's populated with coyote, foxes, and bobats, and seems to hold its own. But it does have a sprinkling of tool sheds, barns, garages, and porches to dart under in an emergency.
 
-(Note: I've seen bobcats and coyotes roaming in daylight. They're not just nocturnal.)
+> I've seen bobcats and coyotes roaming during daylight. They're not just nocturnal.
 
 House cats whose outdoor activities have been limited to forays across manicured lawns will probably not survive being let outdoors in New Hampshire. 
 
