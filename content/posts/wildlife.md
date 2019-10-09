@@ -68,6 +68,6 @@ Exceptions are:
 * Rabid bobcats or coyotes, which can kill you via the initial attack. 
 * In the U.S. there have been some rare but fatal attacks by black bears 
 
-One simply solution is to buy what's known as "bear spray" and always carry it with you. 
+A simple solution is to buy what's known as "bear spray" and always carry it with you. 
 
-And don't try to approach a black bear to get a selfie.
+Also - don't try to approach a black bear to get a selfie.
