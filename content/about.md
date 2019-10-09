@@ -1,6 +1,8 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
+subtitle: >-
+  " "Don't be too timid and squeamish about your actions. All life is an
+  experiment. The more experiments you make the better. "
 img_path: images/about.jpg
 menu:
   main:
@@ -8,13 +10,18 @@ menu:
     weight: 2
 layout: page
 ---
+When I moved to New Hamsphire from the Washington, D.C. metro area, it was the first time I had lived in a rural town. 
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+At first, I experienced a bit of culture shock. Where were the familiar signs of everyday life: 7-11s, Burger Kings, or other brightly colored franchises that dotted main intersections and  served as familiar waypoints? 
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+I soon grew to love the vacation-paced life and the brilliant blue skies poked by miles of pine trees.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+After the move I was surprised by the number of friends and acquaintances that were intensely curious about life in New Hampshire.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+This blog is for all those who are curious or contemplating a move to live in New Hampshire's farmlands or forests. 
 
-*Thank You for reading!*
+I hope you find it to be an unvarnished account and of practical use.
+
+_Thank you for visiting!_
+
+Sherrie Gossett
