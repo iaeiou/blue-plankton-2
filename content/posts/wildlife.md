@@ -47,8 +47,12 @@ That said, my neighbor's cat continues to live an indoor-outdoor cat, and is a s
 
 > I've seen bobcats and coyotes roaming during daylight. They're not just nocturnal.
 
+If you have a cat, you should also be concerned about birds of prey. New Hampshire has some ferocious raptors including large bald eagles.
+
+I once found 3 turkey vultures circling overhead while my cat was taking a nap on the back deck balcony. Thank goodness, turkey vultures don't attack living animals. But still, it made me aware of how quickly a bird of prey could size up your cat while you're only a few feet away.
+
 House cats whose outdoor activities have been limited to forays across manicured lawns will probably not survive being let outdoors in New Hampshire. 
 
-I kept my late cat indoors and she chafed against the restriction, developing a form of cabin fever: an occasional mix of irritability and boredom.
+Other than the back balcony, I kept my late cat indoors and she chafed against the restriction, developing a form of cabin fever: an occasional mix of irritability and boredom.
 
 If you own a cat, this may be a tough decision for you. If you have the option, choose a home that has enough interior space (at least 1,000 square feet I'd say) so that Fluffy the Cat run around at full speed and get adequate exercise.
