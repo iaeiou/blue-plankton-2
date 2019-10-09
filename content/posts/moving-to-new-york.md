@@ -80,6 +80,9 @@ Realize that as late as April and May you may be running your wood stove — at 
 
 Knowing that timing is an important factor in cost of firewood should help you when planning your move.
 
+> Knowledge and timber shouldn't be used until they are seasoned.<br/>
+<cite> - Oliver Wendell Holmes</cite>
+
 #### Beware: Firewood Deliveries Might Become Significantly Delayed
 
 It's important to not expect delivery dates to remain the same year after year. They can fluctuate dramatically.
