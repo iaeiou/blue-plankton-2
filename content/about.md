@@ -1,8 +1,8 @@
 ---
 title: About Me
 subtitle: >-
-  " "Don't be too timid and squeamish about your actions. All life is an
-  experiment. The more experiments you make the better. "
+  "Small towns make up for their lack of people by having everyone be more
+  interesting." - Doris "Granny D" Haddock
 img_path: images/about.jpg
 menu:
   main:
