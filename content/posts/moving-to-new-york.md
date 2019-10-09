@@ -60,7 +60,7 @@ Find a good source — like the town clerk — who can tell you where you can fi
 
 I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank">Treehugger Farms</a> in Westmoreland, Cheshire County. You can buy seasoned, semi-seasoned, or de-barked, kiln-dried wood (my favorite). 
 
-Their delivery radius is limited but you can also pick up wood there yourself. 
+Their delivery radius covers much of southwestern New Hamsphire and parts of southeastern Vermont. But, you can also pick up wood yourself at Treehuggers. Contact them for details. 
 
 Kiln-dried wood is ready to burn, and catches fire quickly. You also don't have to be concerned about bugs potentially being in the wood. 
 
@@ -80,7 +80,6 @@ Realize that as late as April and May you may be running your wood stove — at 
 
 Knowing that timing is an important factor in cost of firewood should help you when planning your move.
 
-
 #### Beware: Firewood Deliveries Might Become Significantly Delayed
 
 It's important to not expect delivery dates to remain the same year after year. They can fluctuate dramatically.
@@ -93,7 +92,7 @@ Here's what I mean.
 The lesson here is: don't assume. Or, assume the worst. 
 
 > Knowledge and timber shouldn't be used until they are seasoned.<br/>
-<cite> - Oliver Wendell Holmes</cite>
+> <cite> - Oliver Wendell Holmes</cite>
 
 If you're buying kiln-dried firewood, I wouldn't wait later than September to get your first cord or two. 
 
