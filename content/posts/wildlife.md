@@ -61,8 +61,13 @@ If you own a cat, this may be a tough decision for you. If you have the option, 
 
 I think it's wise to be prepared for an encounter with a wild animal like a bear, bobcat, or coyote. 
 
-All three usually mind their own business. Exceptions are rabid bobcats or coyotes, which can kill you via the initial attack. 
+All three usually mind their own business. And it's unlikely you'll have a problem with them if you mind your own business as well.
 
-Black bears are also known for minding their own business, but there have been some rare cases of fatal attacks on humans. 
+Exceptions are:
 
-One simply solution is to buy what's known as "bear spray" and always carry it with you.
+* Rabid bobcats or coyotes, which can kill you via the initial attack. 
+* In the U.S. there have been some rare but fatal attacks by black bears 
+
+One simply solution is to buy what's known as "bear spray" and always carry it with you. 
+
+And don't try to approach a black bear to get a selfie.
