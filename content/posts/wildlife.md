@@ -29,7 +29,6 @@ Otters, martens, mink, beavers, fishers (commonly called fisher-cats), and varie
 
 ![coyote](https://res.cloudinary.com/icecloud7/image/upload/w_auto,f_auto,q_auto/v1570511812/ruralnh/coyote_nslzqu.png)
 
-
 ## What About Wolves or Cougars?
 
 Officially, there are no cougars in New Hampshire. That means the Fish and Wildlife Departments states that there is no evidence of cougars in the area. 
@@ -44,8 +43,12 @@ They'll also tell you that it's definitely not safe to let your cat out. That pu
 
 Every town has a steady flow of new "cat missing" flyers up. And every cat adoption agency has one-eyed, one-eared, no-eared, bob-tailed, and 3-legged cats up for adoption.
 
-That said, my neighbor's cat continues to live an indoor-outdoor cat, and a stealthy hunter. (It's also bob-tailed.) It roams this area that's populated with coyote, foxes, and bobats, and seems to hold its own. But it does have a sprinkling of tool sheds, barns, garages, and porches to dart under in an emergency.
+That said, my neighbor's cat continues to live an indoor-outdoor cat, and is a stealthy hunter. (It's also bob-tailed.) It roams this area that's populated with coyote, foxes, and bobats, and seems to hold its own. But it does have a sprinkling of tool sheds, barns, garages, and porches to dart under in an emergency.
 
-(Note: I've seen bobcats out in the morning and afternoon. They're not just nocturnal.)
+(Note: I've seen bobcats and coyotes roaming in daylight. They're not just nocturnal.)
+
+House cats whose outdoor activities have been limited to forays across manicured lawns will probably not survive being let outdoors in New Hampshire. 
 
 I kept my late cat indoors and she chafed against the restriction, developing a form of cabin fever: an occasional mix of irritability and boredom.
+
+If you own a cat, this may be a tough decision for you. If you have the option, choose a home that has enough interior space (at least 1,000 square feet I'd say) so that Fluffy the Cat run around at full speed and get adequate exercise.
