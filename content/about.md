@@ -12,7 +12,7 @@ When I moved to New Hamsphire from the Washington, D.C. metro area, it was the f
 
 At first, I experienced a bit of culture shock. Where were the familiar signs of everyday life: 7-11s, Burger Kings, or other brightly colored franchises that dotted main intersections and  served as familiar waypoints? 
 
-> "Small towns make up for their lack of people by having everyone be more interesting." <br/>
+> Small towns make up for their lack of people by having everyone be more interesting. <br/>
 > <cite>- Doris "Granny D" Haddock</cite>
 
 I soon grew to love the vacation-paced life and the brilliant blue skies poked by miles of pine trees.
