@@ -80,8 +80,6 @@ Realize that as late as April and May you may be running your wood stove — at 
 
 Knowing that timing is an important factor in cost of firewood should help you when planning your move.
 
-> Knowledge and timber shouldn't be used until they are seasoned.<br/>
-<cite> - Oliver Wendell Holmes</cite>
 
 #### Beware: Firewood Deliveries Might Become Significantly Delayed
 
@@ -92,9 +90,10 @@ Here's what I mean.
 * The first year I bought firewood, there was a one-week wait for delivery. 
 * The second year I bought firewood — from the same source — there was a 2-month wait. 
 
-I had waited late to buy because I had assumed delivery would be within a week. 
-
 The lesson here is: don't assume. Or, assume the worst. 
+
+> Knowledge and timber shouldn't be used until they are seasoned.<br/>
+<cite> - Oliver Wendell Holmes</cite>
 
 If you're buying kiln-dried firewood, I wouldn't wait later than September to get your first cord or two. 
 
