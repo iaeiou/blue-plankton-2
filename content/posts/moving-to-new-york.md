@@ -124,7 +124,7 @@ Other options:
 
 #### Get Your Chimney Cleaned Once a Year
 
-In fall you'll want to get your chimney cleaned. This is a safety move: removing any creosote build up will substantially decrease the risk of having a chimney fire. 
+In fall you'll want to get your chimney cleaned. Removing any creosote build up substantially decreases the risk of chimney fires. 
 
 ## Pellet Stoves
 
