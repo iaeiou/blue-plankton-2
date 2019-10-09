@@ -3,7 +3,7 @@ title: About Me
 subtitle: >-
   "Small towns make up for their lack of people by having everyone be more
   interesting." - Doris "Granny D" Haddock
-img_path: images/about.jpg
+img_path: ''
 menu:
   main:
     name: About
