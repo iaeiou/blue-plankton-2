@@ -65,6 +65,6 @@ The bottom line is, if you move to rural New Hampshire you should get a Jetpack 
 
 ## Stick With Comcast
 
-My advice is: don't consider any living situation that doesn't provide Comcast. Even where I'm at - 15 minutes up the road, there's Comcast. 
+My advice is: don't consider any living situation that doesn't provide Comcast. If you've found a rural home you love but Comcast isn't provided, frequently you'll find that 15 minutes up the road you can get Comcast and it's highest level of internet speed.
 
 So making Comcast service a stipulation of the home you select, doesn't mean forgoing living on a mountain in the woods on in a valley by a river.
