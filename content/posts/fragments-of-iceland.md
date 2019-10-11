@@ -11,6 +11,10 @@ layout: post
 ---
 Working from home with a view like the I have is one thing that draws people to consider living in rural New Hampshire.
 
-But beware: getting acceptable quality internet service can become a real headache. I hope to spare you by sharing my experiences and tips. 
+But beware: there are plenty of cheap places with incredible views, but getting acceptable quality internet service can become an infuriating (and draining) headache. I hope to spare you any troubles by sharing my experiences and tips. 
+
+One of the goals of this blog is to share an unvarnished view of the lifestyle up here. And this post is going to be unvarnished on the negative side.
+
+
 
 ![](/images/view-from-cabin.jpg)
