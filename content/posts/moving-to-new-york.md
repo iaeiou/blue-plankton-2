@@ -98,6 +98,14 @@ If you're buying kiln-dried firewood, I wouldn't wait later than September to ge
 
 The only person responsible for making sure you can get the firewood you need is — you guessed it — you. 
 
+##### What If You're Stuck With No Firewood?
+
+What if you get hit with a delay in delivery and snow is moving in? Well, here, Treehuggers may be a godsend. 
+
+On Saturday mornings, they usually offer self-service pickup until noon. It's first-come, first-served, and there are usually a line of cars waiting their turn. 
+
+You can take a maximum of one cord.  Most people simply fill up the back of their car or pickup truck, and owner Donna will eyeball it when you're done to price it. 
+
 #### Source Kindling
 
 You'll also need make a plan to get kindling - and an adequate amount of it. 
