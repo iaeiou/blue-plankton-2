@@ -4,9 +4,8 @@ date: '2018-01-09'
 thumb_img_path: /images/view-from-cabin.jpg
 content_img_path: ''
 excerpt: >-
-  Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
-  It has a population of 325,671 and an area of 103,000 km2 (40,000 sq mi),
-  making it the most sparsely populated country in Europe.
+  Getting good internet service may be your biggest challenge in moving to New
+  Hampshire.
 layout: post
 ---
 Working from home with a view like the I have is one thing that draws people to consider living in rural New Hampshire.
