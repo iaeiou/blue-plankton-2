@@ -1,7 +1,7 @@
 ---
 title: 'Internet Service in Rural New Hampshire: A Real Challenge'
 date: '2018-01-09'
-thumb_img_path: images/7.jpg
+thumb_img_path: /images/view-from-cabin.jpg
 content_img_path: images/7.jpg
 excerpt: >-
   Iceland is a Nordic country between the North Atlantic and the Arctic Ocean.
