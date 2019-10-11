@@ -39,7 +39,7 @@ In my case, the old-fashioned ISP was bought out by a firm in the Midwest. Then 
 * Once, when the internet went out, and I called the company, they said they'd send a technician out, but there would be a waiting period of _one month_.
 * The technician never arrived. Instead, I received a charge -- in 3 figures -- for his nonarrival on a date in another month!
 
-This criminal enterprise has a well-deserved "F" rating with the Better Business Bureau which carries a red alert warning that: "BBB has received a pattern of consumer complaints alleging, inferior service, billing issues, delays in responding to consumers and overall poor customer service.On November 1, 2017, BBB sent a letter to the company with its concerns.  The business has not responded to the letter."
+This criminal enterprise has a well-deserved "F" rating with the Better Business Bureau which carries a red alert warning that: "BBB has received a pattern of consumer complaints alleging, inferior service, billing issues, delays in responding to consumers and overall poor customer service. On November 1, 2017, BBB sent a letter to the company with its concerns.  The business has not responded to the letter."
 
 ## The Switch to Verizon Mifi
 
