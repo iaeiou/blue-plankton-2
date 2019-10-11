@@ -11,7 +11,7 @@ layout: post
 ---
 Working from home with a view like the I have is one thing that draws people to consider living in rural New Hampshire.
 
-But beware: there are plenty of cheap places with incredible views, but getting acceptable quality internet service can become an infuriating (and draining) headache. I hope to spare you any troubles by sharing my experiences and tips. 
+But beware: there are plenty of places with incredible views, but getting acceptable quality internet service can become an infuriating (and draining) headache. I hope to spare you grief by sharing my experiences and tips. 
 
 One of the goals of this blog is to share an unvarnished view of the lifestyle up here. And this post is going to be unvarnished on the negative side.
 
@@ -21,7 +21,7 @@ One of the goals of this blog is to share an unvarnished view of the lifestyle u
 
 \
 \
-There is only one truly modern Internet Service Provider (ISP) in New Hampshire: it's Comcast. Your goal should be to only rent or purchase a home that can receive Comcast service.
+There is only one truly modern Internet Service Provider (ISP) in New Hampshire: it's Comcast. Your goal should be to _only rent or purchase a home that can receive Comcast service._
 
 If you decide to consider a place that does not have Comcast service, then your options are as follows. 
 
@@ -31,12 +31,12 @@ If you decide to consider a place that does not have Comcast service, then your 
 4. You'll likely be charged a bloated fee for someone to "turn on" the internet at your home. 
 5. If you decide to get phone service through your ISP, it may never work properly. (For example, the phone ringer may never work, and your calls may drop while erratic static interrupts conversations, or you may hear other conversations bleeding through -- like the old party lines.)
 
-In my case, the old-fashioned ISP was bought out by a firm in the Midwest and then service became criminal. 
+In my case, the old-fashioned ISP was bought out by a firm in the Midwest. Then the service became criminal. 
 
 * Every month spurious charges would be tacked on to my bill, driving this non-high-speed internet bill up to $179/month -- with no cable, just basic internet. 
-* When I complained, they said all those charges were added on because I had my service "disconnected." When I replied that the service was never disconnected, they replied "Well, it _should've_ been."
+* When I complained, they said all those charges were added on because I had my service "disconnected." When I replied that the service was never disconnected, they replied "Well, it _should've_ been." In other words, they were in essence saying, "We can charge you whatever we feel like and you can't do anything about it, can you?"
 * Soon my substandard $12/month phone service became bloated up to $89/month as well, with no explanation. 
 * Once, when the internet went out, and I called the company, they said they'd send a technician out, but there would be a waiting period of _one month_.
-* The technician never arrived. Instead, I received a charge -- in 3 figures -- for his nonarrival. 
+* The technician never arrived. Instead, I received a charge -- in 3 figures -- for his nonarrival on a date in another month!
 
-This criminal enterprise has an "F" rating with the Better Business Bureau which carries a red alert warning that: "BBB has received a pattern of consumer complaints alleging, inferior service, billing issues, delays in responding to consumers and overall poor customer service.On November 1, 2017, BBB sent a letter to the company with its concerns.  The business has not responded to the letter."
+This criminal enterprise has a well-deserved "F" rating with the Better Business Bureau which carries a red alert warning that: "BBB has received a pattern of consumer complaints alleging, inferior service, billing issues, delays in responding to consumers and overall poor customer service.On November 1, 2017, BBB sent a letter to the company with its concerns.  The business has not responded to the letter."
