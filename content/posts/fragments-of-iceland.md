@@ -18,3 +18,8 @@ One of the goals of this blog is to share an unvarnished view of the lifestyle u
 
 
 ![](/images/view-from-cabin.jpg)
+
+
+
+1. You must research the internet service available at your prospective home thoroughly. If the brand is one you've never heard of, and the home is occupied, see if you can see an example of the quality of video streaming.
+2. Even if you do #1, you may wind up signing a lease or purchasing a home that suddenly is dropped for service by the Internet Service Provider (ISP) as soon as the old tenant or owner moves out.
