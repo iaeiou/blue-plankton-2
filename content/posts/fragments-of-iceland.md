@@ -43,11 +43,11 @@ This criminal enterprise has a well-deserved "F" rating with the Better Business
 
 ## The Switch to Verizon Mifi
 
-Since doing business with this outfit was intolerable (there was no control over the billing), I opted for mifi with Verizon and am much happier. 
+Since doing business with this outfit was intolerable (there was no control over the billing), I opted for mifi and reclaimed my personal sovereignty. I'm much happier with this simple set up.
 
 If you work from home, an added benefit of mifi is you can switch things up and work at a cafe, a park, wherever you'd like.  
 
-In my line of work, I can't use public internet for security reasons. So the mifi is perfect for that. 
+In my line of work, I can't use public internet for security reasons. So the mifi gives me the freedom to roam.
 
 However, I there are some things you need to know about Verizon's mifi limitations. 
 
@@ -55,10 +55,18 @@ I opted for the "unlimited" data plan for $70.
 
 For the first few months, the service was amazing. Then suddenly, I started getting throttled back. Typically it's on Fridays and the weekend (with the exception of late night hours) and towards the end of the billing cycle. 
 
-At its worst, I've been throttled back to .02 mpbs upload speed. Meaning, on ocassion I have to stop working because the internet becomes unusable. 
+At its worst, I've been throttled back to .02 mpbs upload speed. That's unusable. 
 
-Overall I'm much happier with Verizon's mifi than the service I had that was run by thugs. The billing is predictable and I have more freedom in terms of where I can work from. 
+But the billing is predictable and I have more freedom in terms of where I can work from. 
 
 I do wish there was a way to pay for truly unlimited data.
 
 Some of you may wonder about buying a second SIM card, and putting $30 on it, and popping it in when the throttling starts. I tried that and it had zero effect on the throttling.
+
+The bottom line is, if you move to rural New Hampshire you should get a Jetpack -- or something similar - before you arrive. Even if you get Comcast service - which I hope you'll do - the mifi will still come in handy. 
+
+## Stick With Comcast
+
+My advice is: don't consider any living situation that doesn't provide Comcast. Even where I'm at - 15 minutes up the road, there's Comcast. 
+
+So making Comcast service a stipulation of the home you select, doesn't mean forgoing living on a mountain in the woods on in a valley by a river.
