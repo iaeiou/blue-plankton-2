@@ -47,4 +47,18 @@ Since doing business with this outfit was intolerable (there was no control over
 
 If you work from home, an added benefit of mifi is you can switch things up and work at a cafe, a park, wherever you'd like.  
 
-In my line of work, I can't use public internet for security reasons. So the mifi is perfect for that.
+In my line of work, I can't use public internet for security reasons. So the mifi is perfect for that. 
+
+However, I there are some things you need to know about Verizon's mifi limitations. 
+
+I opted for the "unlimited" data plan for $70.
+
+For the first few months, the service was amazing. Then suddenly, I started getting throttled back. Typically it's on Fridays and the weekend (with the exception of late night hours) and towards the end of the billing cycle. 
+
+At its worst, I've been throttled back to .02 mpbs upload speed. Meaning, on ocassion I have to stop working because the internet becomes unusable. 
+
+Overall I'm much happier with Verizon's mifi than the service I had that was run by thugs. The billing is predictable and I have more freedom in terms of where I can work from. 
+
+I do wish there was a way to pay for truly unlimited data.
+
+Some of you may wonder about buying a second SIM card, and putting $30 on it, and popping it in when the throttling starts. I tried that and it had zero effect on the throttling.
