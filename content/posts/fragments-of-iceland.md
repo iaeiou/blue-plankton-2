@@ -1,5 +1,5 @@
 ---
-title: Fragments of Iceland
+title: 'Internet Service in Rural New Hampshire: A Real Challenge'
 date: '2018-01-09'
 thumb_img_path: images/7.jpg
 content_img_path: images/7.jpg
