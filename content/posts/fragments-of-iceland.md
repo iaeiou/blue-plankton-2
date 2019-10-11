@@ -51,15 +51,13 @@ In my line of work, I can't use public internet for security reasons. So the mif
 
 However, I there are some things you need to know about Verizon's mifi limitations. 
 
-I opted for the "unlimited" data plan for $70.
+* I opted for the "unlimited" data plan for $70.
+* For the first few months, the service was amazing. Then suddenly, I started getting throttled back. Typically it's on Fridays and the weekend (with the exception of late night hours) and towards the end of the billing cycle. 
+* At its worst, I've been throttled back to .02 mpbs upload speed. That's unusable. 
 
-For the first few months, the service was amazing. Then suddenly, I started getting throttled back. Typically it's on Fridays and the weekend (with the exception of late night hours) and towards the end of the billing cycle. 
+But most of the time, there isn't any discernible throttling, the billing is predictable, and I have more freedom in terms of where I can work from.
 
-At its worst, I've been throttled back to .02 mpbs upload speed. That's unusable. 
-
-But the billing is predictable and I have more freedom in terms of where I can work from. 
-
-I do wish there was a way to pay for truly unlimited data.
+I do wish there was a way to pay for _truly_ unlimited data.
 
 Some of you may wonder about buying a second SIM card, and putting $30 on it, and popping it in when the throttling starts. I tried that and it had zero effect on the throttling.
 
