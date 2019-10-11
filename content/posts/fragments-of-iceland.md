@@ -41,6 +41,8 @@ In my case, the old-fashioned ISP was bought out by a firm in the Midwest. Then 
 
 This criminal enterprise has a well-deserved "F" rating with the Better Business Bureau which carries a red alert warning that: "BBB has received a pattern of consumer complaints alleging, inferior service, billing issues, delays in responding to consumers and overall poor customer service.On November 1, 2017, BBB sent a letter to the company with its concerns.  The business has not responded to the letter."
 
+## The Switch to Verizon Mifi
+
 Since doing business with this outfit was intolerable (there was no control over the billing), I opted for mifi with Verizon and am much happier. 
 
 If you work from home, an added benefit of mifi is you can switch things up and work at a cafe, a park, wherever you'd like.  
