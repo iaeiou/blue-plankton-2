@@ -130,7 +130,15 @@ Other options:
 1. You can buy a gas-powered log splitter to break your logs into smaller pieces
 2. Be a real Yank and use a maul to split your own firewood. (My 83-year old neighbor does this!)
 
-### Stacking Firewood
+### Firewood Delivery and Stacking
+
+Before your firewood is delivered, you'll want to get a couple of large tarps. One is for the ground where the firewood will be dumped (in case the ground is wet) and the other is to protect the pile from rain until it gets stacked. 
+
+I mentioned that if you hire someone to stack your firewood for you, that you can count on spending about $50 for that. Realize though that you may not be able to find anyone to do this task. 
+
+Some rural communities in New Hampshire have a predominantly elderly population. So factor that into your plans. 
+
+If you choose to stack your firewood, here are some tips. 
 
 #### Get Your Chimney Cleaned Once a Year
 
