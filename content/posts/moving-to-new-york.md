@@ -104,7 +104,7 @@ What if you get hit with a delay in delivery and snow is moving in? Well, here, 
 
 On Saturday mornings, they usually offer self-service pickup until noon. It's first-come, first-served, and there are usually a line of cars waiting their turn. 
 
-You can take a maximum of one cord.  Most people simply fill up the back of their car or pickup truck, and owner Donna will eyeball it when you're done to price it. 
+You can take a maximum of one cord.  Most people simply fill up the back of their car or pickup truck, and Donna (co-owner) will eyeball it when you're done to price it. 
 
 #### Source Kindling
 
@@ -129,6 +129,8 @@ Other options:
 
 1. You can buy a gas-powered log splitter to break your logs into smaller pieces
 2. Be a real Yank and use a maul to split your own firewood. (My 83-year old neighbor does this!)
+
+### Stacking Firewood
 
 #### Get Your Chimney Cleaned Once a Year
 
