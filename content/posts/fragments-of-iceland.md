@@ -10,7 +10,7 @@ layout: post
 ---
 Whether you're self-employed, a small business owner, or a member of the gig economy, there are good reasons to consider a move to rural New Hampshire.  
 
-There are plenty of places in beautiful settings, but getting acceptable quality internet service can become an infuriating (and draining) headache. I hope to spare you grief by sharing my experiences and tips. 
+There are plenty of homes in beautiful settings, but getting acceptable quality internet service can become an infuriating (and draining) headache. I hope to spare you grief by sharing my experiences and tips. 
 
 One of the goals of this blog is to share an unvarnished view of the lifestyle up here. And this post is going to be unvarnished on the negative side.
 
