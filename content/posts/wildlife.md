@@ -96,7 +96,7 @@ A few days after watching the animated Pixar movie _Ratatouille_, I looked out a
 
 Like Remy, this rat had good taste.
 
-I didn't think much of it. Soon, in the spring, I found out that Remy had decided to make a nest and move the whole family into some piping below the deck. The deck overlooked a sloping hill -- so the Remy clan was holed up about a story below the deck. 
+I didn't think much of it. Soon, in the spring, I found out that Remy had decided to make a nest in some piping below the deck. __The deck overlooked a sloping hill -- so the Remy clan -- including little rat _bébés --_ was holed up about a story below the deck. 
 
 Turns out that rats inhabit the marshy area a couple of miles from the mountain. When the ice thaws they head to higher ground. 
 
