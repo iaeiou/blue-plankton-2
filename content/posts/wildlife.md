@@ -117,3 +117,13 @@ So the mice would enter the building, climb up the walls and pop out and visit w
 That situation was handled but be aware: mice will seek to get inside structures in the winter. Temperatures here have gotten as low as -19°F and -27°F with a windchill factor. 
 
 #### Settling Near the Water
+
+Living near a river or stream is going to increase (significantly) the likelihood of having a challenge with rodents. But it can be rectified. 
+
+Here's my river story. After moving in to a home on Connecticut River and heading into the first winter, I put out some mousetraps just to be on the safe side. 
+
+I was dismayed by the number of deer mice I was catching. Long story short, I had to get a critter control service to come rectify the issue. 
+
+Again: the problem was behind the stove. There was a hole behind the stove that the electrical cable passed through. Deer mice had gotten into the wall through an exterior crack in the foundation. Then they had chewed that interior cable hole until it was wide enough for them to pass through. 
+
+I never had a single rodent problem after the critter control specialists came out. They sealed every crack or hole they could find, and spread out mice poison traps around the outside.
