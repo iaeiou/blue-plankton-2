@@ -1,5 +1,5 @@
 ---
-title: 'Staying Warm in Winter: Firewood and Other Considerations'
+title: 'Staying Warm in Winter: Firewood and Heat'
 subtitle: By Sherrie Gossett
 date: '2018-01-23'
 thumb_img_path: /images/firewood-by-cabin.png
