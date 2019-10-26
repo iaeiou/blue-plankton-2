@@ -90,6 +90,8 @@ When I moved to New Hampshire, I settled on a ski mountain. The condo had a back
 
 I (and my cat) loved seeing the variety of visitors we'd attract -- including the increasingly rotund squirrel. 
 
+### Remy the Rat moves in
+
 A few days after watching the animated Pixar movie _Ratatouille_, I looked out and saw Remy the Rat on my deck! Sitting on his hind legs, this rat had is nose stuck up in the air, slowing waving his head around, obviously trying to hone in on the peanut-cherry mix. (The feeder was empty). 
 
 Like Remy, this rat had good taste.
