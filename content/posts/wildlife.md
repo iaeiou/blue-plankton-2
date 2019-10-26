@@ -83,3 +83,21 @@ Exceptions are:
 A simple solution is to buy what's known as "bear spray" and always carry it with you. 
 
 Also - don't try to approach a black bear to get a selfie.
+
+## Rodents -- Less Thrilling
+
+When I moved to New Hampshire, I settled on a ski mountain. The condo had a back deck, and during winter I kept a bird feeder full of an Audubon peanut-cherry mix. 
+
+I (and my cat) loved seeing the variety of visitors we'd attract -- including the increasingly rotund squirrel. 
+
+A few days after watching the animated Pixar movie _Ratatouille_, I looked out and saw Remy the Rat on my deck! Sitting on his hind legs, this rat had is nose stuck up in the air, slowing waving his head around, obviously trying to hone in on the peanut-cherry mix. (The feeder was empty). 
+
+Like Remy, this rat had good taste.
+
+I didn't think much of it. Soon, in the spring, I found out that Remy had decided to make a nest and move the whole family into some piping below the deck. The deck overlooked a sloping hill -- so the Remy clan was holed up about a story below the deck. 
+
+Turns out that rats inhabit the marshy area a couple of miles from the mountain. When the ice thaws they head to higher ground. 
+
+But why stay on the move if you've got cherry-peanut-seed mix falling like manna from heaven every day? 
+
+Moral of the story: Never put a bird feeder up in New Hampshire. You will get a rodent infestation, guaranteed.
