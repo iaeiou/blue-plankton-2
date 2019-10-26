@@ -53,7 +53,7 @@ Locals also say that wolves have returned to New Hampshire.
 
 They'll also tell you that it's definitely not safe to let your cat out. That puts a cramp on a cat's natural desire for outdoor adventures. 
 
-Every town has a steady flow of new "cat missing" flyers up. And every cat adoption agency has one-eyed, one-eared, no-eared, bob-tailed, and 3-legged cats up for adoption. (No, you can't get a discount for adopting felines with missing parts.)
+Every town has a steady flow of new "cat missing" flyers up. And every cat adoption agency has one-eyed, one-eared, no-eared, bob-tailed, and 3-legged cats up for adoption. (No, you can't get a discount on felines with missing parts.)
 
 That said, my neighbor's cat continues to live an indoor-outdoor cat, and is a stealthy hunter. It roams this area that's populated with coyote, foxes, and bobcats, and seems to hold its own. But it does have a sprinkling of tool sheds, barns, garages, and porches to dart under in an emergency. And most of its tail is missing.
 
