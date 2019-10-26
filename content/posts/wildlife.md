@@ -72,6 +72,7 @@ If you have the option, choose a home that has enough interior space so that Flu
 ![](/images/chloe-on-pouf.jpg)
 <br/>
 Chloe the Cat, experiencing cabin fever.
+
 <hr>
 ## Bear Spray
 
@@ -124,9 +125,11 @@ That situation was handled but be aware: mice will seek to get inside structures
 
 Living near a river or stream is going to increase (significantly) the likelihood of having a challenge with rodents. But it can be rectified. 
 
-Here's my river story. After moving in to a home on Connecticut River and heading into the first winter, I put out some mousetraps just to be on the safe side. 
+After moving in to a home on the Connecticut River and heading into the first winter, I put out some mousetraps just to be on the safe side. 
 
-I was dismayed by the number of deer mice I was catching. Long story short, I had to get a critter control service to come rectify the issue. (Expect to spend about $3k on that.)
+I was dismayed by the number of deer mice I was catching. Worse, some were managing to lick the peanut butter off the traps without springing them, which meant my bait was just attracting more mice. 
+
+Long story short, I had to get a critter control service to come rectify the issue. 
 
 Again: the problem was behind the stove. There was a hole behind the stove that the electrical cable passed through. Deer mice had gotten into the wall through an exterior crack in the foundation. Then they had chewed that interior cable hole until it was wide enough for them to pass through. 
 
