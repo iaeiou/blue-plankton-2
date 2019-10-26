@@ -17,9 +17,9 @@ I ran to the next window and saw there actually two coyotes - one following the 
 
 During the spring, sitting at the same desk, I looked up to see a bobcat sauntering lazily across the grass. A few months later, a different bobcat made an appearance. 
 
-Once at night I got up to investigate a thump on the back porch, only to see a large owl -- wholly unperturbed by my presence who simply stared back at me. I'm pretty sure he had just scored a midnight snack. 
+Once at night I got up to investigate a thump on the back porch, only to see a large owl -- wholly unperturbed by my presence who simply stared back at me. I'm pretty sure he had just scored a tasty midnight snack. 
 
-This summer, driving up a country two-lane road, I saw the car in front of me had stopped. I stopped behind him, and quickly saw the reason for the hold-up: a huge black bear. This bear, like the owl, was unperturbed by the presence of two cars. He took his time to meander across the road, and inspected the view on the other side of the guardrail. 
+This summer, driving up a country two-lane road, I saw the car in front of me had stopped. I pulled up behind him, and quickly saw the reason for the hold-up: a huge black bear. This bear, like the owl, was unruffled by the presence of two cars. He took his time to meander across the road, and carefully inspected the view past the guardrail. 
 
 Not convinced that it was a good idea to complete his road crossing, the bear slowly padded up the side of the road towards my car and crossed diagonally back to the other side. 
 
