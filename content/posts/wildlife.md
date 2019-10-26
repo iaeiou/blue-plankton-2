@@ -96,7 +96,7 @@ A few days after watching the animated Pixar movie _Ratatouille_, I looked out a
 
 Like Remy, this rat had good taste.
 
-I didn't think much of it. Soon, in the spring, I found out that Remy had decided to make a nest in some piping below the deck. __The deck overlooked a sloping hill -- so the Remy clan -- including little rat _bébés --_ was holed up about a story below the deck. 
+I didn't think much of it. Soon, in the spring, I found out that Remy had decided to make a nest in some piping below the deck. The deck overlooked a sloping hill -- so the Remy clan -- including little rat _bébés --_ was holed up about a story below the deck. 
 
 Turns out that rats inhabit the marshy area a couple of miles from the mountain. When the ice thaws they head to higher ground. 
 
@@ -122,8 +122,10 @@ Living near a river or stream is going to increase (significantly) the likelihoo
 
 Here's my river story. After moving in to a home on Connecticut River and heading into the first winter, I put out some mousetraps just to be on the safe side. 
 
-I was dismayed by the number of deer mice I was catching. Long story short, I had to get a critter control service to come rectify the issue. 
+I was dismayed by the number of deer mice I was catching. Long story short, I had to get a critter control service to come rectify the issue. (Expect to spend about $3k on that.)
 
 Again: the problem was behind the stove. There was a hole behind the stove that the electrical cable passed through. Deer mice had gotten into the wall through an exterior crack in the foundation. Then they had chewed that interior cable hole until it was wide enough for them to pass through. 
 
-I never had a single rodent problem after the critter control specialists came out. They sealed every crack or hole they could find, and spread out mice poison traps around the outside.
+I never had a single rodent problem after the critter control specialists came out. They sealed every crack or hole they could find, and spread out mice poison traps around the outside. 
+
+Note: If your home does not have a basement, they'll tell you that they can guarantee that it's 100% 'sealable.' Mine doesn't have basement and I haven't had a single "visitor" since that winter.
