@@ -11,21 +11,33 @@ excerpt: >-
   mean for Fluffy the Cat?
 layout: post
 ---
+This past winter I looked up from my desk and caught a view of a coyote bounding over the blue-green mountainscape of ice ridges lining the eastern bank of the Connecticut River. 
+
+I ran to the next window and saw there actually two coyotes - one following the other.
+
+During the spring, sitting at the same desk, I looked up to see a bobcat sauntering lazily across the grass. A few months later, a different bobcat made an appearance. 
+
+Once at night I got up to investigate a thump on the back porch, only to see a large owl -- wholly unperturbed by my presence who simply stared back at me. I'm pretty sure he had just scored a midnight snack. 
+
+This summer, driving up a country two-lane road, I saw the car in front of me had stopped. I stopped behind him, and quickly saw the reason for the hold-up: a huge black bear. This bear, like the owl, was unperturbed by the presence of two cars. He took his time to meander across the road, and inspected the view on the other side of the guardrail. 
+
+Not convinced that it was a good idea to complete his road crossing, the bear slowly padded up the side of the road towards my car and crossed diagonally back to the other side. 
+
+It's a thrill to be able to see these magnificent creatures up close in the wild -- even if it's for a few fleeting moments. 
+
 You may be wondering what sort of wildlife you can you expect to see in rural New Hampshire.
 
- In the past 2 years I've seen: 
-
-* Black bears (twice - hanging out in the middle of the road)
-* Coyotes (crossing the road, three at a time, or running on ice shards along the Connecticut River)
+* Black bears
+* Coyotes 
 * Foxes
 * Bobcats
-* Deer (infrequently in this area)
+* Deer
 * Bald eagles
 * A variety of owls, hawks or falcons
 
 We also have the usual assortment of skunks, porcupines, rabbits, chipmunks, squirrels, opossums, groundhogs, raccoons and other critters you can find in most American states. 
 
-Otters, martens, mink, beavers, fishers (commonly called fisher-cats), and varieties of weasels seem elusive. 
+Otters, martens, mink, beavers, fishers (commonly called fisher cats), and varieties of weasels seem elusive. 
 
 ![coyote](https://res.cloudinary.com/icecloud7/image/upload/w_auto,f_auto,q_auto/v1570511812/ruralnh/coyote_nslzqu.png)
 
