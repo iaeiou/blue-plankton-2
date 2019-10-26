@@ -95,13 +95,13 @@ It wasn't just that they were experiencing a higher _volume_ of calls. It turned
 
 AAA had given me an initial (long) time frame for the arrival of the tow truck. When that time passed, and I called for an update, they admitted they had never sent anyone out in the first place, and didn't know _who_ to send out. 
 
+I felt I had to add some polite pressure to get _anyone_ to come out. (I reminded them of the -6°F temperatures outside.)
+
 > Self-reliance is an everyday part of rural life.
 
-To be fair, I had never experienced that kind of goofiness from AAA before. I share the story because it took forever to get someone, and I felt I had to add some polite pressure to get _anyone_ to come out. (I reminded them of the -6°F temperatures outside.)
-
-In the end it was the fired contractor who came to my rescue, having been called by AAA.
-
 The folks at AAA seemed disorganized, inexperienced, and hapless in a true winter climate emergency. 
+
+To be fair, I had never experienced that kind of goofiness from AAA before nor have I since.
 
 I recommend you make some local connections before winter in the event AAA cannot help you within a reasonable time frame. 
 
