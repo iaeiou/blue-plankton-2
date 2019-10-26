@@ -15,7 +15,7 @@ At first, I experienced a bit of culture shock. Where were the familiar signs of
 > Small towns make up for their lack of people by having everyone be more interesting. <br/>
 > <cite>- Doris "Granny D" Haddock</cite>
 
-I soon grew to love the vacation-paced life and the brilliant blue skies poked by miles of pine trees.
+I soon grew to love the vacation-paced life and the brilliant blue skies framed by miles of pine trees.
 
 After the move I was surprised by the number of friends and acquaintances that were intensely curious about life in New Hampshire.
 
