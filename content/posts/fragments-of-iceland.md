@@ -40,7 +40,7 @@ This criminal enterprise has a well-deserved "F" rating with the Better Business
 
 ## The Switch to Verizon Mifi
 
-Since doing business with this outfit was intolerable (there was no control over the billing), I opted for mifi and reclaimed my personal sovereignty. I'm much happier with this simple set up.
+I opted for mifi and reclaimed my personal sovereignty. I'm much happier with this simple set up.
 
 If you work from home, an added benefit of mifi is you can switch things up and work at a cafe, a park, wherever you'd like.  
 
