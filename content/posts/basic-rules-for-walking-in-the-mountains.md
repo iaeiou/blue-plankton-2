@@ -143,3 +143,15 @@ You can get a Tom-Tom for as little as $99 from Walmart or Amazon.
 One handy feature is the "Point of Interest Near Me." You can use it to quickly find the closest gas station, hotel, grocery store, or other facility.
 
 ## Driving After a Snowstorm
+
+My trick for driving in winter (and having zero accidents) is this: after a snowstorm, drive out to the closest main road. In a rural area, this is going to be a two-lane "highway" (known elsewhere as a winding country road). 
+
+Wait until there's no traffic (which is actually most of the time). Turn out onto the road. Brake repeatedly and get a feel for what you're sensing under your tires. 
+
+If there's fresh snow, but your car is sliding gratuitously, there's ice under the snow. You'll be able to tell that the type of sliding is not controllable. 
+
+(Moderate sliding from hitting the brakes too hard is normal.) 
+
+I've only encountered this type of ice-under-snow phenomenon about 3-4 times since I've been here. My rule is: Turnaround and go back home. Wait for the road to be sanded. 
+
+Don't hestitate to drive as slowly as you feel you need to. You'll find that New Hampshire folks are patient and don't mind.
