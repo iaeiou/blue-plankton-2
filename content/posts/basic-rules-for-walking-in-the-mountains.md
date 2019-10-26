@@ -97,7 +97,7 @@ AAA had given me an initial (long) time frame for the arrival of the tow truck. 
 
 I felt I had to add some polite pressure to get _anyone_ to come out. (I reminded them of the -6°F temperatures outside.)
 
-> Self-reliance is an everyday part of rural life.
+> Self-reliance is a key part of rural life here.
 
 The folks at AAA seemed disorganized, inexperienced, and hapless in a true winter climate emergency. 
 
