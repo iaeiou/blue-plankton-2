@@ -69,6 +69,10 @@ Other than the back balcony, I kept my late cat indoors and she chafed against t
 
 If you have the option, choose a home that has enough interior space so that Fluffy the Cat run around at full speed and get adequate exercise. 
 
+![](/images/chloe-on-pouf.jpg)
+<br/>
+Chloe the Cat, experiencing cabin fever.
+<hr>
 ## Bear Spray
 
 I think it's wise to be prepared for an encounter with a wild animal like a bear, bobcat, or coyote. 
