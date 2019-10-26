@@ -103,3 +103,17 @@ Turns out that rats inhabit the marshy area a couple of miles from the mountain.
 But why stay on the move if you've got cherry-peanut-seed mix falling like manna from heaven every day? 
 
 Moral of the story: Never put a bird feeder up in New Hampshire. You will get a rodent infestation, guaranteed.
+
+### Look Behind the Stove
+
+In the winter, little field mice would somehow get into the condo walls. I found this out from a neighbor. 
+
+The tiny field mice did sometimes visit my condo. I discovered this because my cat Chloe was suddenly obsessed with peering underneath the stove. 
+
+I pulled the stove away from the wall and saw that someone had sawed a one-foot square hole in the wall where cables from the gas stove passed through. 
+
+So the mice would enter the building, climb up the walls and pop out and visit whichever units they could get access to. 
+
+That situation was handled but be aware: mice will seek to get inside structures in the winter. Temperatures here have gotten as low as -19°F and -27°F with a windchill factor. 
+
+#### Settling Near the Water
