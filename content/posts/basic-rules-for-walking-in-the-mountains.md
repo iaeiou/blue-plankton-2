@@ -68,7 +68,7 @@ So when I wore out my first set of snows, four years later, I passed on Fireston
 
 > Tip: Local tires stores don't have the variety you're used to seeing in metropolitan areas. You can order your snows online and take them to a local mechanic to get them mounted.
 
-The Nokian tires are designed in a way that enables a far greater number of studs to be inserted. Plus the tire provides a rear cushioning for the studs, so that the tires are much quieter than the Firestones when driving on asphalt. 
+The Nokian tires are designed in a way that enables a far greater number of studs to be inserted. The design also provides rear cushioning for the studs, so that the tires are much quieter than studded Firestones when driving on asphalt. 
 
 ## Buy a Portable Air Compressor
 
