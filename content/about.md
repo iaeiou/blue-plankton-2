@@ -8,6 +8,8 @@ menu:
     weight: 2
 layout: page
 ---
+Hello! 👋Welcome to ruralnh.org. 
+
 When I moved to New Hamsphire from the Washington, D.C. metro area, it was the first time I had lived in a rural town. 
 
 At first, I experienced a bit of culture shock. Where were the familiar signs of everyday life: 7-11s, Burger Kings, or other brightly colored franchises that dotted main intersections and  served as familiar waypoints? 
