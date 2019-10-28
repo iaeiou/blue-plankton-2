@@ -87,6 +87,4 @@ Exceptions are:
 
 A simple solution is to buy what's known as "bear spray" and always carry it with you. 
 
-Also - don't try to approach a black bear to get a selfie.
-
-##
+Also — never approach a bear to get a selfie.
