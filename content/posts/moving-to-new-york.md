@@ -34,6 +34,8 @@ When I first moved up here my primary source of winter heat was a Vermont Castin
 
 In fact you can easily heat a 2,400 sq. ft. space with one propane stove. (Check the model you're interested in to see what square footage it's rated to heat.)
 
+![wood stove](/images/my-wood-stove.jpg "wood stove")
+
 The stove was connected to a wall-mounted thermostat. This is a great set up especially if you plan on traveling. Set the thermostat and your home will maintain an even temperature.
 
 The stove was also not dependent on electricity: you could start it manually in the event of a power outage.
