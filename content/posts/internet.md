@@ -1,7 +1,7 @@
 ---
 title: 'Internet Service in Rural New Hampshire: A Real Challenge'
 date: '2018-01-09'
-thumb_img_path: https://res.cloudinary.com/icecloud7/image/upload/w_auto,q_auto,f_auto/v1572244536/ruralnh/view-from-cabin_sp0cuq.jpg 
+thumb_img_path: /images/view-from-cabin.jpg
 content_img_path: ''
 excerpt: >-
   Getting good internet service may be your biggest challenge in moving to New
@@ -12,11 +12,7 @@ Whether you're self-employed, a small business owner, or a member of the gig eco
 
 There are plenty of homes in beautiful settings, but getting acceptable quality internet service can become an infuriating (and draining) headache. I hope to spare you grief by sharing my experiences and tips. 
 
-One of the goals of this blog is to share an unvarnished view of the lifestyle up here. And this post is going to be unvarnished on the negative side.
-
-![](/images/view-from-cabin.jpg)
-
-\
+One of the goals of this blog is to share an unvarnished view of the lifestyle up here. And this post is going to be unvarnished on the negative side.\
 \
 There is only one truly modern Internet Service Provider (ISP) in New Hampshire: it's Comcast. Your goal should be to _only rent or purchase a home that can receive Comcast service._
 
