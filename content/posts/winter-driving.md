@@ -3,7 +3,7 @@ title: Preparing Your Car for Winter Driving in New Hampshire
 subtitle: by Sherrie Gossett
 date: '2019-04-09'
 thumb_img_path: >-
-  https://res.cloudinary.com/icecloud7/image/upload/w_auto,q_auto,f_auto/v1570435294/ruralnh/winter-driving-new-hampshire_s4dzcg.png
+  https://res.cloudinary.com/icecloud7/image/upload/w_500,q_auto,f_auto/v1570435294/ruralnh/winter-driving-new-hampshire_s4dzcg.png
 content_img_path: ''
 excerpt: >-
   Prepping your car for winter will make you feel like a real Yankee in no time.
