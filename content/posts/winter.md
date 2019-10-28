@@ -122,9 +122,9 @@ But it wont' be enough to last the winter.
 
 My preferred option is this: 
 
-1. Buy and use A.W. Perkins Firestarters. \
+1. Buy and use <a href="https://www.amazon.com/AW-Perkins-Fire-Starters-Squares/dp/B004KSBQZQ/" target="blank">A.W. Perkins Firestarters.</a> \
    You can get these a box of 144 of these from Amazon for $25. That's the cheapest price I've found. John, the co-owner of Treehugger Farms, showed me how to start a fire using just one single firestarter and some kindling. Leave your wood stove door cracked and let the fire grow gradually. 
-2. Buy a Kindling Cracker. \
+2. Buy a <a href="https://www.amazon.com/stores/node/12670190011?_encoding=UTF8&field-lbr_brands_browse-bin=Kindling%20Cracker&ref_=bl_dp_s_web_12670190011" target="blank">Kindling Cracker</a>. \
    This manual device — the brainchild of a New Zealand student — makes splitting your larger logs into small sticks of firewood easy. Insert your log, and tap it with a club. Easy. The Kindling Cracker runs around $99. 
 
 Other options:
