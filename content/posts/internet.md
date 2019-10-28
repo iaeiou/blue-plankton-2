@@ -1,7 +1,7 @@
 ---
 title: 'Internet Service in Rural New Hampshire: A Real Challenge'
 date: '2018-01-09'
-thumb_img_path: https://res.cloudinary.com/icecloud7/image/upload/w_500,q_auto,f_auto/v1572244536/ruralnh/view-from-cabin_sp0cuq.jpg
+thumb_img_path: https://res.cloudinary.com/icecloud7/image/upload/w_500,q_auto,f_auto,e_sharpen/v1572244536/ruralnh/view-from-cabin_sp0cuq.jpg
 content_img_path: ''
 excerpt: >-
   Getting good internet service may be your biggest challenge in moving to New
