@@ -22,7 +22,7 @@ There are a surprising number of methods that New Hampshire homeowners use to he
 
 My experience is with the first 4, so I'll be focusing on those. 
 
-![](/images/firewood-by-cabin.png)
+<img src="https://res.cloudinary.com/icecloud7/image/upload/w_auto,q_auto,f_auto,e_sharpen/v1572243919/ruralnh/firewood-by-cabin_qsoubm.png" alt="firewood stacked by cabin">
 
 Many homes use more than one source of heat. For example, a friend of mine has a wood-fueled furnace, a gas stove, a wood stove, and a fireplace. 
 
