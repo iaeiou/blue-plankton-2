@@ -77,9 +77,10 @@ abbr[title] {
   text-decoration: underline dotted;
 }
 
+/* added code to float smaller images to right */
 .right {
  float: right;
- padding: 0 0 0 2em;}
+ padding: 0 0 .4em 2em;}
 
 b,
 strong {
