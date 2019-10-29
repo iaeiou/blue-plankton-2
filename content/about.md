@@ -27,4 +27,5 @@ I hope you find it to be an unvarnished account and of practical use.
 
 _Thank you for visiting!_
 
-Sherrie Gossett
+Sherrie Gossett\
+Founder @ <a href="https://www.spearfishcap.com/" target="blank">Spearfish</a>
