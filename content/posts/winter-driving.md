@@ -38,7 +38,7 @@ The brake fluid tester is a pen-like device: remove the cap, and stick the protr
 
 Next, take the hydrometer and use it to extract some radiator fluid out of the reservoir. The gauge on the hydrometer will tell you if your radiator fluid is due for a change. 
 
-### Sprucing Your Car Battery Up
+### Sprucing Your Battery Up
 
 In fall, I clean my battery terminals and lubricate them to sustain a better connection. I also place felt washers around the base of the terminals. 
 
@@ -56,19 +56,25 @@ Less-traveled roads that connect rural towns are sometimes not salted. In fact, 
 
 ### Studs or No Studs?
 
-This is going to come down to your preference. When I first arrived, a friend of mine in Vermont advised me to get studded tires. I followed her advice and was glad I did. 
+This is going to come down to preference. When I first arrived, a friend of mine in Vermont advised me to get studded tires. I followed her advice and was glad I did. 
 
-I opted for studded Firestone WinterForce tires, and noticed I was one of the few drivers around with studs.
+I opted for studded Firestone WinterForce tires. And I noticed that I was one of the few drivers around with studs.
 
 With those badass tires I was able to zip up and down the snow mountain in my 2-door hatchback, passing pickup trucks that were stuck at the bottom. The WinterForce tires had an aggressive tread and provided great traction.
 
-The new generation of WinterForce tires, unfortunately, doesn't have nearly as aggressive of a tread. 
+The new generation of WinterForce tires, unfortunately, doesn't have as aggressive of a tread. 
 
-So when I wore out my first set of snows, four years later, I passed on Firestone and opted for Nokian tires -- a Finnish brand. Specifically I got <A href="https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/" target="blank">Hakkapelliita 8s</a> with studs. 
+So when I wore out my first set of snows, four years later, I passed on Firestone and opted for Nokian tires -- a Finnish brand. Specifically I got  the <A href="https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/" target="blank">Hakkapelliita 8s</a> with studs. 
 
 > Tip: Local tires stores don't have the variety you're used to seeing in metropolitan areas. You can order your snows online and take them to a local mechanic to get them mounted.
 
 The Nokian tires are designed in a way that enables a far greater number of studs to be inserted. The design also provides rear cushioning for the studs, so that the tires are much quieter than studded Firestones when driving on asphalt. 
+
+### Be Aware: Not All Drivers Use Snows
+
+Some New Hampshire drivers try to cut costs by driving on all seasons during winter. If those all seasons are near the end of their tread life, that makes them even more iffy on the road.
+
+This is one reason you should remain alert while driving during winter, so you can take proactive action if necessary.
 
 ## Buy a Portable Air Compressor
 
