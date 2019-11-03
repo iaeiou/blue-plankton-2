@@ -103,13 +103,13 @@ AAA had given me an initial (long) time frame for the arrival of the tow truck. 
 
 I felt I had to add some polite pressure to get _anyone_ to come out. (I reminded them of the -6°F temperatures outside.)
 
-> Self-reliance is a key part of rural life here.
+> Self-reliance is part of rural life here.
 
-The folks at AAA seemed disorganized, inexperienced, and hapless in a true winter climate emergency. 
+The folks at AAA seemed disorganized, inexperienced, and hapless.
 
-To be fair, I had never experienced that kind of goofiness from AAA before nor have I since.
+To be fair, I had never experienced that kind of goofiness from AAA before nor have I since. I have used them several times since and they've been completely reliable. 
 
-I recommend you make some local connections before winter in the event AAA cannot help you within a reasonable time frame. 
+However, I recommend you make some local connections before winter in the event AAA cannot help you within a reasonable time frame. 
 
 * Make a connection to a local tow truck driver who's available 24/7 and get his number. 
 * As a backup, connect with new friends and agree to help each other out if one of you gets stranded by the side of the road.
