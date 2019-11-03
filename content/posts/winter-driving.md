@@ -76,6 +76,14 @@ Some New Hampshire drivers try to cut costs by driving on all seasons during win
 
 This is one reason you should remain alert while driving during winter, so you can take proactive action if necessary.
 
+### Mechanic Check and Getting Your Snows On
+
+When you get your snows on, be sure to get the usual mechanic check for winter. 
+
+Also: be aware that Walmart's automotive department will not mount tires that don't perfectly match your vehicle's recommended specs. 
+
+So if, like me, you're using snows that are a size up, get them mounted at a local garage. 
+
 ## Buy a Portable Air Compressor
 
 When the really cold weather hits, you may find you have to inflate your tires back up to the recommended PSI. 
