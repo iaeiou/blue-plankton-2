@@ -2,7 +2,8 @@
 title: 'Staying Warm in Winter: Firewood and Heat'
 subtitle: By Sherrie Gossett
 date: '2018-01-23'
-thumb_img_path: https://res.cloudinary.com/icecloud7/image/upload/w_auto,q_auto,f_auto,e_sharpen/v1572243919/ruralnh/firewood-by-cabin_qsoubm.png
+thumb_img_path: >-
+  https://res.cloudinary.com/icecloud7/image/upload/w_auto,q_auto,f_auto,e_sharpen/v1572243919/ruralnh/firewood-by-cabin_qsoubm.png
 content_img_path: ''
 excerpt: >-
   Firewood delivery wait times can sometimes increase to 2 months with no
@@ -148,6 +149,18 @@ In fall you'll want to get your chimney cleaned. Removing any creosote build up 
 
 ## Pellet Stoves
 
+Pellet stoves are a great option for efficiency. Like wood stoves, they're free-standing metal units that efficiently radiate heat. 
+
+The main difference is in the fuel. Wood pellets are made of pressed recycled wood waste. They look exactly like guinea pig food pellets. 
+
+You'll use a large scoop to deposit wood pellets into a tray near the top of your unit.
+
+Like propane stoves, your pellet stove can be connected to a thermostat. When the temperature dips below a certain level, an automated mechanism will tilt the internal tray holding pellets and dump more on to the fire. 
+
+Pellets are easier to physically manage than firewood. However, you'll need to keep an eye on suppliers. 
+
+For more information, visit the [Pellet Fuel Institute](https://www.pelletheat.org/). 
+
 ## Electric Baseboard Heat
 
 My backup was (and is) electric baseboard heat. However, I'd suggest you avoid using baseboard heat if possible. It really ramps up your electric bill.  
@@ -159,3 +172,11 @@ As some have pointed out, average monthly electric bills here are below the nati
 Many homes here also do not have air conditioning, even though we get summer temperatures in the 90s. So I wonder if these facts play into these statistics. That, and Yankees know _how_ to be — and _enjoy_ being — frugal.
 
 ## What About Portable Space Heaters?
+
+If you're not using a thermostat-controlled propane stove or pellet stove, it's likely your home will be cold before morning. 
+
+You can put an "all-night" (a large log) into your fireplace or wood stove, but that log will burnout long before dawn. 
+
+I've tried oil-filled radiators and found these to be inefficient electricity guzzlers. 
+
+My preferred option for the bedroom is a <a href="https://www.amazon.com/Dr-Infrared-Heater-Portable-1500-Watt/dp/B002QZ11J6/" target="blank">Dr. Heater infrared quartz tube heating unit</a>. It has a thermostat and remote control.
