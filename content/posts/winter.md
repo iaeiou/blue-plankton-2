@@ -21,17 +21,17 @@ There are a surprising number of methods that New Hampshire homeowners use to he
 * Electric baseboard heating
 * Radiant floor heating 
 
-My experience is with the first 4, so I'll be focusing on those. 
+My experience is with the first 4, so I'll focus on those. 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/w_auto,q_auto,f_auto,e_sharpen/v1572243919/ruralnh/firewood-by-cabin_qsoubm.png" alt="firewood stacked by cabin">
 
-Many homes use more than one source of heat. For example, a friend of mine has a wood-fueled furnace, a gas stove, a wood stove, and a fireplace. 
+Many homes use more than one source of heat. For example, a friend of mine has a wood-fueled furnace, a gas stove in the bedroom, a wood stove in the living room, and a fireplace in the kitchen. 
 
-And most everyone has a backup source of heat: such as electric baseboard heating.
+Almost everyone has a backup source of heat: such as electric baseboard heating.
 
 ## Gas Stoves
 
-When I first moved up here my primary source of winter heat was a Vermont Castings propane-powered stove. It was set into a fireplace. The stove was super-efficient: it was really more than was needed to heat the home. 
+When I first moved up here my primary source of winter heat was a Vermont Castings propane-powered stove. It was set into a fireplace (See photo). The stove was super-efficient: it was really more than was needed to heat the home. 
 
 In fact you can easily heat a 2,400 sq. ft. space with one propane stove. (Check the model you're interested in to see what square footage it's rated to heat.)
 
@@ -46,6 +46,8 @@ With the glass front doors on the stove, the fire looked realistic -- even the f
 Best of all you don't have to do any schlepping or storage of firewood.
 
 The cost of running the propane stove is going to depend on the going rate of propane. The highest my bill got was $275/month but it typically ranged from $125- $150 to heat 750 square feet.
+
+Mount a small fan to the side of the fireplace to better circulate the air. Ceiling fans help with this too.
 
 ## Wood Stoves
 
