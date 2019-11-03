@@ -107,7 +107,7 @@ I felt I had to add some polite pressure to get _anyone_ to come out. (I reminde
 
 The folks at AAA seemed disorganized, inexperienced, and hapless.
 
-To be fair, I had never experienced that kind of goofiness from AAA before nor have I since. I have used them several times since and they've been completely reliable. 
+To be fair, I had never experienced that kind of goofiness from AAA before nor have I since. I have used them several times since and they've been completely reliable. And I continue to maintain my platinum membership.
 
 However, I recommend you make some local connections before winter in the event AAA cannot help you within a reasonable time frame. 
 
