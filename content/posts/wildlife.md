@@ -25,9 +25,9 @@ Here's a short list:
 
 We also have the usual assortment of skunks, porcupines, rabbits, chipmunks, squirrels, opossums, groundhogs, raccoons and other critters you can find in most American states. 
 
-Otters, martens, mink, beavers, fishers (commonly called fisher cats), and varieties of weasels seem elusive. 
-
 ![coyote](https://res.cloudinary.com/icecloud7/image/upload/w_auto,f_auto,q_auto/v1570511812/ruralnh/coyote_nslzqu.png)
+
+Otters, martens, mink, beavers, fishers (commonly called fisher cats), and varieties of weasels seem elusive. 
 
 ## What About Wolves or Cougars?
 
