@@ -107,7 +107,7 @@ The only person responsible for making sure you can get the firewood you need is
 
 What if you get hit with a delay in delivery and snow is moving in? Well, here, Treehuggers may be a godsend. 
 
-On Saturday mornings, they usually offer self-service pickup until noon. It's first-come, first-served, and there are usually a line of cars waiting their turn. 
+On Saturday mornings, they usually offer self-service pickup until noon. It's first-come, first-served, and there's usually a line of cars waiting.
 
 You can take a maximum of one cord.  Most people simply fill up the back of their car or pickup truck, and Donna (co-owner) will eyeball it when you're done to price it. 
 
