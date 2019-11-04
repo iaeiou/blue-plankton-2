@@ -31,7 +31,7 @@ Otters, martens, mink, beavers, fishers (commonly called fisher cats), and varie
 
 ## What About Wolves or Cougars?
 
-Officially, there are no cougars in New Hampshire. Specifically, the Fish and Wildlife Departments states that there is no evidence of cougars in the area. 
+Officially, there are no cougars in New Hampshire. Specifically, the Fish and Wildlife Department states that there is no evidence of cougars in the area. 
 
 Many residents are adamant that cougars are present in the state. They say sightings are fleeting and unexpected and that's why no one has produced photographic (or track) evidence. 
 
