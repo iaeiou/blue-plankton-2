@@ -87,10 +87,7 @@ I think it's wise to be prepared for an encounter with a wild animal like a bear
 
 All three usually mind their own business. And it's unlikely you'll have a problem with them if you mind your own business as well.
 
-Exceptions are:
-
-* Rabid bobcats or coyotes
-* In the U.S. there have been some rare fatal attacks by black bears 
+Exceptions are rabid bobcats or coyotes. In the U.S. there have been some rare fatal attacks by black bears.
 
 A simple solution is to buy what's known as "bear spray" and always carry it with you. 
 
