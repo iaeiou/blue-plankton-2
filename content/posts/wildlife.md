@@ -79,8 +79,7 @@ Not convinced that it was a good idea to complete his road crossing, the bear sl
 
 It's a thrill to be able to see these magnificent creatures up close in the wild — even if it's for a few fleeting moments. 
 
-## 
-Carry Some Bear Spray
+## Carry Some Bear Spray
 
 I think it's wise to be prepared for an encounter with a wild animal like a bear, bobcat, or coyote. 
 
