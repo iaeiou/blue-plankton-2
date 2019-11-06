@@ -172,6 +172,6 @@ If there's fresh snow, but your car is sliding gratuitously, there's ice under t
 
 I've only encountered this type of ice-under-snow phenomenon about 3-4 times since I've been here. My rule is: Turnaround and go back home. Wait for the road to be sanded. 
 
-As long as you're not on a major north-south artery (like 89 or 93) don't hestitate to drive as slowly as you feel you need to. You'll find that New Hampshire folks are patient and don't mind.
+As long as you're not on a major north-south artery (like 89 or 93) don't hesitate to drive as slowly as you feel you need to. You'll find that New Hampshire folks are patient and don't mind.
 
 Now, if you've got a driver from Massachusetts behind you, that's another thing . . .
