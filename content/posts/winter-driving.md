@@ -68,7 +68,7 @@ The WinterForce tires had an aggressive tread and provided great traction.
 
 The new generation of WinterForce tires, unfortunately, doesn't have as aggressive of a tread. 
 
-So when I wore out my first set of snows, four years later, I passed on Firestone and opted for Nokian tires -- a Finnish brand. Specifically I got  the <A href="https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/" target="blank">Hakkapelliita 8s</a> with studs. 
+Four years later, when my snows wore out, I passed on Firestone and opted for Nokian tires -- a Finnish brand. Specifically I got  the <A href="https://www.nokiantires.com/winter-tires/nokian-hakkapeliitta-8/" target="blank">Hakkapelliita 8s</a> with studs. 
 
 > Tip: Local tires stores don't have the variety you're used to seeing in metropolitan areas. You can order your snows online and take them to a local mechanic to get them mounted.
 
