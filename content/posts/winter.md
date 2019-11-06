@@ -39,9 +39,10 @@ In fact you can easily heat a 2,400 sq. ft. space with one propane stove. (Check
 
 The stove was connected to a wall-mounted thermostat. This is a great set up especially if you plan on traveling. Set the thermostat and your home will maintain an even temperature.
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/w_450,f_auto,e_sharpen/v1573023724/ruralnh/vermont-castings-stove_cgsnxf.jpg" alt="vermont castings propane-stove" class="left">
 
 The stove was also not dependent on electricity: you could start it manually in the event of a power outage.
+
+<img src="https://res.cloudinary.com/icecloud7/image/upload/w_450,f_auto,e_sharpen/v1573023724/ruralnh/vermont-castings-stove_cgsnxf.jpg" alt="vermont castings propane-stove" class="right">
 
 With the glass front doors on the stove, the fire looked realistic -- even the fake logs looked real. Rest assured, you won't miss out at all on that "cozy" feeling that comes from the visual of a winter fire. 
 
