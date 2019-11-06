@@ -80,7 +80,7 @@ Some New Hampshire drivers try to cut costs by driving on all seasons during win
 
 This is one reason you should remain alert while driving during winter, so you can take proactive action if necessary.
 
-### Mechanic Check and Getting Your Snows On
+### Getting Your Snows On
 
 When you get your snows on, be sure to get the usual mechanic check for winter. 
 
