@@ -143,7 +143,7 @@ I mentioned that if you hire someone to stack your firewood for you, that you ca
 
 Some rural communities in New Hampshire have a predominantly elderly population. So factor that into your plans. 
 
-If you choose to stack your firewood, here are some tips. 
+It will be much easier to <a href="https://www.youtube.com/watch?v=Wq0ywaxxQYA" target="blank">stack your firewood</a> if you can do so in a garage, barn or tool shed where you can stack against a back wall and side wall. 
 
 #### Get Your Chimney Cleaned Once a Year
 
