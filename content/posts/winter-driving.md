@@ -174,4 +174,4 @@ I've only encountered this type of ice-under-snow phenomenon about 3-4 times sin
 
 As long as you're not on a major north-south artery (like 89 or 93) don't hestitate to drive as slowly as you feel you need to. You'll find that New Hampshire folks are patient and don't mind.
 
-Now, if you've got a driver from Massachusetts behind you, that's another thing.
+Now, if you've got a driver from Massachusetts behind you, that's another thing . . .
