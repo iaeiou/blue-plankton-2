@@ -62,7 +62,9 @@ I opted for studded Firestone WinterForce tires. And I noticed that I was one of
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_450,e_sharpen/v1573016623/driving_in_snow_2_dlmlvo.jpg" class="right">
 
-With those badass tires I was able to zip up and down the snow mountain in my 2-door hatchback, passing pickup trucks that were stuck at the bottom. The WinterForce tires had an aggressive tread and provided great traction.
+With those badass tires I was able to zip up and down the snow mountain in my 2-door hatchback, passing pickup trucks that were stuck at the bottom. 
+
+The WinterForce tires had an aggressive tread and provided great traction.
 
 The new generation of WinterForce tires, unfortunately, doesn't have as aggressive of a tread. 
 
