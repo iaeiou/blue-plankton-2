@@ -60,7 +60,7 @@ This is going to come down to preference. When I first arrived, a friend of mine
 
 I opted for studded Firestone WinterForce tires. And I noticed that I was one of the few drivers around with studs.
 
-<p><img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_450,e_sharpen/v1573016623/driving_in_snow_2_dlmlvo.jpg" class="right"><br/><em>Driving on Crotched Mountain. Piece of cake!</em></p>
+<figure><img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_450,e_sharpen/v1573016623/driving_in_snow_2_dlmlvo.jpg" class="right"><figcaption><em>Driving on Crotched Mountain. Piece of cake!</em><hr></figcaption></figure>
 
 With those badass tires I was able to zip up and down the snow mountain in my 2-door hatchback, passing pickup trucks that were stuck at the bottom. 
 
