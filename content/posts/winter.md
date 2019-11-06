@@ -44,11 +44,15 @@ The stove was also not dependent on electricity: you could start it manually in 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/w_450,f_auto,e_sharpen/v1573023724/ruralnh/vermont-castings-stove_cgsnxf.jpg" alt="vermont castings propane-stove" class="right">
 
-With the glass front doors on the stove, the fire looked realistic -- even the fake logs looked real. Rest assured, you won't miss out at all on that "cozy" feeling that comes from the visual of a winter fire. 
+With the glass front doors on the stove, the fire looked realistic -- even the fake logs looked real. 
+
+Rest assured, you won't miss out at all on that "cozy" feeling that comes from the visual of a winter fire. 
 
 Best of all you don't have to do any schlepping or storage of firewood.
 
-The cost of running the propane stove is going to depend on the going rate of propane. The highest my bill got was $275/month but it typically ranged from $125- $150 to heat 750 square feet.
+The cost of running the propane stove is going to depend on the going rate of propane. 
+
+The highest my bill got was $275/month but it typically ranged from $125- $150 to heat 750 square feet.
 
 Mount a small fan to the side of the fireplace to better circulate the air. Ceiling fans help with this too.
 
