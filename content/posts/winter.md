@@ -143,11 +143,19 @@ I mentioned that if you hire someone to stack your firewood for you, that you ca
 
 Some rural communities in New Hampshire have a predominantly elderly population. So factor that into your plans. 
 
-It will be much easier to <a href="https://www.youtube.com/watch?v=Wq0ywaxxQYA" target="blank">stack your firewood</a> if you can do so in a garage, barn or tool shed where you can stack against a back wall and side wall. 
+It will be much easier to <a href="https://www.youtube.com/watch?v=Wq0ywaxxQYA" target="blank">stack your firewood</a> if you can do so in a garage, barn or tool shed where you can stack against a back wall and at least one side wall. 
 
-#### Get Your Chimney Cleaned Once a Year
+### Get an Indoor Firewood Rack
+
+Adjustable racks are cheap: typically you'll supply two 2x4s. I have one that takes up one wall in my home. 
+
+That gives me about 3-4 weeks worth of firewood, cutting down on the number of trips I have to make to the wood pile, which is stacked in an open barn garage.
+
+### Get Your Chimney Cleaned Once a Year
 
 In fall you'll want to get your chimney cleaned. Removing any creosote build up substantially decreases the risk of chimney fires. 
+
+And check the gasket on your wood stove. Firewood suppliers often are able to replace these for you. Expect to spend about $125 for that. 
 
 ## Pellet Stoves
 
@@ -160,6 +168,8 @@ You'll use a large scoop to deposit wood pellets into a tray near the top of you
 Like propane stoves, your pellet stove can be connected to a thermostat. When the temperature dips below a certain level, an automated mechanism will tilt the internal tray holding pellets and dump more on to the fire. 
 
 Pellets are easier to physically manage than firewood. However, you'll need to keep an eye on suppliers. 
+
+Right now, $7-8 will get you a 40-lb bag of pellets. That lasts about 24 hours. Expect to need 100-150 bags to cover your winter heating needs.
 
 For more information, visit the [Pellet Fuel Institute](https://www.pelletheat.org/). 
 
