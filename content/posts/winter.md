@@ -31,14 +31,15 @@ Almost everyone has a backup source of heat: such as electric baseboard heating.
 
 ## Gas Stoves
 
-When I first moved up here my primary source of winter heat was a Vermont Castings propane-powered stove. It was set into a fireplace (See photo). The stove was super-efficient: it was really more than was needed to heat the home. 
+When I first moved up here my primary source of winter heat was a Vermont Castings propane-powered stove. It was set into a fireplace (See photos). 
+
+The stove was super-efficient: it was really more than was needed to heat the home. 
 
 In fact you can easily heat a 2,400 sq. ft. space with one propane stove. (Check the model you're interested in to see what square footage it's rated to heat.)
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/w_450,q_auto,f_auto,e_sharpen/v1572242968/ruralnh/my-wood-stove_vbxfbt.jpg" class="right" alt="gas stove">
 
 The stove was connected to a wall-mounted thermostat. This is a great set up especially if you plan on traveling. Set the thermostat and your home will maintain an even temperature.
-
 
 The stove was also not dependent on electricity: you could start it manually in the event of a power outage.
 
