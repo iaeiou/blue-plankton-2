@@ -74,7 +74,7 @@ During the spring, sitting at the same desk, I looked up to see a bobcat saunter
 
 Once at night I got up to investigate a thump on the back porch, only to see a large owl — wholly unperturbed by my presence — sitting on the railing. He simply stared back at me. I'm pretty sure he had just scored a tasty midnight snack. 
 
-Recently (in December 2019), someone spotted <a href="https://www.wildlife.state.nh.us/wildlife/feral-hogs.html" target="blank">wild boar</a> running in a ravine out back. 
+The day before Christmas Eve, 2019, someone spotted <a href="https://www.wildlife.state.nh.us/wildlife/feral-hogs.html" target="blank">wild boar</a> running in a ravine out back. 
 
 This summer, driving up a country two-lane road, I saw the car in front of me had stopped. I pulled up behind him, and quickly saw the reason for the hold-up: a huge black bear. This bear, like the owl, was unruffled by the presence of two cars. He took his time to meander across the road, and carefully inspected the view past the guardrail. 
 
