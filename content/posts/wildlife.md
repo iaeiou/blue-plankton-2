@@ -20,6 +20,7 @@ Here's a short list:
 * Foxes
 * Bobcats
 * Deer
+* Wild boar
 * Bald eagles
 * A variety of owls, hawks or falcons
 
@@ -43,7 +44,7 @@ They'll also tell you that it's definitely not safe to let your cat out. That pu
 
 Every town has a steady flow of new "cat missing" flyers up. And every cat adoption agency has one-eyed, one-eared, no-eared, bob-tailed, and 3-legged cats up for adoption. (No, you can't get a discount on felines with missing parts.)
 
-That said, my neighbor's cat continues to live an indoor-outdoor cat, and is a stealthy hunter. It roams this area that's populated with coyote, foxes, and bobcats, and seems to hold its own. But it does have a sprinkling of tool sheds, barns, garages, and porches to dart under in an emergency. And most of its tail is missing.
+That said, my neighbor's cat continues to live an indoor-outdoor cat, and is a stealthy hunter. It does have a sprinkling of tool sheds, barns, garages, and porches to dart into/under in an emergency. Most of its tail is missing.
 
 > I've seen bobcats and coyotes roaming during daylight. They're not always nocturnal.
 
@@ -57,9 +58,7 @@ Other than the back balcony, I kept my late cat indoors and she chafed against t
 
 If you have the option, choose a home that has enough interior space so that Fluffy the Cat run around at full speed and get adequate exercise. 
 
-![](/images/chloe-on-pouf.jpg)
-<br/>
-Chloe the Cat, experiencing cabin fever.
+![](/images/chloe-on-pouf.jpg) <br/> Chloe the Cat, experiencing cabin fever.
 
 <hr>
 
@@ -74,6 +73,8 @@ I ran to the next window and saw there actually two coyotes — one following th
 During the spring, sitting at the same desk, I looked up to see a bobcat sauntering lazily across the grass. A few months later, a different bobcat made an appearance. 
 
 Once at night I got up to investigate a thump on the back porch, only to see a large owl — wholly unperturbed by my presence — sitting on the railing. He simply stared back at me. I'm pretty sure he had just scored a tasty midnight snack. 
+
+Recently (in December 2019), someone spotted <a href="https://www.wildlife.state.nh.us/wildlife/feral-hogs.html" target="blank">wild boar</a> running in a ravine out back. 
 
 This summer, driving up a country two-lane road, I saw the car in front of me had stopped. I pulled up behind him, and quickly saw the reason for the hold-up: a huge black bear. This bear, like the owl, was unruffled by the presence of two cars. He took his time to meander across the road, and carefully inspected the view past the guardrail. 
 
