@@ -148,6 +148,8 @@ Other options:
 1. You can buy a gas-powered log splitter to break your logs into smaller pieces
 2. Be a real Yank and use a maul to split your own firewood. (My 83-year old neighbor does this!)
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto,w_auto,e_sharpen/v1579385558/ruralnh/pat-baker-westmoreland-nh_iac2hc.jpg" alt="pat baker westmoreland nh"><p><em>My neighbor, with some of his handiwork, chain-sawed and maul-split from whole logs obtained from Treehuggers.</em></p><hr>
+
 ### Firewood Delivery and Stacking
 
 Before your firewood is delivered, you'll want to get a couple of large tarps. One is for the ground where the firewood will be dumped (in case the ground is wet) and the other is to protect the pile from rain until it gets stacked. 
