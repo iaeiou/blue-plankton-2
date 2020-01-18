@@ -75,6 +75,8 @@ Find a good source — like the town clerk — who can tell you where you can fi
 
 I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank">Treehugger Farms</a> in Westmoreland, Cheshire County. You can buy seasoned, semi-seasoned, or de-barked, kiln-dried wood (my favorite). 
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto,q_auto/v1579383396/ruralnh/donna-treehuggers-westmoreland-nh_elzj3m.png" alt="treehuggers westmoreland nh"/>
+
 Their delivery radius covers much of southwestern New Hamsphire and parts of southeastern Vermont. But, you can also pick up wood yourself at Treehuggers. Contact them for details. 
 
 Kiln-dried wood is ready to burn, and catches fire quickly. You also don't have to be concerned about bugs potentially being in the wood. 
@@ -106,8 +108,7 @@ Here's what I mean.
 
 The lesson here is: don't assume. Or, assume the worst. 
 
-> Knowledge and timber shouldn't be used until they are seasoned.<br/>
-> <cite> - Oliver Wendell Holmes</cite>
+> Knowledge and timber shouldn't be used until they are seasoned.<br/> <cite> - Oliver Wendell Holmes</cite>
 
 If you're buying kiln-dried firewood, I wouldn't wait later than September to get your first cord or two. 
 
@@ -191,7 +192,7 @@ Electricity in New Hampshire costs more per kWh than the national average. (See 
 
 As some have pointed out, average monthly electric bills here are below the national average. It's also true that many New Hampshire homes ration their heat (keeping temperatures at 55 or so). 
 
-Many homes here also do not have air conditioning, even though we get summer temperatures in the 90s. So I wonder if these facts play into these statistics. That, and Yankees know _how_ to be — and _enjoy_ being — frugal.
+Many homes here also do not have air conditioning, even though we get summer temperatures in the 90s. So I wonder if these facts play into these statistics. That, and Yankees know *how* to be — and *enjoy* being — frugal.
 
 ## What About Portable Space Heaters?
 
