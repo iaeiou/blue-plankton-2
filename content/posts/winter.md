@@ -73,7 +73,7 @@ You want to avoid being ripped off by someone who sells you "green" firewood tha
 
 Find a good source — like the town clerk — who can tell you where you can find quality firewood.
 
-I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank">Treehugger Farms</a> in Westmoreland, Cheshire County. You can buy seasoned, semi-seasoned, or de-barked, kiln-dried wood (my favorite). 
+I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank">Treehugger Farms</a> in Westmoreland, Cheshire County. You can buy seasoned, semi-seasoned, or kiln-dried wood (my favorite). 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto,q_auto/v1579383396/ruralnh/donna-treehuggers-westmoreland-nh_elzj3m.png" alt="treehuggers westmoreland nh"/><p><em>Treehuggers, in southwestern New Hampshire, is a great source for firewood. If you're a transplanted city slicker, don't hestitate to ask owners Jon and Donna Clark (pictured above) for fire-building tips.</em></p><hr>
 
@@ -120,7 +120,9 @@ What if you get hit with a delay in delivery and snow is moving in? Well, here, 
 
 On Saturday mornings, they usually offer self-service pickup until noon. It's first-come, first-served, and there's usually a line of cars waiting.
 
-You can take a maximum of one cord.  Most people simply fill up the back of their car or pickup truck, and Donna Clark (co-owner) will eyeball it when you're done to price it. 
+You can take a maximum of one cord. Most people simply fill up the back of their car or pickup truck, and Donna Clark (co-owner) will eyeball it when you're done to price it. 
+
+If you bring a pickup, they'll use one of their scoopers to fill your vehicle for you. 
 
 #### Source Kindling
 
@@ -134,7 +136,7 @@ Typically, when the delivery truck dumps your pile of firewood there'll be a goo
 
 But it wont' be enough to last the winter. 
 
-My preferred option is this: 
+Here's what I recommend:
 
 1. Buy and use <a href="https://www.amazon.com/AW-Perkins-Fire-Starters-Squares/dp/B004KSBQZQ/" target="blank">A.W. Perkins Firestarters.</a> \
    You can get these a box of 144 of these from Amazon for $25. That's the cheapest price I've found. John, the co-owner of Treehugger Farms, showed me how to start a fire using just one single firestarter and some kindling. Leave your wood stove door cracked and let the fire grow gradually. 
