@@ -75,7 +75,7 @@ Find a good source — like the town clerk — who can tell you where you can fi
 
 I use (and can vouch for) <a href="https://treehuggerfarms.com/" target="blank">Treehugger Farms</a> in Westmoreland, Cheshire County. You can buy seasoned, semi-seasoned, or de-barked, kiln-dried wood (my favorite). 
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto,q_auto/v1579383396/ruralnh/donna-treehuggers-westmoreland-nh_elzj3m.png" alt="treehuggers westmoreland nh"/><br/><em>Treehuggers, in southwestern New Hampshire, is a great source for firewood. If you're a transplanted city slicker, don't hestitate to ask owners Jon and Donna Clark (pictured above) for fire-building tips.</em><hr>
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto,q_auto/v1579383396/ruralnh/donna-treehuggers-westmoreland-nh_elzj3m.png" alt="treehuggers westmoreland nh"/><p><em>Treehuggers, in southwestern New Hampshire, is a great source for firewood. If you're a transplanted city slicker, don't hestitate to ask owners Jon and Donna Clark (pictured above) for fire-building tips.</em></p><hr>
 
 Their delivery radius covers much of southwestern New Hamsphire and parts of southeastern Vermont. But, you can also pick up wood yourself at Treehuggers. Contact them for details. 
 
