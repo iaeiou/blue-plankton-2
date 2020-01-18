@@ -160,6 +160,8 @@ Some rural communities in New Hampshire have a predominantly elderly population.
 
 It will be much easier to <a href="https://www.youtube.com/watch?v=Wq0ywaxxQYA" target="blank">stack your firewood</a> if you can do so in a garage, barn or tool shed where you can stack against a back wall and at least one side wall. 
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto,w_auto/v1579386019/ruralnh/firewood-stacked_hrobdy.png" alt="firewood stacked"><p><em>My first cord of the 2019-2020 season. Stacking up against a wall means I only have to create a criss-cross pattern at one end.</em><p><hr>
+
 ### Get an Indoor Firewood Rack
 
 Adjustable racks are cheap: typically you'll supply two 2x4s. I have one that takes up one wall in my home. 
