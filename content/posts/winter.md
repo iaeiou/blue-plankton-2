@@ -212,7 +212,7 @@ My preferred option for the bedroom is a <a href="https://www.amazon.com/Dr-Infr
 
 ## 5 Tips For Staying Warm Outdoors
 
-* Buy a balaclava for when the temperature hits single digits or the negatives. <a href="https://www.amazon.com/gp/product/B000KB9WF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="blank">This style</a> might not be fashionable, but polypropylene will sure keep you warm
+* Buy a balaclava for when the temperature hits single digits or the negatives. <a href="https://www.amazon.com/gp/product/B000KB9WF8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1" target="blank">This style</a> might not be fashionable, but polypropylene will sure keep your head warm.
 * Get a flap-eared aviator hat (also called a trooper hat or trapper hat). FurHatWorld is a good source for <a href="https://www.furhatworld.com/aviator-bomber-hats-c-42_65.html" target="blank">quality aviator hats</a> made of real fur (rabbit, beaver, raccoon, or shearling) or fake fur. But you can get one that's probably just as warm for around $10 at your local Ocean State Job Lot (a popular discount goods store in New Hampshire).
 * It ain't pretty but it works: when it gets super cold, wear your polyprop balaclava underneath your aviator hat. Your face will thank you. 
 * In bitterly cold weather your hands can go numb walking from your front door to your car. Stock up on <a href="https://www.amazon.com/stores/page/7882B9B8-1C68-4F4E-B9BA-556FFE9D70D5?ingress=2&visitId=0e751bf7-cd93-4145-b57e-695668848557&ref_=bl_dp_s_web_6000898011" target="blank">HotHands</a> and keep some in your car. Get a decent pair or two of snow/ice boots. 
