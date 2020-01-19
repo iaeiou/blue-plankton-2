@@ -148,7 +148,7 @@ Other options:
 1. You can buy a gas-powered log splitter to break your logs into smaller pieces
 2. Be a real Yank and use a maul to split your own firewood. (My 83-year old neighbor does this!)
 
-<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto,w_auto,e_sharpen/v1579385558/ruralnh/pat-baker-westmoreland-nh_iac2hc.jpg" alt="pat baker westmoreland nh"><p><em>My neighbor, with some of his handiwork, chain-sawed and maul-split from whole logs obtained from Treehuggers.</em></p><hr>
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto,w_auto,e_sharpen/v1579385558/ruralnh/pat-baker-westmoreland-nh_iac2hc.jpg" alt="pat baker westmoreland nh"><p><em>My neighbor Pat, with some of his handiwork, chain-sawed and hand-split from whole logs obtained from Treehuggers. Pat prepped 5 cords of firewood this season</em></p><hr>
 
 ### Firewood Delivery and Stacking
 
@@ -191,7 +191,6 @@ Right now, $7-8 will get you a 40-lb bag of pellets. That lasts about 24 hours. 
 For more information, visit the [Pellet Fuel Institute](https://www.pelletheat.org/). 
 
 <img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto/v1579396981/ruralnh/wood-pellets-new-hampshire_jya6eq.png" alt="wood pellets"><p><em>You can purchase wood pellets from your local hardware store -- like Aubuchon -- or Home Depot.</em></p><hr>
-
 
 ## Electric Baseboard Heat
 
