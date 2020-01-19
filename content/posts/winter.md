@@ -190,6 +190,9 @@ Right now, $7-8 will get you a 40-lb bag of pellets. That lasts about 24 hours. 
 
 For more information, visit the [Pellet Fuel Institute](https://www.pelletheat.org/). 
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto/v1579396981/ruralnh/wood-pellets-new-hampshire_jya6eq.png" alt="wood pellets"><p><em>You can purchase wood pellets from your local hardware store -- like Aubuchon -- or Home Depot.</em></p><hr>
+
+
 ## Electric Baseboard Heat
 
 My backup was (and is) electric baseboard heat. However, I'd suggest you avoid using baseboard heat if possible. It really ramps up your electric bill.  
