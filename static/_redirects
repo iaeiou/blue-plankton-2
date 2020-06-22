@@ -1,5 +1,6 @@
   
 # These rules will change if you change your site’s custom domains or HTTPS settings
+/pages/*  /
 
 # Redirect default Netlify subdomain to primary domain
 https://blue-plankton-266f7.netlify.com/* https://www.ruralnh.org/:splat 301!
