@@ -21,6 +21,8 @@ According to the New Hampshire Fish and Game Department permission is usually gr
 
 These wild pigs clearly have an incentive to escape and roam free because bureaucracy is on their side. 
 
+Previously, residents were allowed to kill the boar on sight. However that incentivized locals to cut holes in the preserve's fencing. Fish and Game director Glenn Normandeau explained that "people would put piles of corn outside the fence and cut holes to lure hogs outside and kill them. So we got rid of that law." (Source: *[Concord Monitor](https://www.concordmonitor.com/corbin-park-bluemountain-nh-hunting-preserve-game-31987801)*)
+
 Apparently they are most commonly found in Grafton, Cheshire, and Sullivan counties. 
 
 ## From Germany's Black Forest
@@ -35,4 +37,4 @@ According to author Mary T. Kronenwetter, some of the boar [escaped in 1938](htt
 
 Interestingly, the boar's forest companions included bison. Kronenwetter quotes from Ernest Baynes's [out-of-print book](https://www.amazon.com/Wild-Life-Blue-Mountain-Forest/dp/B00085U516/) about Corbin Park:
 
-<p style="padding-left: 2.5em;">Of all the works of the late Mr. Austin Corbin, the preservation of that herd of bison was the one that would earn his country’s deepest gratitude. His experiment led to the founding of the American Bison Society and was connected, directly or otherwise, with the formation of some of our national parks.</p>
+“Of all the works of the late Mr. Austin Corbin, the preservation of that herd of bison was the one that would earn his country’s deepest gratitude. His experiment led to the founding of the American Bison Society and was connected, directly or otherwise, with the formation of some of our national parks.”
