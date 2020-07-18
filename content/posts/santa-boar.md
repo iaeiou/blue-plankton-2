@@ -1,5 +1,5 @@
 ---
-title: Santa Boar
+title: Wild Boar On the Lam
 date: 2019-12-24T21:14:36.498Z
 thumb_img_path: /images/wild-boar-germany.jpg
 layout: post
