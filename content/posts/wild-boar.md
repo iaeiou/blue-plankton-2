@@ -3,13 +3,13 @@ title: Wild Boar On the Lam
 date: 2020-07-18T20:14:36.498Z
 thumb_img_path: /images/young-wild-boar.jpg
 excerpt: Wild boar were spotted running in the ravine out back. Turns out
-  they're considered "escaped private property" and belong to a hunting preserve
-  over an hour away.
+  they're "escaped private property" and belong to a hunting preserve over an
+  hour away.
 layout: post
 ---
 Last Christmas eve wild boar were spotted running in the ravine out back. Three men doing brush fire work here spotted them. They were excited about their discovery. 
 
-I hadn't realized that there are wild boar in New Hampshire. The sighting me curious to learn more. 
+I hadn't realized that there are wild boar in New Hampshire. The sighting made me curious to learn more. 
 
 ## "Escaped private property"
 
@@ -37,4 +37,4 @@ According to author Mary T. Kronenwetter, some of the boar [escaped in 1938](htt
 
 Interestingly, the boar's forest companions included bison. Kronenwetter quotes from Ernest Baynes's [out-of-print book](https://www.amazon.com/Wild-Life-Blue-Mountain-Forest/dp/B00085U516/) about Corbin Park:
 
-<p style="padding-left: 2.5em;">Of all the works of the late Mr. Austin Corbin, the preservation of that herd of bison was the one that would earn his country’s deepest gratitude. His experiment led to the founding of the American Bison Society and was connected, directly or otherwise, with the formation of some of our national parks.</p>
+“Of all the works of the late Mr. Austin Corbin, the preservation of that herd of bison was the one that would earn his country’s deepest gratitude. His experiment led to the founding of the American Bison Society and was connected, directly or otherwise, with the formation of some of our national parks.”
