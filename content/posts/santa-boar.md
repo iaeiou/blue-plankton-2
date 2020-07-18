@@ -1,6 +1,7 @@
 ---
 title: Santa Boar
 date: 2019-12-24T21:14:36.498Z
+thumb_img_path: /images/wild-boar-germany.jpg
 layout: post
 ---
 On Christmas eve wild boar were spotted running in the ravine out back. Three men doing brush fire work here spotted them. They were excited about their discovery. 
