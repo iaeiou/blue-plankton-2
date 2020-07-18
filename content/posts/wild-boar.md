@@ -29,9 +29,9 @@ The Blue Mountain Forest Association preserve is more commonly known as Corbin P
 
 The preserve spans some 25,000 square miles and was created by 19th-century railroad entrepreneur [Austin Corbin](https://web.archive.org/web/20071001001801/http://www.newsday.com/community/guide/lihistory/ny-history_motion_rail1%2C0%2C5977066.story?coll=ny-lihistory-navigation). 
 
-Corbin imported the wild boar from Germany's Black Forest. Like the elk that roam the park, the boar are not native to New Hampshire. 
+Corbin imported the wild Eurasian boar from Germany's Black Forest. Like the elk that roam the park, the boar are not native to New Hampshire. 
 
-According to author Mary T. Kronenwetter, many of the boar [escaped in 1938](http://eastmanliving.com/2011/11/corbin%E2%80%99s-%E2%80%9Canimal-garden%E2%80%9D/#:~:text=Reflections,hunting%20preserve%20in%20New%20Hampshire.) when a hurricane blew down portions of the preserve's fencing. 
+According to author Mary T. Kronenwetter, some of the boar [escaped in 1938](http://eastmanliving.com/2011/11/corbin%E2%80%99s-%E2%80%9Canimal-garden%E2%80%9D/#:~:text=Reflections,hunting%20preserve%20in%20New%20Hampshire.) when a hurricane blew down portions of the preserve's fencing. 
 
 Interestingly, the boar's forest companions included bison. Kronenwetter quotes from Ernest Baynes's [out-of-print book](https://www.amazon.com/Wild-Life-Blue-Mountain-Forest/dp/B00085U516/) about Corbin Park:
 
