@@ -11,7 +11,7 @@ Last Christmas eve wild boar were spotted running in the ravine out back. Three 
 
 I hadn't realized that there are wild boar in New Hampshire. The sighting me curious to learn more. 
 
-## Wild Boar On the Lam
+## "Escaped private property"
 
 I was surprised to discover that wild boar in New Hampshire are considered "escaped private property." They belong to the Blue Mountain Forest Association, which is a private hunting preserve over an hour away, in Croydon, New Hampshire.
 
