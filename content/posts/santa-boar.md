@@ -25,7 +25,7 @@ Apparently they are most commonly found in Grafton, Cheshire, and Sullivan count
 
 ## Corbin Park
 
-The Blue Mountain Forest Association preserve is more commonly known as Corbin Park, and according to *Valley News* it is the only private hunting preserve in New Hampshire and memberships cost well into 5-figures. 
+The Blue Mountain Forest Association preserve is more commonly known as Corbin Park. According to *Valley News* it is the only private hunting preserve in New Hampshire and memberships cost well into 5-figures. 
 
 The preserve spans some 25,000 square miles and was created by 19th-century railroad entrepreneur [Austin Corbin](https://web.archive.org/web/20071001001801/http://www.newsday.com/community/guide/lihistory/ny-history_motion_rail1%2C0%2C5977066.story?coll=ny-lihistory-navigation). 
 
