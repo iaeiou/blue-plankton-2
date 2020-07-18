@@ -23,7 +23,7 @@ These wild pigs clearly have an incentive to escape and roam free because bureau
 
 Previously, residents were allowed to kill the boar on sight. However that incentivized locals to cut holes in the preserve's fencing. Fish and Game director Glenn Normandeau explained that "people would put piles of corn outside the fence and cut holes to lure hogs outside and kill them. So we got rid of that law." (Source: *[Concord Monitor](https://www.concordmonitor.com/corbin-park-bluemountain-nh-hunting-preserve-game-31987801)*)
 
-Apparently they are most commonly found in Grafton, Cheshire, and Sullivan counties. 
+Roaming wild boar are most commonly found in Grafton, Cheshire, and Sullivan counties, according to Fish and Game. 
 
 ## From Germany's Black Forest
 
