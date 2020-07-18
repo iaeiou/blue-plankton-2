@@ -4,7 +4,7 @@ date: 2020-07-19T20:14:36.498Z
 thumb_img_path: /images/wild-boar-germany.jpg
 layout: post
 ---
-On Christmas eve wild boar were spotted running in the ravine out back. Three men doing brush fire work here spotted them. They were excited about their discovery. 
+Last Christmas eve wild boar were spotted running in the ravine out back. Three men doing brush fire work here spotted them. They were excited about their discovery. 
 
 I hadn't realized that there are wild boar in New Hampshire. The sighting me curious to learn more. 
 
