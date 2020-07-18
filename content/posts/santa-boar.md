@@ -3,7 +3,8 @@ title: Wild Boar On the Lam
 date: 2020-07-18T20:14:36.498Z
 thumb_img_path: /images/wild-boar-germany.jpg
 excerpt: Wild boar were spotted running in the ravine out back. Turns out
-  they're considered "escaped private property."
+  they're considered "escaped private property" and belong to a hunting preserve
+  over an hour away.
 layout: post
 ---
 Last Christmas eve wild boar were spotted running in the ravine out back. Three men doing brush fire work here spotted them. They were excited about their discovery. 
