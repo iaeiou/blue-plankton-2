@@ -39,6 +39,10 @@ Interestingly, the boar's forest companions included bison. Kronenwetter quotes 
 
 <p style="padding-left: 2.5em;">Of all the works of the late Mr. Austin Corbin, the preservation of that herd of bison was the one that would earn his country’s deepest gratitude. His experiment led to the founding of the <a href="http://www.ambisonsociety.org/" target="blank">American Bison Society</a> and was connected, directly or otherwise, with the formation of some of our national parks.</p>
 
+Kronenwetter also notes that once Corbin's game preserve had been stocked, that wolves and mountain lions, which had previously disappeared, returned. In addition, thanks to Corbin, beavers also made a comeback. 
+
+One of my favorite experiences of winter is spying a beaver surveilling the surroundings from his surefooted perch on a small ice floe. The beaver will dive underwater, resurface and clamber back on the floe repeatedly. 
+
 ## An expensive hobby
 
 A couple of days after wild boar were spotted in the ravine, a California newspaper ran an interesting story about millionaire George Gordon Moore who had in the 1920s [imported](https://www.sfgate.com/sfhistory/article/One-eccentric-socialite-is-to-blame-for-14916088.php#photo-18798330) wild boar from Europe. 
@@ -47,6 +51,8 @@ According the the USDA, wild Eurasian boar were imported throughout the [1900s](
 
 ## "We can't barbecue our way out"
 
-While spotting boar locally is entertaining, in some areas of the country they are known for the damage they create. They are known to ravage crops, eat endangered species, and spread disease according to the USDA. 
+While spotting boar locally is entertaining, in some areas of the country they are known for the damage they create. They help themselves to crops, eat endangered species, and spread disease according to the USDA. 
 
-While public hunting of boar is allowed in many states, the agency contends that "we can't [barbecue our way out](https://www.usda.gov/media/blog/2014/04/04/we-cant-barbecue-our-way-out-why-feral-swine-management-requires-national)" of the problem and that a coordinated national plan is needed.
+While public hunting of boar is allowed in many states, the agency contends that "we can't [barbecue our way out](https://www.usda.gov/media/blog/2014/04/04/we-cant-barbecue-our-way-out-why-feral-swine-management-requires-national)" of the problem and that a coordinated national plan is needed. 
+
+In the meantime I hope I'll have another opportunity to spy these furry pigs as they make a run for it.
