@@ -1,7 +1,7 @@
 ---
 title: Vitamin D and COVID-19
 date: 2020-07-19T19:27:51.995Z
-thumb_img_path: /images/vitamin-d-covid-19.png
+thumb_img_path: /images/medical-researcher.png
 excerpt: A growing body of research explores the role of vitamin D deficiency in
   severe cases of COVID-19 and suggests that adequate levels of the vitamin
   could deny the virus a "foothold."
@@ -54,7 +54,10 @@ What's your strategy?
 ### Related research
 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759054/" target="blank">Vitamin D and Respiratory Health</a><br/>
-"...[T]here is mounting evidence that \[vitamin D] plays a beneficial role in the prevention and/or treatment of a wide range of diseases. In this brief review the known effects of vitamin D on immune function are described in relation to respiratory health. Vitamin D appears capable of inhibiting pulmonary inflammatory responses while enhancing innate defense mechanisms against respiratory pathogens."
+"...\[T]here is mounting evidence that \[vitamin D] plays a beneficial role in the prevention and/or treatment of a wide range of diseases. In this brief review the known effects of vitamin D on immune function are described in relation to respiratory health. Vitamin D appears capable of inhibiting pulmonary inflammatory responses while enhancing innate defense mechanisms against respiratory pathogens."
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/18400738/" target="blank">Vitamin D deficiency: a worldwide problem with health consequences</a><br/>
 "Vitamin D deficiency is now recognized as a pandemic. . . Vitamin D deficiency has been associated with increased risk of . . infectious diseases."
+
+Respiratory heath for better COVID-19 outcomes \
+- New England Complex Systems Institute
