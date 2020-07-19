@@ -1,6 +1,7 @@
 ---
 title: Vitamin D and COVID-19
 date: 2020-07-19T19:27:51.995Z
+thumb_img_path: /images/vitamin-d-covid-19.png
 layout: post
 ---
 An increasing amount of research suggests that having adequate levels of vitamin D may make the difference between having a mild vs severe case of the coronavirus. 
