@@ -1,7 +1,7 @@
 ---
 title: Vitamin D and COVID-19
 date: 2020-07-19T19:27:51.995Z
-thumb_img_path: /images/medical-researcher.png
+thumb_img_path: https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto,w_auto/v1595193143/ruralnh/medical-researcher_pgk3jb.png
 excerpt: A growing body of research explores the role of vitamin D deficiency in
   severe cases of COVID-19 and suggests that adequate levels of the vitamin
   could deny the virus a "foothold."
