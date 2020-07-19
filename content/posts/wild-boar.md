@@ -56,3 +56,6 @@ While spotting boar locally is entertaining, in some areas of the country they a
 While public hunting of boar is allowed in many states, the agency contends that "we can't [barbecue our way out](https://www.usda.gov/media/blog/2014/04/04/we-cant-barbecue-our-way-out-why-feral-swine-management-requires-national)" of the problem and that a coordinated national plan is needed. 
 
 In the meantime I hope I'll have another opportunity to spy these furry pigs as they make a run for it.
+
+<hr/>
+<p><em><small>Photo credit: Young wild boar by <a href="https://commons.wikimedia.org/wiki/User:Michael_G%C3%A4bler" target="blank">Michael Gäbler</a>, courtesy of a <a href="https://creativecommons.org/licenses/by/3.0/deed.en" target="blank">Creative Commons 3.0 Unported license</a> (CC by 3.0)</small></em></p>
