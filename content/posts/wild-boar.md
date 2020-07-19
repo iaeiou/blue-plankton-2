@@ -17,6 +17,8 @@ I was surprised to discover that wild boar in New Hampshire are considered "esca
 
 Because these boar have legal status as private property, they can only be hunted with permission of the owner. Escaped boar are considered to be "[running at large](http://www.gencourt.state.nh.us/rsa/html/xlv/467/467-mrg.htm)."
 
+<img src="https://res.cloudinary.com/icecloud7/image/upload/f_auto,q_auto,w_auto/v1595107397/ruralnh/young-wild-boar_rvqa2m.jpg"/>
+
 According to the New Hampshire Fish and Game Department permission is usually granted but "legal hunting hours" must be observed. Interestingly, Fish and Game adds: "feral wild boar are limited in number *and are difficult to locate without local knowledge*."
 
 These wild pigs clearly have bureaucracy on their side. 
@@ -56,6 +58,3 @@ While spotting boar locally is entertaining, in some areas of the country they a
 While public hunting of boar is allowed in many states, the agency contends that "we can't [barbecue our way out](https://www.usda.gov/media/blog/2014/04/04/we-cant-barbecue-our-way-out-why-feral-swine-management-requires-national)" of the problem and that a coordinated national plan is needed. 
 
 In the meantime I hope I'll have another opportunity to spy these furry pigs as they make a run for it.
-
-<hr/>
-<p><em><small>Photo credit: Young wild boar by <a href="https://commons.wikimedia.org/wiki/User:Michael_G%C3%A4bler" target="blank">Michael Gäbler</a>, courtesy of a <a href="https://creativecommons.org/licenses/by/3.0/deed.en" target="blank">Creative Commons 3.0 Unported license</a> (CC by 3.0)</small></em></p>
