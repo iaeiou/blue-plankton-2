@@ -1,7 +1,7 @@
 ---
 title: Wild Boar On the Lam
 date: 2020-07-18T20:14:36.498Z
-thumb_img_path: /images/young-wild-boar.jpg
+thumb_img_path: https://res.cloudinary.com/icecloud7/image/upload/f_auto,w_auto,q_auto/v1595107397/ruralnh/young-wild-boar_rvqa2m.jpg
 excerpt: Wild boar were spotted running in the ravine out back. Turns out
   they're "escaped private property" and belong to a hunting preserve over an
   hour away.
