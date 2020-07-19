@@ -47,7 +47,7 @@ One of my favorite experiences of winter is spying a beaver surveilling the surr
 
 A couple of days after wild boar were spotted in the ravine, a California newspaper ran an interesting story about millionaire George Gordon Moore who had in the 1920s [imported](https://www.sfgate.com/sfhistory/article/One-eccentric-socialite-is-to-blame-for-14916088.php#photo-18798330) wild boar from Europe. 
 
-According the the USDA, wild Eurasian boar were imported throughout the [1900s](https://www.aphis.usda.gov/aphis/ourfocus/wildlifedamage/operational-activities/feral-swine/sa-fs-history) for sport. Over the years the boar have escaped and spread through 35 states. 
+Throughout the late 1800s and early 1900s wild Eurasian boar were imported to America sport. Over the years these boar escaped, had romantic dalliances, and spread throughout 35 states. 
 
 ## "We can't barbecue our way out"
 
