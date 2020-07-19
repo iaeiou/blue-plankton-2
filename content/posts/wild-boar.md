@@ -19,9 +19,9 @@ Because these boar have legal status as private property, they can only be hunte
 
 According to the New Hampshire Fish and Game Department permission is usually granted but "legal hunting hours" must be observed. Interestingly, Fish and Game adds: "feral wild boar are limited in number *and are difficult to locate without local knowledge*."
 
-These wild pigs clearly have an incentive to escape and roam free because bureaucracy is on their side. 
+These wild pigs clearly have bureaucracy on their side. 
 
-Previously, residents were allowed to kill the boar on sight. However that incentivized locals to cut holes in the preserve's fencing. Fish and Game director Glenn Normandeau explained that "people would put piles of corn outside the fence and cut holes to lure hogs outside and kill them. So we got rid of that law." (Source: *[Concord Monitor](https://www.concordmonitor.com/corbin-park-bluemountain-nh-hunting-preserve-game-31987801)*)
+Years ago, residents were allowed to kill the boar on sight. However that incentivized locals to cut holes in the preserve's fencing. Fish and Game director Glenn Normandeau explained that "people would put piles of corn outside the fence and cut holes to lure hogs outside and kill them. So we got rid of that law." (Source: *[Concord Monitor](https://www.concordmonitor.com/corbin-park-bluemountain-nh-hunting-preserve-game-31987801)*)
 
 Roaming wild boar are most commonly found in Grafton, Cheshire, and Sullivan counties, according to the Fish and Game Department. 
 
@@ -38,3 +38,15 @@ According to author Mary T. Kronenwetter, some of the boar [escaped in 1938](htt
 Interestingly, the boar's forest companions included bison. Kronenwetter quotes from Ernest Baynes's [out-of-print book](https://www.amazon.com/Wild-Life-Blue-Mountain-Forest/dp/B00085U516/) about Corbin Park:
 
 <p style="padding-left: 2.5em;">Of all the works of the late Mr. Austin Corbin, the preservation of that herd of bison was the one that would earn his country’s deepest gratitude. His experiment led to the founding of the <a href="http://www.ambisonsociety.org/" target="blank">American Bison Society</a> and was connected, directly or otherwise, with the formation of some of our national parks.</p>
+
+## An expensive hobby
+
+A couple of days after wild boar were spotted in the ravine, a California newspaper ran an interesting story about millionaire George Gordon Moore who had in the 1920s [imported](https://www.sfgate.com/sfhistory/article/One-eccentric-socialite-is-to-blame-for-14916088.php#photo-18798330) wild boar from Europe. 
+
+According the the USDA, wild Eurasian boar were imported throughout the [1900s](https://www.aphis.usda.gov/aphis/ourfocus/wildlifedamage/operational-activities/feral-swine/sa-fs-history) for sport. Over the years the boar have escaped and spread through 35 states. 
+
+## "We can't barbecue our way out"
+
+While spotting boar locally is entertaining, in some areas of the country they are known for the damage they create. They are known to ravage crops, eat endangered species, and spread disease according to the USDA. 
+
+While public hunting of boar is allowed in many states, the agency contends that "we can't [barbecue our way out](https://www.usda.gov/media/blog/2014/04/04/we-cant-barbecue-our-way-out-why-feral-swine-management-requires-national)" of the problem and that a coordinated national plan is needed.
