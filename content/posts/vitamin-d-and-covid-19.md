@@ -41,7 +41,7 @@ That's exactly why we need to pay attention to the medical research that we do h
 
 ## Summary
 
-A bottle of vitamin D3 is awfully cheap. As long as you don't take too much of it, research shows that it can only benefit your health in a number of ways. 
+A bottle of vitamin D3 is an awfully cheap bet on emergent research. As long as you don't take too much of it, research shows that it can only benefit your health in a number of ways. 
 
 For me, it's been part of my daily regimen for years. (I take it with <a href="https://www.amazon.com/Spectrum-capsule-Soy-free-Capsules-InnovixLabs/dp/B00T8NROWM/" target="blank"> vitamin K2</a>.)  
 
