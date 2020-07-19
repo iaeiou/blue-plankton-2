@@ -51,7 +51,7 @@ What's your strategy?
 
 <hr/>
 
-### Related research and reading
+### Related reading
 
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759054/" target="blank">Vitamin D and Respiratory Health</a><br/>National Institutes of Health<br/>
 "...\[T]here is mounting evidence that \[vitamin D] plays a beneficial role in the prevention and/or treatment of a wide range of diseases. In this brief review the known effects of vitamin D on immune function are described in relation to respiratory health. Vitamin D appears capable of inhibiting pulmonary inflammatory responses while enhancing innate defense mechanisms against respiratory pathogens."
