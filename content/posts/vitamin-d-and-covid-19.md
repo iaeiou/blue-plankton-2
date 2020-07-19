@@ -24,11 +24,13 @@ Among the study's conclusions: "Evidence linking vitamin D deficiency with COVID
 
 A May 2020 study in the *British Medical Journal* found that "It is conceivable that vitamin D adequacy [denies the virus easy footholds](https://nutrition.bmj.com/content/early/2020/05/20/bmjnph-2020-000096.full?mod=article_inline) and thereby slows spreading of the contagion."
 
+That study explored factors that may contribute to vitamin D deficiency, including "old age, obesity, dark skin tone and common genetic variants that impede vitamin D status."
+
 A friend alerted me to this [SSRN April 2020 study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571484) that found: 
 
-* Of mild cases, 96% had normal vitamin D
-* Of critical cases, 96% had insufficient/deficient vitamin D
-* Of severe cases, 96% had insufficient/deficient vitamin D
+* Of mild COVID-19 cases, 96% had normal vitamin D
+* Of critical  COVID-19 cases, 96% had insufficient/deficient vitamin D
+* Of severe COVID-19 cases, 96% had insufficient/deficient vitamin D
 
 ## We're at a frontier
 
