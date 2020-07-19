@@ -3,7 +3,8 @@ title: Vitamin D and COVID-19
 date: 2020-07-19T19:27:51.995Z
 thumb_img_path: /images/vitamin-d-covid-19.png
 excerpt: A growing body of research explores the role of vitamin D deficiency in
-  severe cases of COVID-19.
+  severe cases of COVID-19 and suggests the vitamin could slow spread of the
+  disease.
 layout: post
 ---
 An increasing amount of research suggests that having adequate levels of vitamin D may make the difference between having a mild vs severe case of the coronavirus. 
