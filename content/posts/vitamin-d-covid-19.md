@@ -59,6 +59,6 @@ What's your strategy?
 <a href="https://pubmed.ncbi.nlm.nih.gov/18400738/" target="blank">Vitamin D deficiency: a worldwide problem with health consequences</a><br/>National Institutes of Health<br/>
 "Vitamin D deficiency is now recognized as a pandemic. . . Vitamin D deficiency has been associated with increased risk of . . infectious diseases."
 
-<a href="<https://necsi.edu/everyday-life-and-covid19>" target="blank">Everyday Life and COVID-19</a><br/>The New England Complex Systems Institute
+<a href="https://necsi.edu/everyday-life-and-covid19>" target="blank">Everyday Life and COVID-19</a><br/>The New England Complex Systems Institute
 
-<a href="<https://necsi.edu/respiratory-health-for-better-covid-19-outcomes>" target="blank">Respiratory health for better COVID-19 outcomes</a><br/>The New England Complex Systems Institute
+<a href="https://necsi.edu/respiratory-health-for-better-covid-19-outcomes>" target="blank">Respiratory health for better COVID-19 outcomes</a><br/>The New England Complex Systems Institute
