@@ -41,7 +41,7 @@ Interestingly, the boar's forest companions included bison. Kronenwetter quotes 
 
 <p style="padding-left: 2.5em;">Of all the works of the late Mr. Austin Corbin, the preservation of that herd of bison was the one that would earn his country’s deepest gratitude. His experiment led to the founding of the <a href="http://www.ambisonsociety.org/" target="blank">American Bison Society</a> and was connected, directly or otherwise, with the formation of some of our national parks.</p>
 
-Kronenwetter also notes that once Corbin's game preserve had been stocked, that wolves and mountain lions, which had previously disappeared, returned. In addition, thanks to Corbin, beavers also made a comeback. 
+Kronenwetter also notes that once Corbin's game preserve had been stocked, that wolves and mountain lions, which had previously disappeared, returned. Beavers also made a comeback. 
 
 One of my favorite experiences of winter is spying a beaver surveilling the surroundings from his surefooted perch on a small ice floe. The beaver will dive underwater, resurface and clamber back on the floe repeatedly. 
 
