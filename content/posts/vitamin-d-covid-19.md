@@ -51,10 +51,12 @@ What's your strategy?
 
 <hr/>
 
-### Related research
+### Related research and reading
 
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759054/" target="blank">Vitamin D and Respiratory Health</a><br/>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759054/" target="blank">Vitamin D and Respiratory Health</a><br/>National Institutes of Health<br/>
 "...\[T]here is mounting evidence that \[vitamin D] plays a beneficial role in the prevention and/or treatment of a wide range of diseases. In this brief review the known effects of vitamin D on immune function are described in relation to respiratory health. Vitamin D appears capable of inhibiting pulmonary inflammatory responses while enhancing innate defense mechanisms against respiratory pathogens."
 
-<a href="https://pubmed.ncbi.nlm.nih.gov/18400738/" target="blank">Vitamin D deficiency: a worldwide problem with health consequences</a><br/>
+<a href="https://pubmed.ncbi.nlm.nih.gov/18400738/" target="blank">Vitamin D deficiency: a worldwide problem with health consequences</a><br/>National Institutes of Health<br/>
 "Vitamin D deficiency is now recognized as a pandemic. . . Vitamin D deficiency has been associated with increased risk of . . infectious diseases."
+
+<a href="<https://necsi.edu/everyday-life-and-covid19>" target="blank">Everyday Life and COVID-19</a><br/>The New England Complex Systems Institute
