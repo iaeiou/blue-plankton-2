@@ -58,7 +58,3 @@ What's your strategy?
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/18400738/" target="blank">Vitamin D deficiency: a worldwide problem with health consequences</a><br/>
 "Vitamin D deficiency is now recognized as a pandemic. . . Vitamin D deficiency has been associated with increased risk of . . infectious diseases."
-
-Respiratory heath for better COVID-19 outcomes \
-
-* New England Complex Systems Institute
