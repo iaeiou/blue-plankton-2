@@ -14,13 +14,15 @@ First, let's recall that research conducted in 2016 indicated that vitamin D may
 
 ## "a growing body of evidence"
 
-In June 2020 an *Agence France-Presse* [article](https://news.yahoo.com/amphtml/more-evidence-lack-vitamin-d-linked-covid-19-125331345.html) cited a "growing body of evidence which suggests that a vitamin D deficiency could be linked with developing a more severe case of COVID-19." The article was about a medical research study published in the *[British Medical Journal](https://nutrition.bmj.com/content/early/2020/07/01/bmjnph-2020-000110?versioned=true)*. The study that spanned 117 countries.
+In June 2020 an *Agence France-Presse* [article](https://news.yahoo.com/amphtml/more-evidence-lack-vitamin-d-linked-covid-19-125331345.html) cited a "growing body of evidence which suggests that a vitamin D deficiency could be linked with developing a more severe case of COVID-19." 
+
+The article cited a medical research study published in the *[British Medical Journal](https://nutrition.bmj.com/content/early/2020/07/01/bmjnph-2020-000110?versioned=true)*. The study that spanned 117 countries.
 
 Among the study's conclusions: "Evidence linking vitamin D deficiency with COVID-19 severity is circumstantial but growing. . . We . . . urge that vitamin D supplementation . . .  be taken by all those at risk of deficiency, including people with darker skin or living in institutions."
 
 ## "denies the virus easy footholds"
 
-A May 2020 study in the British Medical Journal found that "It is conceivable that vitamin D adequacy [denies the virus easy footholds](https://nutrition.bmj.com/content/early/2020/05/20/bmjnph-2020-000096.full?mod=article_inline) and thereby slows spreading of the contagion."
+A May 2020 study in the *British Medical Journal* found that "It is conceivable that vitamin D adequacy [denies the virus easy footholds](https://nutrition.bmj.com/content/early/2020/05/20/bmjnph-2020-000096.full?mod=article_inline) and thereby slows spreading of the contagion."
 
 A friend alerted me to this [SSRN April 2020 study](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571484) that found: 
 
@@ -32,7 +34,7 @@ A friend alerted me to this [SSRN April 2020 study](https://papers.ssrn.com/sol3
 
 Yes, everyone knows that correlation is not causation. And COVID-19 is a new disease; we're at a frontier of understanding, pushing our way forward month by month. So we can't expect perfect answers at this juncture. 
 
-That's exactly why we need to pay attention to the research that we do have. 
+That's exactly why we need to pay attention to the medical research that we do have. 
 
 ## Summary
 
@@ -41,6 +43,8 @@ A bottle of vitamin D3 is awfully cheap. As long as you don't take too much of i
 For me, it's been part of my daily regimen for years. (I take it with[ vitamin K2](https://www.amazon.com/Spectrum-capsule-Soy-free-Capsules-InnovixLabs/dp/B00T8NROWM/).)  I view D3 as part of my COVID-19 "risk management strategy" along with wearing a mask, careful hand-washing, getting sunshine and fresh air, and maintaining good air ventilation at home. 
 
 What's your strategy? 
+
+<hr/>
 
 ### Related research and reading
 
