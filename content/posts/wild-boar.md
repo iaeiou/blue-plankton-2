@@ -7,7 +7,7 @@ excerpt: Wild boar were spotted running in the ravine out back. Turns out
   hour away.
 layout: post
 ---
-Last Christmas eve wild boar were spotted running in the ravine out back. Three men doing brush fire work here spotted them. They were excited about their discovery. 
+On Christmas Eve wild boar were spotted running in the ravine out back. Three men doing brush fire work here spotted them. They were excited about their discovery. 
 
 I hadn't realized that there are wild boar in New Hampshire. The sighting made me curious to learn more. 
 
