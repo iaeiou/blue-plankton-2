@@ -35,7 +35,7 @@ A friend alerted me to this <a href="https://papers.ssrn.com/sol3/papers.cfm?abs
 
 ## We're at a frontier
 
-Of course, correlation is not causation. COVID-19 is a new disease; we're at a frontier of understanding, pushing our way forward month by month. So we can't expect perfect answers at this juncture. 
+Of course, correlation is not causation. And COVID-19 is a new disease; we're at a frontier of understanding, pushing our way forward month by month. So we can't expect perfect answers at this juncture. 
 
 That's exactly why we need to pay attention to the medical research that we do have. 
 
