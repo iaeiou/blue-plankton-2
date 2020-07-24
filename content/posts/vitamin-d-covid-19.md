@@ -29,19 +29,19 @@ That study explored factors that may contribute to vitamin D deficiency, includi
 
 A friend alerted me to this <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3571484" target="blank">SSRN April 2020 study</a> that found: 
 
-* Of mild COVID-19 cases, 96% had normal vitamin D
-* Of critical  COVID-19 cases, 96% had insufficient/deficient vitamin D
-* Of severe COVID-19 cases, 96% had insufficient/deficient vitamin D
+* Of mild COVID-19 cases, 96% had normal levels of vitamin D 
+* Of critical COVID-19 cases, 96% had insufficient/deficient vitamin D levels
+* Of severe COVID-19 cases, 96% had insufficient/deficient vitamin D levels
 
 ## We're at a frontier
 
-Correlation is not causation. COVID-19 is a new disease; we're at a frontier of understanding, pushing our way forward month by month. So we can't expect perfect answers at this juncture. 
+Of course, correlation is not causation. COVID-19 is a new disease; we're at a frontier of understanding, pushing our way forward month by month. So we can't expect perfect answers at this juncture. 
 
 That's exactly why we need to pay attention to the medical research that we do have. 
 
-## Summary
+## A bet with no downside
 
-A bottle of vitamin D3 is an awfully cheap bet on nascent research. As long as you don't take too much of it, research shows that it can only benefit your health in a number of ways. 
+A bottle of vitamin D3 is an awfully cheap bet on nascent research. And it's a bet that only has upside. As long as you don't take too much of it, research shows that it can benefit your health in myriad ways. 
 
 For me, it's been part of my daily regimen for years. (I take it with <a href="https://www.amazon.com/Spectrum-capsule-Soy-free-Capsules-InnovixLabs/dp/B00T8NROWM/" target="blank"> vitamin K2</a>.)  
 
