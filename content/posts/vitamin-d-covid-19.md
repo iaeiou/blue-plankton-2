@@ -41,7 +41,7 @@ That's exactly why we need to pay attention to the medical research that we do h
 
 ## A bet with no downside
 
-A bottle of vitamin D3 is an awfully cheap bet on nascent research. And it's a bet that only has upside. As long as you don't take too much of it, research shows that it can benefit your health in myriad ways. 
+A bottle of <a href="https://www.amazon.com/dp/B000VN0MSG/ref=twister_B07ZT8XF2S?_encoding=UTF8&psc=1" target="blank">vitamin D3</a> is an awfully cheap bet on nascent research. And it's a bet that only has upside. As long as you don't take too much of it, research shows that it can benefit your health in myriad ways. 
 
 For me, it's been part of my daily regimen for years. (I take it with <a href="https://www.amazon.com/Spectrum-capsule-Soy-free-Capsules-InnovixLabs/dp/B00T8NROWM/" target="blank"> vitamin K2</a>.)  
 
