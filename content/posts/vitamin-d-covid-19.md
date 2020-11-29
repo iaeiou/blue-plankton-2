@@ -57,4 +57,16 @@ What's your strategy?
 "...\[T]here is mounting evidence that \[vitamin D] plays a beneficial role in the prevention and/or treatment of a wide range of diseases. In this brief review the known effects of vitamin D on immune function are described in relation to respiratory health. Vitamin D appears capable of inhibiting pulmonary inflammatory responses while enhancing innate defense mechanisms against respiratory pathogens."
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/18400738/" target="blank">Vitamin D deficiency: a worldwide problem with health consequences</a><br/>National Institutes of Health<br/>
-"Vitamin D deficiency is now recognized as a pandemic. . . Vitamin D deficiency has been associated with increased risk of . . infectious diseases."
+"Vitamin D deficiency is now recognized as a pandemic. . . Vitamin D deficiency has been associated with increased risk of . . infectious diseases."\
+\
+Update: November 29, 2020:\
+I've added some new articles and studies below. 
+
+<a href="https://www.endocrine.org/news-and-advocacy/news-room/2020/study-finds-over-80-percent-of-covid19-patients-have-vitamin-d-deficiency" target="blank">Study finds over 80 percent of COVID-19 patients have vitamin D deficiency</a>
+
+<a href="https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19#:~:text=There%20is%20some%20evidence%20to,with%20COVID%2D19." target="blank">Does vitamin D protect against COVID-19?</a> -- *Harvard Medical School*\
+\
+<a href="https://www.bumc.bu.edu/busm/2020/09/25/adequate-levels-of-vitamin-d-reduces-complications-death-among-covid-19-patients/" target="blank">Adequate Levels of Vitamin D Reduces Complications, Death Among COVID-19 Patients</a> -- Boston University School of Medicine\
+“This study provides direct evidence that vitamin D sufficiency can reduce the complications, including the cytokine storm (release of too many proteins into the blood too quickly) and ultimately death from COVID-19,” explained corresponding author Michael F. Holick, PhD, MD, professor of medicine, physiology and biophysics and molecular medicine."\
+\
+<a href="https://www.bostonherald.com/2020/09/17/vitamin-d-can-help-reduce-coronavirus-risk-by-54-boston-university-doctor/" target="blank">Vitamin D can help reduce coronavirus risk by 54%: Boston University doctor</a>-- Boston Herald story on research by Dr. Michael Holick
