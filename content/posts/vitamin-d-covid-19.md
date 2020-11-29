@@ -53,14 +53,16 @@ What's your strategy?
 
 ### Related reading
 
+General research on vitamin D:
+
 <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2759054/" target="blank">Vitamin D and Respiratory Health</a><br/>National Institutes of Health<br/>
 "...\[T]here is mounting evidence that \[vitamin D] plays a beneficial role in the prevention and/or treatment of a wide range of diseases. In this brief review the known effects of vitamin D on immune function are described in relation to respiratory health. Vitamin D appears capable of inhibiting pulmonary inflammatory responses while enhancing innate defense mechanisms against respiratory pathogens."
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/18400738/" target="blank">Vitamin D deficiency: a worldwide problem with health consequences</a><br/>National Institutes of Health<br/>
 "Vitamin D deficiency is now recognized as a pandemic. . . Vitamin D deficiency has been associated with increased risk of . . infectious diseases."\
 \
-*Update: November 29, 2020:*\
-I've added some new articles and studies below. 
+*Updated: November 29, 2020:*\
+Additional research or medical advice on relationship of vitamin D and COVID-19:
 
 <a href="https://www.endocrine.org/news-and-advocacy/news-room/2020/study-finds-over-80-percent-of-covid19-patients-have-vitamin-d-deficiency" target="blank">Study finds over 80 percent of COVID-19 patients have vitamin D deficiency</a>
 
