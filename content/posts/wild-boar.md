@@ -37,7 +37,7 @@ Corbin imported the wild Eurasian boar from Germany's Black Forest. Like the elk
 
 According to author Mary T. Kronenwetter, some of the boar <a href="http://eastmanliving.com/2011/11/corbin%E2%80%99s-%E2%80%9Canimal-garden%E2%80%9D/#:~:text=Reflections,hunting%20preserve%20in%20New%20Hampshire" target="blank">escaped</a> in 1938 when a hurricane blew down portions of the preserve's fencing. 
 
-Interestingly, the boar's forest companions included bison. Kronenwetter quotes from Ernest Baynes's out-of-print <a href="https://www.amazon.com/Wild-Life-Blue-Mountain-Forest/dp/B00085U516/" target="blank">book about Corbin Park:
+Interestingly, the boar's forest companions included bison. Kronenwetter quotes from Ernest Baynes's out-of-print <a href="https://www.amazon.com/Wild-Life-Blue-Mountain-Forest/dp/B00085U516/" target="blank">book</a> about Corbin Park:
 
 <p style="padding-left: 2.5em;">Of all the works of the late Mr. Austin Corbin, the preservation of that herd of bison was the one that would earn his country’s deepest gratitude. His experiment led to the founding of the <a href="http://www.ambisonsociety.org/" target="blank">American Bison Society</a> and was connected, directly or otherwise, with the formation of some of our national parks.</p>
 
