@@ -35,9 +35,9 @@ The preserve spans some 25,000 square miles and was created by 19th-century rail
 
 Corbin imported the wild Eurasian boar from Germany's Black Forest. Like the elk that roam the park, the boar are not native to New Hampshire. 
 
-According to author Mary T. Kronenwetter, some of the boar [escaped in 1938](http://eastmanliving.com/2011/11/corbin%E2%80%99s-%E2%80%9Canimal-garden%E2%80%9D/#:~:text=Reflections,hunting%20preserve%20in%20New%20Hampshire.) when a hurricane blew down portions of the preserve's fencing. 
+According to author Mary T. Kronenwetter, some of the boar <a href="http://eastmanliving.com/2011/11/corbin%E2%80%99s-%E2%80%9Canimal-garden%E2%80%9D/#:~:text=Reflections,hunting%20preserve%20in%20New%20Hampshire" target="blank">escaped</a> in 1938 when a hurricane blew down portions of the preserve's fencing. 
 
-Interestingly, the boar's forest companions included bison. Kronenwetter quotes from Ernest Baynes's [out-of-print book](https://www.amazon.com/Wild-Life-Blue-Mountain-Forest/dp/B00085U516/) about Corbin Park:
+Interestingly, the boar's forest companions included bison. Kronenwetter quotes from Ernest Baynes's out-of-print <a href="https://www.amazon.com/Wild-Life-Blue-Mountain-Forest/dp/B00085U516/" target="blank">book about Corbin Park:
 
 <p style="padding-left: 2.5em;">Of all the works of the late Mr. Austin Corbin, the preservation of that herd of bison was the one that would earn his country’s deepest gratitude. His experiment led to the founding of the <a href="http://www.ambisonsociety.org/" target="blank">American Bison Society</a> and was connected, directly or otherwise, with the formation of some of our national parks.</p>
 
@@ -47,7 +47,7 @@ One of my favorite experiences of winter is spying a beaver surveilling the surr
 
 ## An expensive hobby
 
-A couple of days after wild boar were spotted in the ravine, a California newspaper ran an interesting story about millionaire George Gordon Moore who had in the 1920s [imported](https://www.sfgate.com/sfhistory/article/One-eccentric-socialite-is-to-blame-for-14916088.php#photo-18798330) wild boar from Europe. 
+A couple of days after wild boar were spotted in the ravine, a California newspaper ran an interesting <a href="https://www.sfgate.com/sfhistory/article/One-eccentric-socialite-is-to-blame-for-14916088.php#photo-18798330" target="blank">story</a> about millionaire George Gordon Moore who had in the 1920s imported wild boar from Europe. 
 
 Throughout the late 1800s and early 1900s wild Eurasian boar were imported to America for sport. Over the years these boar escaped, had romantic dalliances, and spread throughout 35 states. 
 
@@ -55,7 +55,7 @@ Throughout the late 1800s and early 1900s wild Eurasian boar were imported to Am
 
 While spotting boar locally is entertaining, in some areas of the country they are known for the damage they create. They help themselves to crops, eat endangered species, and spread disease according to the USDA. 
 
-While public hunting of boar is allowed in many states, the agency contends that "we can't [barbecue our way out](https://www.usda.gov/media/blog/2014/04/04/we-cant-barbecue-our-way-out-why-feral-swine-management-requires-national)" of the problem and that a coordinated national plan is needed. 
+While public hunting of boar is allowed in many states, the agency contends that "we can't [barbecue our way out](https://www.usda.gov/media/blog/2014/04/04/we-cant-barbecue-our-way-out-why-feral-swine-management-requires-national)" of the problem. 
 
 In the meantime I hope I'll have another opportunity to spy these furry pigs as they make a run for it.
 
