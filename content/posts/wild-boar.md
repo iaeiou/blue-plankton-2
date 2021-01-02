@@ -7,7 +7,7 @@ excerpt: Wild boar were spotted running in the ravine out back. Turns out
   hour away.
 layout: post
 ---
-On Christmas Eve wild boar were spotted running in the ravine out back. Three men from a local excavating business spied them. They were excited about their discovery. 
+On Christmas Eve wild boar were spotted running in the stream-cut ravine out back. Three men from a local excavating business spied them. They were excited about their discovery. 
 
 I hadn't realized that there are wild boar in New Hampshire. The sighting made me curious to learn more. 
 
@@ -23,7 +23,7 @@ According to the New Hampshire Fish and Game Department permission is usually gr
 
 These wild pigs clearly have bureaucracy on their side. 
 
-Years ago, residents were allowed to kill the boar on sight. However that incentivized locals to poach. Fish and Game director Glenn Normandeau explained that "people would put piles of corn outside the fence and cut holes to lure hogs outside and kill them. So we got rid of that law." (Source: *[Concord Monitor](https://www.concordmonitor.com/corbin-park-bluemountain-nh-hunting-preserve-game-31987801)*)
+Years ago, residents were allowed to kill the boar on sight. However that incentivized locals to poach. Fish and Game director Glenn Normandeau [explained](https://www.concordmonitor.com/corbin-park-bluemountain-nh-hunting-preserve-game-31987801) that "people would put piles of corn outside the fence and cut holes to lure hogs outside and kill them. So we got rid of that law."
 
 Roaming wild boar are most commonly found in Grafton, Cheshire, and Sullivan counties, according to the Fish and Game Department. 
 
