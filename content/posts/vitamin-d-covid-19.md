@@ -7,11 +7,11 @@ excerpt: A growing body of research explores the role of vitamin D deficiency in
   could deny the virus a "foothold."
 layout: post
 ---
-An increasing amount of research suggests that having adequate levels of vitamin D may make the difference between having a mild vs severe case of the coronavirus. 
+Research suggests that having adequate levels of vitamin D may make the difference between having a mild versus severe case of the coronavirus. 
 
 Here's why this research, and the recommendations coming from it, are worth paying attention to. 
 
-First, let's recall that research conducted in 2016 indicated that vitamin D may be useful in <a href="https://www.bmj.com/content/356/bmj.i6583" target="blank">preventing acute respiratory tract infections</a>. Among the researchers' conclusions: "Vitamin D supplementation was safe and it protected against acute respiratory tract infection overall."
+First, recall that previous medical research has indicated that vitamin D may be useful in <a href="https://www.bmj.com/content/356/bmj.i6583" target="blank">preventing acute respiratory tract infections</a>. Among the researchers' conclusions: "Vitamin D supplementation was safe and it protected against acute respiratory tract infection overall."
 
 ## "a growing body of evidence"
 
