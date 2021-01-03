@@ -64,8 +64,6 @@ General research on vitamin D:
 *Updated: November 29, 2020:*\
 Additional research or medical advice on relationship of vitamin D and COVID-19:
 
-<a href="https://www.endocrine.org/news-and-advocacy/news-room/2020/study-finds-over-80-percent-of-covid19-patients-have-vitamin-d-deficiency" target="blank">Study finds over 80 percent of COVID-19 patients have vitamin D deficiency</a> ― <i>Endocrine Society</i>
-
 <a href="https://www.health.harvard.edu/diseases-and-conditions/treatments-for-covid-19#:~:text=There%20is%20some%20evidence%20to,with%20COVID%2D19." target="blank">Does vitamin D protect against COVID-19?</a> ― <i>Harvard Medical School</i>
 
 <a href="https://www.bumc.bu.edu/busm/2020/09/25/adequate-levels-of-vitamin-d-reduces-complications-death-among-covid-19-patients/" target="blank">Adequate Levels of Vitamin D Reduces Complications, Death Among COVID-19 Patients</a> ― <i>Boston University School of Medicine</i>
