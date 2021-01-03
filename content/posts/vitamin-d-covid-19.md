@@ -59,7 +59,7 @@ General research on vitamin D:
 "...\[T]here is mounting evidence that \[vitamin D] plays a beneficial role in the prevention and/or treatment of a wide range of diseases. In this brief review the known effects of vitamin D on immune function are described in relation to respiratory health. Vitamin D appears capable of inhibiting pulmonary inflammatory responses while enhancing innate defense mechanisms against respiratory pathogens."
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/18400738/" target="blank">Vitamin D deficiency: a worldwide problem with health consequences</a><br/>National Institutes of Health<br/>
-"Vitamin D deficiency is now recognized as a pandemic. . . Vitamin D deficiency has been associated with increased risk of . . infectious diseases."\
+"Vitamin D deficiency is now recognized as a pandemic. . . Vitamin D deficiency has been associated with increased risk of . . . infectious diseases."\
 \
 *Updated: November 29, 2020:*\
 Additional research or medical advice on relationship of vitamin D and COVID-19:
