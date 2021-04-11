@@ -21,9 +21,11 @@ Part of the smooth rollout is due to the Sununu administration's creation of an 
 
 ## Vaccinations available to out-of-staters
 
-Our state has so much capacity that it's even <a href="https://www.bostonglobe.com/2021/04/09/metro/cant-book-covid-19-vaccine-appointment-soon-you-can-get-shot-new-hampshire/" target="blank">opening up vaccination slots to out-of-state residents</a>. This will likely appeal to our Massachusetts friends over the border.\
-\
+Our state has so much capacity that it's even <a href="https://www.bostonglobe.com/2021/04/09/metro/cant-book-covid-19-vaccine-appointment-soon-you-can-get-shot-new-hampshire/" target="blank">opening up vaccination slots to out-of-state residents</a>. This will likely appeal to our Massachusetts friends over the border.
+
 This availability for out-of-staters begins on April 19. 
+
+> New Hampshire has 250,000 vaccination slots available before Memorial Day.
 
 ## Using the Vaccine Finder
 
