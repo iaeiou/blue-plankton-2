@@ -36,8 +36,9 @@ If you use the Vaccine Finder, and click through on the Walmart link, the inform
 
 The point is, ignore Walmart's website. \
 \
+
 1. You need to register through the <a href="https://www.vaccines.nh.gov/" target="blank">New Hampshire state vaccination website</a>. \
-2. Once you register, you'll be able to book an appointment at Walmart or another pharmacy, or a mass drive-through vaccination site.
+2. Once you register, you'll be able to book an appointment at Walmart or another pharmacy, or at a mass drive-through vaccination site.
 
 ## Summary
 
