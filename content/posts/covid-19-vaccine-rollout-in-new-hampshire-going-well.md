@@ -21,7 +21,7 @@ Currently all 3 vaccines are available in New Hampshire: Moderna's, Pfizer's, an
 
 After doing research, I decided I preferred the Johnson & Johnson vaccine, was able to book an appointment to get it. Realize though, no one can officially guarantee that you'll receive a vaccine made by a particular manufacturer. 
 
-What you can do is use the <a href="https://vaccinefinder.org/" target="blank">Vaccine Finder</a> to search for which vaccines are available at the various sites. Currently, Walmarts in our state only carry the Johnson & Johnson vaccine. As soon as I heard it was available at Walmart, I booked an appointment at Walmart. 
+What you can do is use the <a href="https://vaccinefinder.org/" target="blank">Vaccine Finder</a> to search for which vaccines are available at the various sites. Currently, Walmarts in our state only carry the Johnson & Johnson vaccine. As soon as I heard it was available at Walmart, I booked an appointment. 
 
 Given my appointment was 2 weeks out, I also visited my local Walmart to ask a few questions. Turns out they're expecting another shipment of vaccines, and that one will also be from Johnson & Johnson. So I have a reasonable expectation that once my appointment arrives (now 8 days out) I'll be getting the J&J shot. 
 
