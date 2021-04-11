@@ -11,7 +11,7 @@ New Hampshire has done a good job of rolling out the COVID-19 vaccination progra
 
 Anyone 16 years or older can currently book an appointment to get the vaccine. Those in the youngest age group will have a choice of appointments from April 19 on. 
 
-Our state has so much capacity that it's even [opening up vaccination slots to out-of-state residents](https://www.bostonglobe.com/2021/04/09/metro/cant-book-covid-19-vaccine-appointment-soon-you-can-get-shot-new-hampshire/). This will likely appeal to our Massachusetts friends over the border.
+Our state has so much capacity that it's even <a href="https://www.bostonglobe.com/2021/04/09/metro/cant-book-covid-19-vaccine-appointment-soon-you-can-get-shot-new-hampshire/" target="blank">opening up vaccination slots to out-of-state residents</a>. This will likely appeal to our Massachusetts friends over the border.
 
 Currently all 3 vaccines are available in New Hampshire: Moderna's, Pfizer's, and Johnson & Johnson's. 
 
@@ -21,4 +21,4 @@ Also realize that none of the Johnson & Johnson vaccines (also referred to as th
 
 The COVID-19 vaccines are available in New Hampshire at multiple mass drive-through vaccination sites as well as at pharmacies like CVS and Walgreens.
 
-For more information about getting vaccinated, visit [the official New Hampshire government page](https://www.vaccines.nh.gov/)
+For more information about getting vaccinated, visit <a href="https://www.vaccines.nh.gov/" target="blank">the official New Hampshire government page</a>.
