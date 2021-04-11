@@ -15,9 +15,10 @@ Anyone 16 years or older can currently book an appointment to get the vaccine. T
 
 Our state has so much capacity that it's even <a href="https://www.bostonglobe.com/2021/04/09/metro/cant-book-covid-19-vaccine-appointment-soon-you-can-get-shot-new-hampshire/" target="blank">opening up vaccination slots to out-of-state residents</a>. This will likely appeal to our Massachusetts friends over the border.
 
+Currently all 3 vaccines are available in New Hampshire: Moderna's, Pfizer's, and Johnson & Johnson's. 
+
 > Starting on April 19, out-of-staters will be able to make online appointments to get the vaccine.
 
-Currently all 3 vaccines are available in New Hampshire: Moderna's, Pfizer's, and Johnson & Johnson's. 
 
 ## Using the Vaccine Finder
 
@@ -36,10 +37,9 @@ If you use the Vaccine Finder, and click through on the Walmart link, the inform
 * For example, the Vaccine finder may tell you that your local New Hampshire Walmart has Johnson & Johnson vaccines in stock, but clicking through to the Walmart page will tell you that no Walmarts in New Hampshire have any vaccines at all.
 * The Vaccine Finder information is accurate and up-to-date, Walmart's generic page is not. (On the Vaccine Finder you'll even see when the "stock" was last updated.) 
 
-The point is, ignore Walmart's website. \
-\
+Ignore Walmart's website. 
 
-1. You need to register through the <a href="https://www.vaccines.nh.gov/" target="blank">New Hampshire state vaccination website</a>. \
+1. You need to register through the <a href="https://www.vaccines.nh.gov/" target="blank">New Hampshire state vaccination website</a>. 
 2. Once you register, you'll be able to book an appointment at Walmart or another pharmacy, or at a mass drive-through vaccination site.
 
 ## Summary
