@@ -3,9 +3,11 @@ title: COVID-19 Vaccine Rollout in New Hampshire Going Well
 subtitle: Our state was among the earliest to open up vaccinations to all ages
 date: 2021-04-11T17:41:17.333Z
 thumb_img_path: https://res.cloudinary.com/icecloud7/image/upload/f_auto/v1618164437/covid-19-vaccine_upwbby.png
+excerpt: "New Hampshire has so much capacity that it's opening up vaccinations
+  to out-of-staters. "
 layout: post
 ---
-New Hampshire has done a good job of rolling out the COVID-19 vaccination program, and was among the first states to open up appointments to multiple age groups. 
+New Hampshire has done a good job of rolling out the COVID-19 vaccination program, and was among the first states to open up appointments to all age groups. 
 
 Anyone 16 years or older can currently book an appointment to get the vaccine. Those in the youngest age group will have a choice of appointments from April 19 on. 
 
