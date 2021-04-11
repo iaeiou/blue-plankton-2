@@ -21,9 +21,9 @@ Currently all 3 vaccines are available in New Hampshire: Moderna's, Pfizer's, an
 
 After doing research, I decided I preferred the Johnson & Johnson vaccine, was able to book an appointment to get it. Realize though, no one can officially guarantee that you'll receive a vaccine made by a particular manufacturer. 
 
-What you can do is use the <a href="https://vaccinefinder.org/" target="blank">Vaccine Finder</a> to search for which vaccines are available at the various sites. Currently, Walmarts in our state only carry the Johnson & Johnson vaccine. As soon as I heard it was available at Walmart, I cancelled my appointment at the mass drive-through site, and booked an appointment at Walmart.
+What you can do is use the <a href="https://vaccinefinder.org/" target="blank">Vaccine Finder</a> to search for which vaccines are available at the various sites. Currently, Walmarts in our state only carry the Johnson & Johnson vaccine. As soon as I heard it was available at Walmart, I cancelled my appointment at the mass drive-through site, and booked an appointment at Walmart instead.
 
-Given my appointment was 2 weeks out, I also visited my local Walmart to ask a few questions. Turns out they're expecting another shipment of vaccines, and that one will also be from Johnson & Johnson. So I have a reasonable expectation that once my appointment arrives (in 8 days) 'll be getting the J&J shot. 
+Given my appointment was 2 weeks out, I also visited my local Walmart to ask a few questions. Turns out they're expecting another shipment of vaccines, and that one will also be from Johnson & Johnson. So I have a reasonable expectation that once my appointment arrives (in 8 days) I'll be getting the J&J shot. 
 
 Also realize that none of the Johnson & Johnson vaccines available in New Hampshire were produced at the troubled third-party Baltimore site recently in the news. (*Note: that Baltimore facility is not owned by Johnson & Johnson*.) Also note that the Johnson & Johnson vaccine is sometimes referred to as the Janssen vaccine.
 
@@ -41,7 +41,7 @@ The point is, ignore Walmart's website. \
 
 ## Summary
 
-The COVID-19 vaccines are available in New Hampshire at multiple mass drive-through vaccination sites as well as at pharmacies like CVS and Walgreens.
+The COVID-19 vaccines are available in New Hampshire at multiple mass drive-through vaccination sites as well as at pharmacies like Walmart's, CVS, and Walgreens.
 
 The Vaccine Finder will not tell you which vaccines are available at the mass vaccination sites - only which ones are currently in stock at pharmacies. 
 
