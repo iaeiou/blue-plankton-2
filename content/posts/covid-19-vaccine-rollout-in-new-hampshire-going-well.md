@@ -15,6 +15,8 @@ Anyone 16 years or older can currently book an appointment to get the vaccine. T
 
 Our state has so much capacity that it's even <a href="https://www.bostonglobe.com/2021/04/09/metro/cant-book-covid-19-vaccine-appointment-soon-you-can-get-shot-new-hampshire/" target="blank">opening up vaccination slots to out-of-state residents</a>. This will likely appeal to our Massachusetts friends over the border.
 
+> Starting on April 19, out-of-staters will be able to make online appointments to get the vaccine.
+
 Currently all 3 vaccines are available in New Hampshire: Moderna's, Pfizer's, and Johnson & Johnson's. 
 
 ## Using the Vaccine Finder
