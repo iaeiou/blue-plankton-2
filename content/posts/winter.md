@@ -1,12 +1,10 @@
 ---
-title: 'Staying Warm in Winter: Firewood and Heat'
+title: "Staying Warm in Winter: Tips for New Hampshire Residents"
 subtitle: By Sherrie Gossett
-date: '2018-01-23'
-thumb_img_path: >-
-  https://res.cloudinary.com/icecloud7/image/upload/w_750,q_auto,f_auto,e_sharpen/v1572243919/ruralnh/firewood-by-cabin_qsoubm.png
-content_img_path: ''
-excerpt: >-
-  Firewood delivery wait times can sometimes increase to 2 months with no
+date: 2018-01-23
+thumb_img_path: https://res.cloudinary.com/icecloud7/image/upload/w_750,q_auto,f_auto,e_sharpen/v1572243919/ruralnh/firewood-by-cabin_qsoubm.png
+content_img_path: ""
+excerpt: Firewood delivery wait times can sometimes increase to 2 months with no
   notice. Here are tips on making sure you're ready for winter.
 layout: post
 ---
