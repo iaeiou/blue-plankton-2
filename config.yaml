@@ -5,12 +5,25 @@ params:
   palette: blue
   header:
     title: Rural Living in New Hampshire
-    logo_img: images/rural-new-hampshire-living.png
+    logo_img: /images/avatar-roneo-light-light-blue.png
     has_nav: true
   footer:
     content: "&copy; All rights reserved."
     links:
-      - text: Made @ The Icehouse
+      - text: Made @ Roneo.app
+        url: https://roneo.app
+      - new_window: true
+        text: and Roneo.org
+        url: https://roneo.org
     has_social: true
+menu:
+  main:
+    - identifier: menucustom
+      name: Docs
+      url: /docs
+    - identifier: menucustom-sub
+      name: Documentation 1
+      url: docs/1
+      parent: menucustom
 disableKinds:
   - RSS
