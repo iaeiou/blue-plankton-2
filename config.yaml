@@ -2,13 +2,13 @@ title: Living in Rural New Hampshire
 baseURL: /
 params:
   layout_style: grid
-  palette: green
+  palette: blue
   header:
     title: Rural Living in New Hampshire
     logo_img: images/rural-new-hampshire-living.png
     has_nav: true
   footer:
-    content: '&copy; All rights reserved.'
+    content: "&copy; All rights reserved."
     links:
       - text: Made @ The Icehouse
     has_social: true
