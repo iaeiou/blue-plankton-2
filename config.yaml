@@ -1,7 +1,7 @@
 title: Living in Rural New Hampshire
 baseURL: /
 params:
-  layout_style: grid
+  layout_style: list
   palette: blue
   header:
     title: Rural Living in New Hampshire
@@ -23,7 +23,7 @@ menu:
       url: /docs
     - identifier: menucustom-sub
       name: Documentation 1
-      url: docs/1
+      url: docs1
       parent: menucustom
 disableKinds:
   - RSS
